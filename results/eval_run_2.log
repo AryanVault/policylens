@@ -1,0 +1,264 @@
+Running 177 extraction(s) with 16 workers
+  [1/177] claude-fable-5-2:low doc_013 10/10 $0.0660 11.0s
+  [2/177] claude-fable-5-2:low doc_005 10/10 $0.0657 11.2s
+  [3/177] claude-fable-5-2:low doc_011 10/10 $0.0654 10.9s
+  [4/177] claude-fable-5-2:low doc_010 10/10 $0.0650 11.0s
+  [5/177] claude-fable-5-2:low doc_006 10/10 $0.0651 11.2s
+  [6/177] claude-fable-5-2:low doc_008 10/10 $0.0666 11.1s
+  [7/177] claude-fable-5-2:low doc_019 10/10 $0.0665 10.9s
+  [8/177] claude-fable-5-2:low doc_012 10/10 $0.0650 11.0s
+  [9/177] claude-fable-5-2:low doc_009 10/10 $0.0689 11.2s
+  [10/177] claude-fable-5-2:low doc_016 10/10 $0.0658 10.8s
+  [11/177] claude-fable-5-2:low doc_004 10/10 $0.0722 11.3s
+  [12/177] claude-fable-5-2:low doc_017 10/10 $0.0666 11.0s
+  [13/177] claude-fable-5-2:low doc_018 10/10 $0.0659 11.0s
+  [14/177] claude-fable-5-2:low doc_014 10/10 $0.0664 11.1s
+  [15/177] claude-fable-5-2:low doc_015 10/10 $0.0645 11.1s
+  [16/177] claude-fable-5-2:low doc_007 10/10 $0.0682 11.3s
+  [17/177] claude-fable-5-2:low doc_020 10/10 $0.0672 3.5s
+  [18/177] claude-fable-5-2:low doc_021 10/10 $0.0642 3.5s
+  [19/177] claude-fable-5-2:low doc_022 10/10 $0.0652 3.7s
+  [20/177] claude-fable-5-2:low doc_023 10/10 $0.0656 3.7s
+  [21/177] claude-fable-5-2:low doc_028 10/10 $0.0683 3.5s
+  [22/177] claude-fable-5-2:low doc_030 10/10 $0.0656 3.6s
+  [23/177] claude-fable-5-2:low doc_025 10/10 $0.0695 4.1s
+  [24/177] claude-fable-5-2:low doc_024 10/10 $0.0654 4.3s
+  [25/177] claude-fable-5-2:low doc_033 10/10 $0.0644 3.9s
+  [26/177] claude-fable-5-2:low doc_027 10/10 $0.0657 4.3s
+  [27/177] claude-fable-5-2:low doc_032 10/10 $0.0665 4.1s
+  [28/177] claude-fable-5-2:low doc_029 10/10 $0.0671 4.3s
+  [29/177] claude-fable-5-2:low doc_035 10/10 $0.0669 4.2s
+  [30/177] claude-fable-5-2:low doc_026 10/10 $0.0667 4.9s
+  [31/177] claude-fable-5-2:low doc_031 10/10 $0.0688 4.7s
+  [32/177] claude-fable-5-2:low doc_034 10/10 $0.0654 4.6s
+  [33/177] claude-fable-5-2:low doc_036 10/10 $0.0653 2.7s
+  [34/177] claude-fable-5-2:low doc_037 10/10 $0.0651 2.7s
+  [35/177] claude-fable-5-2:low doc_038 10/10 $0.0664 2.9s
+  [36/177] claude-fable-5-2:low doc_039 10/10 $0.0672 2.9s
+  [37/177] claude-fable-5-2:low doc_040 10/10 $0.0657 3.0s
+  [38/177] claude-fable-5-2:low doc_042 10/10 $0.0642 2.8s
+  [39/177] claude-fable-5-2:low doc_041 10/10 $0.0659 3.0s
+  [40/177] claude-fable-5-2:low doc_046 10/10 $0.0656 2.7s
+  [41/177] claude-fable-5-2:low doc_043 10/10 $0.0668 3.1s
+  [42/177] claude-fable-5-2:low doc_045 10/10 $0.0508 2.9s
+  [43/177] claude-fable-5-2:low doc_047 10/10 $0.0651 2.7s
+  [44/177] claude-fable-5-2:low doc_044 10/10 $0.0689 3.0s
+  [45/177] claude-fable-5-2:low doc_050 10/10 $0.0648 3.0s
+  [46/177] claude-fable-5-2:low doc_051 10/10 $0.0664 3.0s
+  [47/177] claude-fable-5-2:low doc_049 10/10 $0.0689 3.4s
+  [48/177] claude-haiku-5-5:low:r2 doc_002 10/10 $0.0008 1.7s
+  [49/177] claude-haiku-5-5:low:r2 doc_001 10/10 $0.0009 1.7s
+  [50/177] claude-fable-5-2:low doc_054 10/10 $0.0663 2.7s
+  [51/177] claude-fable-5-2:low doc_053 10/10 $0.0658 3.2s
+  [52/177] claude-fable-5-2:low doc_055 10/10 $0.0543 2.8s
+  [53/177] claude-fable-5-2:low doc_052 9/10 $0.0691 3.5s
+  [54/177] claude-fable-5-2:low doc_057 10/10 $0.0514 2.5s
+  [55/177] claude-haiku-5-5:low:r2 doc_003 10/10 $0.0008 2.0s
+  [56/177] claude-fable-5-2:low doc_058 10/10 $0.0654 2.5s
+  [57/177] claude-fable-5-2:low doc_056 10/10 $0.0662 2.8s
+  [58/177] claude-fable-5-2:low doc_059 10/10 $0.0680 2.5s
+  [59/177] claude-fable-5-2:low doc_048 10/10 $0.0634 5.1s
+  [60/177] claude-fable-5-2:low doc_060 10/10 $0.0648 3.0s
+  [61/177] claude-haiku-5-5:low:r2 doc_005 10/10 $0.0008 2.3s
+  [62/177] claude-haiku-5-5:low:r2 doc_008 9/10 $0.0008 1.6s
+  [63/177] claude-haiku-5-5:low:r2 doc_004 10/10 $0.0010 2.7s
+  [64/177] claude-haiku-5-5:low:r2 doc_006 10/10 $0.0008 2.5s
+  [65/177] claude-haiku-5-5:low:r2 doc_009 10/10 $0.0009 1.9s
+  [66/177] claude-haiku-5-5:low:r2 doc_012 10/10 $0.0008 1.8s
+  [67/177] claude-haiku-5-5:low:r2 doc_013 10/10 $0.0008 1.8s  [68/177] claude-haiku-5-5:low:r2 doc_011 10/10 $0.0008 1.9s
+
+  [69/177] claude-haiku-5-5:low:r2 doc_007 10/10 $0.0009 2.6s
+  [70/177] claude-haiku-5-5:low:r2 doc_017 10/10 $0.0008 2.0s  [71/177] claude-haiku-5-5:low:r2 doc_018 10/10 $0.0008 1.8s
+
+  [72/177] claude-haiku-5-5:low:r2 doc_010 10/10 $0.0009 2.6s
+  [73/177] claude-haiku-5-5:low:r2 doc_014 10/10 $0.0010 2.8s
+  [74/177] claude-haiku-5-5:low:r2 doc_015 10/10 $0.0010 2.9s
+  [75/177] claude-haiku-5-5:low:r2 doc_020 10/10 $0.0008 1.8s
+  [76/177] claude-haiku-5-5:low:r2 doc_021 10/10 $0.0008 1.9s
+  [77/177] claude-haiku-5-5:low:r2 doc_019 10/10 $0.0008 2.4s
+  [78/177] claude-haiku-5-5:low:r2 doc_016 10/10 $0.0009 3.4s
+  [79/177] claude-haiku-5-5:low:r2 doc_022 10/10 $0.0008 2.2s
+  [80/177] claude-haiku-5-5:low:r2 doc_024 10/10 $0.0008 2.3s
+  [81/177] claude-haiku-5-5:low:r2 doc_027 10/10 $0.0008 2.2s
+  [82/177] claude-haiku-5-5:low:r2 doc_026 10/10 $0.0008 2.3s
+  [83/177] claude-haiku-5-5:low:r2 doc_023 10/10 $0.0008 2.8s
+  [84/177] claude-haiku-5-5:low:r2 doc_025 10/10 $0.0009 2.7s
+  [85/177] claude-haiku-5-5:low:r2 doc_028 10/10 $0.0009 2.3s
+  [86/177] claude-haiku-5-5:low:r2 doc_029 10/10 $0.0008 2.6s
+  [87/177] claude-haiku-5-5:low:r2 doc_031 10/10 $0.0009 2.7s
+  [88/177] claude-haiku-5-5:low:r2 doc_033 10/10 $0.0008 2.2s
+  [89/177] claude-haiku-5-5:low:r2 doc_034 10/10 $0.0008 2.2s
+  [90/177] claude-haiku-5-5:low:r2 doc_037 10/10 $0.0008 2.1s
+  [91/177] claude-haiku-5-5:low:r2 doc_032 10/10 $0.0009 3.0s
+  [92/177] claude-haiku-5-5:low:r2 doc_030 10/10 $0.0009 3.6s
+  [93/177] claude-haiku-5-5:low:r2 doc_036 10/10 $0.0008 2.7s
+  [94/177] claude-haiku-5-5:low:r2 doc_039 10/10 $0.0008 2.1s
+  [95/177] claude-haiku-5-5:low:r2 doc_035 10/10 $0.0009 3.5s
+  [96/177] claude-haiku-5-5:low:r2 doc_044 10/10 $0.0009 2.2s
+  [97/177] claude-haiku-5-5:low:r2 doc_047 10/10 $0.0008 1.6s
+  [98/177] claude-haiku-5-5:low:r2 doc_046 10/10 $0.0008 1.8s
+  [99/177] claude-haiku-5-5:low:r2 doc_045 10/10 $0.0006 1.9s
+  [100/177] claude-haiku-5-5:low:r2 doc_038 10/10 $0.0009 3.5s
+  [101/177] claude-haiku-5-5:low:r2 doc_048 10/10 $0.0008 1.9s
+  [102/177] claude-haiku-5-5:low:r2 doc_043 10/10 $0.0008 2.8s
+  [103/177] claude-haiku-5-5:low:r2 doc_042 10/10 $0.0008 2.9s
+  [104/177] claude-haiku-5-5:low:r2 doc_041 10/10 $0.0008 3.0s
+  [105/177] claude-haiku-5-5:low:r2 doc_040 10/10 $0.0010 3.7s
+  [106/177] claude-haiku-5-5:low:r2 doc_053 10/10 $0.0008 1.6s
+  [107/177] claude-haiku-5-5:low:r2 doc_049 10/10 $0.0009 2.5s
+  [108/177] claude-haiku-5-5:low:r2 doc_054 10/10 $0.0008 1.8s
+  [109/177] claude-haiku-5-5:low:r2 doc_050 10/10 $0.0009 2.6s
+  [110/177] claude-haiku-5-5:low:r2 doc_052 9/10 $0.0009 2.5s
+  [111/177] claude-haiku-5-5:low:r2 doc_055 10/10 $0.0007 1.8s
+  [112/177] claude-haiku-5-5:low:r2 doc_051 10/10 $0.0010 2.8s
+  [113/177] claude-haiku-5-5:low:r2 doc_059 10/10 $0.0009 1.7s
+  [114/177] claude-haiku-5-5:low:r2 doc_058 10/10 $0.0008 1.8s
+  [115/177] claude-haiku-5-5:low:r2 doc_060 10/10 $0.0008 1.7s
+  [116/177] claude-haiku-5-5:low:r3 doc_002 10/10 $0.0008 1.8s
+  [117/177] claude-haiku-5-5:low:r3 doc_001 10/10 $0.0009 1.9s
+  [118/177] claude-haiku-5-5:low:r2 doc_056 10/10 $0.0009 2.4s
+  [119/177] claude-haiku-5-5:low:r2 doc_057 10/10 $0.0006 2.4s
+  [120/177] claude-haiku-5-5:low:r3 doc_004 10/10 $0.0009 2.0s
+  [121/177] claude-haiku-5-5:low:r3 doc_003 10/10 $0.0009 2.5s
+  [122/177] claude-haiku-5-5:low:r3 doc_006 10/10 $0.0008 1.6s
+  [123/177] claude-haiku-5-5:low:r3 doc_005 10/10 $0.0008 2.3s
+  [124/177] claude-haiku-5-5:low:r3 doc_008 9/10 $0.0008 1.7s
+  [125/177] claude-haiku-5-5:low:r3 doc_009 10/10 $0.0009 1.6s
+  [126/177] claude-haiku-5-5:low:r3 doc_013 10/10 $0.0008 1.7s
+  [127/177] claude-haiku-5-5:low:r3 doc_011 10/10 $0.0008 2.0s
+  [128/177] claude-haiku-5-5:low:r3 doc_012 10/10 $0.0008 2.0s
+  [129/177] claude-haiku-5-5:low:r3 doc_007 10/10 $0.0009 2.5s
+  [130/177] claude-haiku-5-5:low:r3 doc_018 10/10 $0.0008 1.7s
+  [131/177] claude-haiku-5-5:low:r3 doc_017 10/10 $0.0008 1.9s
+  [132/177] claude-haiku-5-5:low:r3 doc_010 10/10 $0.0009 2.6s
+  [133/177] claude-haiku-5-5:low:r3 doc_014 10/10 $0.0010 2.8s
+  [134/177] claude-haiku-5-5:low:r3 doc_021 10/10 $0.0008 1.9s
+  [135/177] claude-haiku-5-5:low:r3 doc_019 10/10 $0.0008 2.5s
+  [136/177] claude-haiku-5-5:low:r3 doc_015 10/10 $0.0010 3.3s
+  [137/177] claude-haiku-5-5:low:r3 doc_016 10/10 $0.0009 3.4s
+  [138/177] claude-haiku-5-5:low:r3 doc_024 10/10 $0.0008 2.3s
+  [139/177] claude-haiku-5-5:low:r3 doc_020 10/10 $0.0010 2.9s
+  [140/177] claude-haiku-5-5:low:r3 doc_022 10/10 $0.0008 2.7s
+  [141/177] claude-haiku-5-5:low:r3 doc_027 10/10 $0.0008 2.0s
+  [142/177] claude-haiku-5-5:low:r3 doc_026 10/10 $0.0008 2.2s
+  [143/177] claude-haiku-5-5:low:r3 doc_025 10/10 $0.0009 2.8s
+  [144/177] claude-haiku-5-5:low:r3 doc_028 10/10 $0.0009 2.6s
+  [145/177] claude-haiku-5-5:low:r3 doc_031 10/10 $0.0009 2.5s
+  [146/177] claude-haiku-5-5:low:r3 doc_029 10/10 $0.0008 2.7s
+  [147/177] claude-haiku-5-5:low:r3 doc_033 10/10 $0.0008 2.6s
+  [148/177] claude-haiku-5-5:low:r3 doc_023 10/10 $0.0008 3.5s  [149/177] claude-haiku-5-5:low:r3 doc_030 10/10 $0.0010 4.8s
+  [150/177] claude-haiku-5-5:low:r3 doc_034 10/10 $0.0009 3.8s
+
+  [151/177] claude-haiku-5-5:low:r3 doc_032 10/10 $0.0009 4.2s  [152/177] claude-haiku-5-5:low:r3 doc_036 10/10 $0.0008 3.3s
+
+  [153/177] claude-haiku-5-5:low:r3 doc_037 10/10 $0.0008 4.6s
+  [154/177] claude-haiku-5-5:low:r3 doc_035 10/10 $0.0009 4.9s
+  [155/177] claude-haiku-5-5:low:r3 doc_039 10/10 $0.0008 4.1s
+  [156/177] claude-haiku-5-5:low:r3 doc_038 10/10 $0.0008 4.6s
+  [157/177] claude-haiku-5-5:low:r3 doc_044 10/10 $0.0009 2.0s
+  [158/177] claude-haiku-5-5:low:r3 doc_047 10/10 $0.0008 2.0s
+  [159/177] claude-haiku-5-5:low:r3 doc_041 10/10 $0.0008 3.6s
+  [160/177] claude-haiku-5-5:low:r3 doc_043 10/10 $0.0008 2.7s
+  [161/177] claude-haiku-5-5:low:r3 doc_040 10/10 $0.0009 4.9s
+  [162/177] claude-haiku-5-5:low:r3 doc_045 10/10 $0.0007 2.4s
+  [163/177] claude-haiku-5-5:low:r3 doc_042 10/10 $0.0008 3.1s
+  [164/177] claude-haiku-5-5:low:r3 doc_046 10/10 $0.0009 2.7s
+  [165/177] claude-haiku-5-5:low:r3 doc_050 10/10 $0.0009 2.5s
+  [166/177] claude-haiku-5-5:low:r3 doc_048 10/10 $0.0009 3.1s
+  [167/177] claude-haiku-5-5:low:r3 doc_049 10/10 $0.0009 3.2s
+  [168/177] claude-haiku-5-5:low:r3 doc_051 10/10 $0.0010 3.3s
+  [169/177] claude-haiku-5-5:low:r3 doc_053 10/10 $0.0008 2.4s
+  [170/177] claude-haiku-5-5:low:r3 doc_055 10/10 $0.0007 2.1s
+  [171/177] claude-haiku-5-5:low:r3 doc_052 9/10 $0.0009 2.7s
+  [172/177] claude-haiku-5-5:low:r3 doc_058 10/10 $0.0008 1.8s
+  [173/177] claude-haiku-5-5:low:r3 doc_059 10/10 $0.0009 1.7s
+  [174/177] claude-haiku-5-5:low:r3 doc_060 10/10 $0.0008 1.8s
+  [175/177] claude-haiku-5-5:low:r3 doc_054 10/10 $0.0008 2.7s
+  [176/177] claude-haiku-5-5:low:r3 doc_057 10/10 $0.0006 2.4s
+  [177/177] claude-haiku-5-5:low:r3 doc_056 10/10 $0.0009 2.7s
+
+# PolicyLens extraction eval
+
+Exact match per field after normalization (amounts to paise, dates to ISO, names case/punctuation/suffix-insensitive). Null vs null counts as correct. Rows with fewer than 60 docs were stopped by a deadline and cover the first docs only.
+
+| Config | Docs | Overall field accuracy | All-fields-correct docs | Failures | Cost/doc | Mean latency | p95 latency | Projected cost (60 docs) |
+|---|---|---|---|---|---|---|---|---|
+| claude-haiku-5-5:low | 60 | 99.7% | 96.7% | 0 | $0.0009 | 3.3s | 7.1s | $0.05 |
+| claude-haiku-5-5:low:r2 | 60 | 99.7% | 96.7% | 0 | $0.0008 | 2.3s | 3.5s | $0.05 |
+| claude-haiku-5-5:low:r3 | 60 | 99.7% | 96.7% | 0 | $0.0009 | 2.7s | 4.6s | $0.05 |
+| claude-sonnet-5-5:low | 60 | 99.5% | 95.0% | 0 | $0.0164 | 3.0s | 3.5s | $0.98 |
+| claude-opus-5-5:low | 60 | 99.8% | 98.3% | 0 | $0.0328 | 3.4s | 3.9s | $1.97 |
+| claude-opus-5-5:medium | 60 | 99.8% | 98.3% | 0 | $0.0329 | 3.6s | 4.8s | $1.98 |
+| claude-fable-5-2:low | 60 | 99.8% | 98.3% | 0 | $0.0657 | 5.6s | 11.2s | $3.94 |
+
+**Projected cost of all configs on 60 docs: $9.02** (actually spent in this results folder, including retries: $9.02)
+
+Per-field accuracy:
+
+| Field | claude-haiku-5-5:low | claude-haiku-5-5:low:r2 | claude-haiku-5-5:low:r3 | claude-sonnet-5-5:low | claude-opus-5-5:low | claude-opus-5-5:medium | claude-fable-5-2:low |
+|---|---|---|---|---|---|---|---|
+| insured_name | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
+| insurer_name | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
+| policy_or_bond_number | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
+| document_type | 98% | 98% | 98% | 100% | 100% | 100% | 100% |
+| sum_insured | 100% | 100% | 100% | 97% | 100% | 100% | 100% |
+| premium | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
+| gst_amount | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
+| period_start | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
+| period_end | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
+| beneficiary | 98% | 98% | 98% | 98% | 98% | 98% | 98% |
+
+## Run-to-run variance: claude-haiku-5-5 at low effort (3 runs, 60 docs present in every run)
+
+| Run | Field accuracy | All-fields-correct docs | Field errors |
+|---|---|---|---|
+| claude-haiku-5-5:low | 99.7% | 96.7% | 2 |
+| claude-haiku-5-5:low:r2 | 99.7% | 96.7% | 2 |
+| claude-haiku-5-5:low:r3 | 99.7% | 96.7% | 2 |
+
+Of 600 doc-fields, 0 got a different (normalized) value in at least one run and 0 flipped between right and wrong.
+
+## Human-review flag
+
+A document is routed to a person if any field's confidence is below 0.80, GST is not 18% of the premium (±₹1) or is present without a premium, the end date is not after the start date, or extraction failed. The flag sees only the model's output, never the truth. Catches are counted per document: a flagged document gets every field checked by a person.
+
+| Config | Docs | Flagged | Docs with errors | Errored docs caught | Field errors caught | False alarms (flagged, no error) |
+|---|---|---|---|---|---|---|
+| claude-haiku-5-5:low | 60 | 5 (8%) | 2 | 0/2 | 0/2 | 5 |
+| claude-haiku-5-5:low:r2 | 60 | 4 (7%) | 2 | 0/2 | 0/2 | 4 |
+| claude-haiku-5-5:low:r3 | 60 | 3 (5%) | 2 | 0/2 | 0/2 | 3 |
+| claude-sonnet-5-5:low | 60 | 1 (2%) | 3 | 0/3 | 0/3 | 1 |
+| claude-opus-5-5:low | 60 | 0 (0%) | 1 | 0/1 | 0/1 | 0 |
+| claude-opus-5-5:medium | 60 | 1 (2%) | 1 | 0/1 | 0/1 | 1 |
+| claude-fable-5-2:low | 60 | 0 (0%) | 1 | 0/1 | 0/1 | 0 |
+| **all configs** | 420 | 14 (3%) | 12 | 0/12 | 0/12 | 14 |
+
+Confidence-threshold sweep (all configs pooled; 0.80 is the default, fixed before looking at results):
+
+| Threshold | Flagged docs | Errored docs caught | Field errors caught | False alarms |
+|---|---|---|---|---|
+| 0.50 | 0/420 | 0/12 | 0/12 | 0 |
+| 0.70 | 10/420 | 0/12 | 0/12 | 10 |
+| 0.80 | 14/420 | 0/12 | 0/12 | 14 |
+| 0.90 | 76/420 | 5/12 | 5/12 | 71 |
+| 0.95 | 294/420 | 11/12 | 11/12 | 283 |
+| 0.99 | 420/420 | 12/12 | 12/12 | 408 |
+
+Rules that fired at 0.80 (documents, all configs pooled): low_confidence: 14.
+
+## Every miss
+
+| Config | Doc | Field | Truth | Predicted | Confidence | Flagged at 0.80? |
+|---|---|---|---|---|---|---|
+| claude-haiku-5-5:low | doc_008 | document_type | liability | other | 0.90 | no |
+| claude-haiku-5-5:low | doc_052 | beneficiary | Avadh Metropolitan Drainage & Civic Works Board | Avadh Metropolitan Drainage & Civic Works Board, Lucknow | 0.94 | no |
+| claude-haiku-5-5:low:r2 | doc_008 | document_type | liability | other | 0.90 | no |
+| claude-haiku-5-5:low:r2 | doc_052 | beneficiary | Avadh Metropolitan Drainage & Civic Works Board | Avadh Metropolitan Drainage & Civic Works Board, Lucknow | 0.95 | no |
+| claude-haiku-5-5:low:r3 | doc_008 | document_type | liability | other | 0.90 | no |
+| claude-haiku-5-5:low:r3 | doc_052 | beneficiary | Avadh Metropolitan Drainage & Civic Works Board | Avadh Metropolitan Drainage & Civic Works Board, Lucknow | 0.93 | no |
+| claude-sonnet-5-5:low | doc_034 | sum_insured | 485000000.0 | 4850000000.0 | 0.97 | no |
+| claude-sonnet-5-5:low | doc_037 | sum_insured | 200000000.0 | 2000000000.0 | 0.90 | no |
+| claude-sonnet-5-5:low | doc_052 | beneficiary | Avadh Metropolitan Drainage & Civic Works Board | Avadh Metropolitan Drainage & Civic Works Board, Lucknow | 0.95 | no |
+| claude-opus-5-5:low | doc_052 | beneficiary | Avadh Metropolitan Drainage & Civic Works Board | Avadh Metropolitan Drainage & Civic Works Board, Lucknow | 0.88 | no |
+| claude-opus-5-5:medium | doc_052 | beneficiary | Avadh Metropolitan Drainage & Civic Works Board | Avadh Metropolitan Drainage & Civic Works Board, Lucknow | 0.88 | no |
+| claude-fable-5-2:low | doc_052 | beneficiary | Avadh Metropolitan Drainage & Civic Works Board | Avadh Metropolitan Drainage & Civic Works Board, Lucknow | 0.90 | no |
