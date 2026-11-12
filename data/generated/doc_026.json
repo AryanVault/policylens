@@ -1,0 +1,121 @@
+{
+  "plan": {
+    "doc_id": "doc_026",
+    "document_type": "fire",
+    "layout": "two_column",
+    "amount_style": "rupee_indian",
+    "date_style": "dmy_slash",
+    "insurer": "Konark General Insurance Company Ltd.",
+    "party_hint": "auto-components manufacturer in Chennai",
+    "omit": [
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrPzj2oaWdxpoGZRMRZ",
+  "generated": {
+    "truth": {
+      "insured_name": "Velachery Precision Autoparts Private Limited",
+      "insurer_name": "Konark General Insurance Company Ltd.",
+      "policy_or_bond_number": "KGI/CHN/1101/FIR/2025/004712",
+      "document_type": "fire",
+      "sum_insured": 487500000.0,
+      "premium": 219375.0,
+      "gst_amount": null,
+      "period_start": "2025-07-15",
+      "period_end": "2026-07-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Velachery Precision Autoparts Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Konark General Insurance Company Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "KGI/CHN/1101/FIR/2025/004712"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured",
+        "text": "₹48,75,00,000.00"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "₹2,19,375.00"
+      },
+      "gst_amount": null,
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15/07/2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "14/07/2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Bharat Sookshma / Laghu Udyam Excluded - Standard Fire and Special Perils Policy Schedule",
+    "insurer_address": "Konark General Insurance Company Ltd., Regd. & Corporate Office: 7th Floor, Suryodaya Towers, Plot C-14, Bandra Kurla Complex, Mumbai - 400051. CIN: U66010MH2008PLC187345. Issuing Office: 3rd Floor, Anna Salai Commercial Centre, 512 Anna Salai, Teynampet, Chennai - 600018",
+    "insured_address": "Plot No. B-27, SIPCOT Industrial Estate Phase II, Oragadam, Sriperumbudur Taluk, Kancheepuram District, Tamil Nadu - 602105",
+    "extra_rows": [
+      {
+        "label": "Insured GSTIN",
+        "value": "33AABCV4821K1Z7"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN612RP0014V01202425"
+      },
+      {
+        "label": "Location of Risk",
+        "value": "Plot No. B-27, SIPCOT Industrial Estate Phase II, Oragadam, Tamil Nadu - 602105 (Factory, Machine Shop and Finished Goods Store)"
+      },
+      {
+        "label": "Occupancy",
+        "value": "Automobile Ancillary Units - Engineering Workshop (IIB Code 1513)"
+      },
+      {
+        "label": "Deductible (each and every loss)",
+        "value": "₹5,00,000.00"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-TN-04417 / Coromandel Risk Advisory Insurance Brokers Pvt. Ltd."
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "₹1.00"
+      },
+      {
+        "label": "Premium Receipt No.",
+        "value": "KGI-RCPT-CHN-25-0381956 dated 14/07/2025"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Description of Property Insured",
+        "body": "Building including plinth and foundation, plant and machinery including CNC turning centres, forging presses and heat treatment furnaces, furniture, fixtures and fittings, and stocks of raw material, work-in-process and finished automotive components including steering knuckles, brake drums and transmission shafts, all situated at the location of risk stated in this schedule. Values are declared on reinstatement value basis for building and plant and on market value basis for stocks."
+      },
+      {
+        "heading": "Perils Covered",
+        "body": "Fire; lightning; explosion or implosion; aircraft damage; riot, strike and malicious damage; storm, cyclone, typhoon, tempest, hurricane, tornado, tsunami, flood and inundation; impact damage; subsidence and landslide including rock slide; bursting and/or overflowing of water tanks, apparatus and pipes; missile testing operations; leakage from automatic sprinkler installations; and bush fire, subject to the terms, conditions and exclusions of the policy wording."
+      },
+      {
+        "heading": "Add-on Covers Opted",
+        "body": "Earthquake (fire and shock); Terrorism Damage Cover as per the Indian Market Terrorism Risk Insurance Pool terms; Spontaneous Combustion; Removal of Debris up to 1% of claim amount in excess of standard limit; Architects, Surveyors and Consulting Engineers fees up to 3% of claim amount. Escalation clause at 10% applies to building and plant and machinery only."
+      },
+      {
+        "heading": "Warranties and Conditions",
+        "body": "Hydrant system and portable fire extinguishers to be maintained in efficient working condition as per Fire Protection Association norms. Hot work permit system to be followed in the forging and welding bays. Stock declarations are not applicable. The policy is subject to the Reinstatement Value Clause, Pair and Set Clause, Local Authorities Clause and the Agreed Bank Clause in favour of the hypothecating bank, if endorsed. Premium has been received in advance in compliance with Section 64VB of the Insurance Act, 1938."
+      },
+      {
+        "heading": "Claims Intimation and Grievance Redressal",
+        "body": "In the event of loss, intimate the issuing office or the 24x7 helpline 1800-419-5566 immediately and in any case within 7 days. Grievances may be addressed to the Grievance Redressal Officer at grievance@konarkgeneral-example.in. If not resolved within 14 days, the insured may approach the Bima Bharosa portal of IRDAI or the Insurance Ombudsman, Chennai, as per the Insurance Ombudsman Rules, 2017."
+      }
+    ],
+    "signatory": "For and on behalf of Konark General Insurance Company Ltd. - Authorised Signatory, Commercial Lines Underwriting, Chennai Regional Office"
+  }
+}

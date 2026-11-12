@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_040",
+    "document_type": "liability",
+    "layout": "schedule_table",
+    "amount_style": "lakh_crore",
+    "date_style": "ordinal_long",
+    "insurer": "Ganga Valley General Insurance Co. Ltd.",
+    "party_hint": "water-supply pipeline contractor in Bhubaneswar",
+    "omit": []
+  },
+  "request_id": "req_011CgyrVqiUCE5TyfVJecFTC",
+  "generated": {
+    "truth": {
+      "insured_name": "Kalinga Jalpath Infra Projects Pvt. Ltd.",
+      "insurer_name": "Ganga Valley General Insurance Co. Ltd.",
+      "policy_or_bond_number": "GVG/PL/2101/2025/0412387",
+      "document_type": "liability",
+      "sum_insured": 20000000.0,
+      "premium": 48500.0,
+      "gst_amount": 8730.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Kalinga Jalpath Infra Projects Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Ganga Valley General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "GVG/PL/2101/2025/0412387"
+      },
+      "sum_insured": {
+        "label": "Limit of Indemnity - Any One Year (AOY)",
+        "text": "₹ 2 Crore"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 48,500"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 8,730"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15th June 2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (midnight)",
+        "text": "14th June 2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Public Liability Insurance Policy (Contractor's Operations) - Policy Schedule",
+    "insurer_address": "Ganga Valley General Insurance Co. Ltd., Regional Office: 4th Floor, Utkal Trade Tower, Janpath, Unit-III, Bhubaneswar - 751001, Odisha. Regd. Office: 11 Riverside Chambers, Ashram Road, Haridwar - 249401. CIN: U66010UR2009PLC031472. IRDAI Reg. No. 187",
+    "insured_address": "Plot No. 214/B, Mancheswar Industrial Estate, Rasulgarh, Bhubaneswar - 751010, Odisha",
+    "extra_rows": [
+      {
+        "label": "Insured GSTIN",
+        "value": "21AAKCK4821M1Z6"
+      },
+      {
+        "label": "Product UIN",
+        "value": "GVGLIPL25001V012425"
+      },
+      {
+        "label": "Limit of Indemnity - Any One Accident (AOA)",
+        "value": "₹ 50 Lakhs"
+      },
+      {
+        "label": "Compulsory Deductible (each and every claim, Third Party Property Damage)",
+        "value": "Rs. 25,000"
+      },
+      {
+        "label": "CGST @ 9% / SGST @ 9%",
+        "value": "Rs. 4,365 / Rs. 4,365"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 57,230"
+      },
+      {
+        "label": "Location of Risk / Operations",
+        "value": "Laying and commissioning of DI and HDPE water-supply pipelines, Khordha and Cuttack districts, Odisha"
+      },
+      {
+        "label": "Intermediary Name & Code",
+        "value": "Suryodaya Insurance Brokers Pvt. Ltd. / BRK-OD-00742"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Business Description",
+        "body": "The Insured is a contractor engaged in excavation, trenching, laying, jointing, hydro-testing and commissioning of potable water-supply pipelines, valve chambers and house service connections, including associated road-cutting and restoration works carried out under contracts awarded by urban local bodies and public health engineering authorities."
+      },
+      {
+        "heading": "Operative Clause",
+        "body": "Subject to the terms, conditions and exclusions of this Policy, the Company will indemnify the Insured against legal liability to pay compensation, including claimant's costs, fees and expenses, in respect of accidental death or bodily injury to third parties and accidental loss of or damage to third-party property, happening during the Period of Insurance and arising out of the business operations described herein, up to the limits stated in the Schedule."
+      },
+      {
+        "heading": "Principal Exclusions",
+        "body": "The Policy does not cover liability arising from injury to employees of the Insured (covered under Employees' Compensation), damage to property owned by or in the care, custody or control of the Insured, contractual liability not attaching in the absence of contract, gradual pollution or contamination, damage to underground cables and services unless the Insured has obtained location plans from the concerned authority prior to excavation, fines and penalties, and war, nuclear and terrorism perils."
+      },
+      {
+        "heading": "Special Conditions",
+        "body": "Excavations left open overnight must be barricaded, lit and fitted with warning signage. The Insured shall maintain a register of road-cutting permissions. Any accident likely to give rise to a claim must be notified to the Company in writing within 7 days. No admission, offer, promise or payment shall be made by the Insured without the written consent of the Company."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, the Insured may contact the Grievance Officer at the Regional Office stated above or email grievance@gangavalleygic.example. If unresolved within 30 days, the Insured may approach the Insurance Ombudsman, Bhubaneswar, as per the Insurance Ombudsman Rules, 2017. Stamp duty paid by consolidated method vide challan as applicable under the Indian Stamp Act."
+      }
+    ],
+    "signatory": "For Ganga Valley General Insurance Co. Ltd., Authorised Signatory - Rajeshwari Panigrahi, Deputy Manager (Liability Underwriting), Bhubaneswar Regional Office"
+  }
+}

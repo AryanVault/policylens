@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_001",
+    "document_type": "surety_bond",
+    "layout": "prose_deed",
+    "amount_style": "rupee_indian",
+    "date_style": "dmy_dash",
+    "insurer": "Deccan Shield Insurance Limited",
+    "party_hint": "road construction contractor in Pune",
+    "omit": [
+      "premium",
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyptweKaw2Fi4XUVcCtc",
+  "generated": {
+    "truth": {
+      "insured_name": "Sahyadri Infra Roadways Private Limited",
+      "insurer_name": "Deccan Shield Insurance Limited",
+      "policy_or_bond_number": "DSIL/SB/PNQ/2025/004817",
+      "document_type": "surety_bond",
+      "sum_insured": 18750000.0,
+      "premium": null,
+      "gst_amount": null,
+      "period_start": "2025-07-15",
+      "period_end": "2027-01-14",
+      "beneficiary": "Pune Metropolitan Road Infrastructure Authority"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal",
+        "text": "Sahyadri Infra Roadways Private Limited"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Deccan Shield Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "DSIL/SB/PNQ/2025/004817"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "₹1,87,50,000.00"
+      },
+      "premium": null,
+      "gst_amount": null,
+      "period_start": {
+        "label": "Bond Period - From",
+        "text": "15-07-2025"
+      },
+      "period_end": {
+        "label": "Bond Period - To",
+        "text": "14-01-2027"
+      },
+      "beneficiary": {
+        "label": "Obligee",
+        "text": "Pune Metropolitan Road Infrastructure Authority"
+      }
+    },
+    "title": "CONTRACT PERFORMANCE SURETY BOND",
+    "insurer_address": "Deccan Shield Insurance Limited, Surety Underwriting Hub, 4th Floor, Kalyani Corporate Tower, Plot No. 22, Bund Garden Road, Pune - 411001, Maharashtra. CIN: U66010MH2016PLC284519. IRDAI Registration No. 187",
+    "insured_address": "Sahyadri Infra Roadways Private Limited, Office No. 305-308, Shivneri Business Park, Survey No. 41/2, Baner-Pashan Link Road, Baner, Pune - 411045, Maharashtra",
+    "extra_rows": [
+      {
+        "label": "GSTIN of Principal",
+        "value": "27AAKCS4821M1Z6"
+      },
+      {
+        "label": "GSTIN of Surety",
+        "value": "27AACCD7315F1ZQ"
+      },
+      {
+        "label": "UIN of Surety Product",
+        "value": "IRDAN187CP0004V01202223"
+      },
+      {
+        "label": "Contract Agreement No.",
+        "value": "PMRIA/RD/EPC/2025-26/119"
+      },
+      {
+        "label": "Contract Value (for reference only)",
+        "value": "₹37,50,00,000.00"
+      },
+      {
+        "label": "Stamp Duty Paid (Maharashtra Stamp Act)",
+        "value": "₹500.00"
+      },
+      {
+        "label": "Intermediary Code (Corporate Agent)",
+        "value": "DSIL-CA-PNQ-00842"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Preamble",
+        "body": "KNOW ALL MEN BY THESE PRESENTS that we, Sahyadri Infra Roadways Private Limited, a company incorporated under the Companies Act, 2013, having its registered office at Office No. 305-308, Shivneri Business Park, Baner, Pune - 411045 (hereinafter called the Principal), and Deccan Shield Insurance Limited, an insurance company registered with the Insurance Regulatory and Development Authority of India, having its office at Kalyani Corporate Tower, Bund Garden Road, Pune - 411001 (hereinafter called the Surety), are held and firmly bound unto the Pune Metropolitan Road Infrastructure Authority (hereinafter called the Obligee) in the sum of ₹1,87,50,000.00 (Rupees One Crore Eighty Seven Lakh Fifty Thousand only), for the payment of which sum well and truly to be made, the Principal and the Surety bind themselves, their successors and assigns, jointly and severally, firmly by these presents. This instrument is issued as Bond No. DSIL/SB/PNQ/2025/004817."
+      },
+      {
+        "heading": "Recitals",
+        "body": "WHEREAS the Principal has entered into Contract Agreement No. PMRIA/RD/EPC/2025-26/119 with the Obligee for the widening, strengthening and four-laning of the Hinjewadi-Maan-Marunji connector road including drainage, culverts and road furniture on Engineering, Procurement and Construction basis, for a contract value of ₹37,50,00,000.00; AND WHEREAS the said contract requires the Principal to furnish a performance security equal to five per cent of the contract value in a form acceptable to the Obligee; AND WHEREAS the Surety, in consideration of the sum received from the Principal, has agreed to issue this Contract Performance Surety Bond in accordance with the IRDAI (Surety Insurance Contracts) Guidelines, 2022."
+      },
+      {
+        "heading": "Condition of the Obligation",
+        "body": "NOW THE CONDITION of this obligation is such that if the Principal shall well and truly perform and fulfil all the undertakings, covenants, terms and conditions of the said contract during the original term and any extension thereof granted with notice to the Surety, then this obligation shall be void; otherwise it shall remain in full force and effect. Upon receipt of a written demand from the Obligee stating that the Principal has committed a breach of the contract, the Surety shall pay to the Obligee the amount so demanded, not exceeding the Bond Amount of ₹1,87,50,000.00, within thirty days, without demur and notwithstanding any dispute raised by the Principal."
+      },
+      {
+        "heading": "Period and Validity",
+        "body": "This bond shall remain in force for the Bond Period - From 15-07-2025 - To 14-01-2027, both days inclusive. Any claim hereunder must be lodged in writing with the Surety at its Pune office on or before 14-01-2027, failing which all rights of the Obligee under this bond shall stand extinguished and the Surety shall be discharged from all liability, whether or not this original instrument is returned. The liability of the Surety shall not be affected by any variation in the terms of the contract, extension of time, or forbearance granted by the Obligee to the Principal."
+      },
+      {
+        "heading": "General Provisions",
+        "body": "This bond is irrevocable during its validity, is non-assignable save to a successor of the Obligee, and shall be governed by the laws of India with courts at Pune having exclusive jurisdiction. The Surety reserves its rights of indemnity and subrogation against the Principal under the Counter Indemnity executed in its favour. Stamp duty of ₹500.00 has been paid under the Maharashtra Stamp Act, 1958. Obligee: Pune Metropolitan Road Infrastructure Authority, Shankarshet Road, Pune - 411037. Principal: Sahyadri Infra Roadways Private Limited. Surety: Deccan Shield Insurance Limited."
+      },
+      {
+        "heading": "Execution",
+        "body": "IN WITNESS WHEREOF the Surety has caused this bond to be executed by its duly authorised officer at Pune on the 15th day of July, 2025, in the presence of the witnesses named below. Witness 1: Ketan Ramdas Bhosale, Pune. Witness 2: Shraddha Vinayak Kulkarni, Pune. For and on behalf of Deccan Shield Insurance Limited."
+      }
+    ],
+    "signatory": "Anirudh Shrikant Joglekar, Chief Manager - Surety Underwriting, Deccan Shield Insurance Limited, Pune"
+  }
+}

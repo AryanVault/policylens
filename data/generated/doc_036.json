@@ -1,0 +1,125 @@
+{
+  "plan": {
+    "doc_id": "doc_036",
+    "document_type": "surety_bond",
+    "layout": "certificate",
+    "amount_style": "rupee_indian",
+    "date_style": "dmy_dot",
+    "insurer": "Vindhya Assurance Company Limited",
+    "party_hint": "water-supply pipeline contractor in Bhubaneswar",
+    "omit": []
+  },
+  "request_id": "req_011CgyrTw77Zd3J7mDy5D8gL",
+  "generated": {
+    "truth": {
+      "insured_name": "Mahanadi Jalpath Infrastructure Private Limited",
+      "insurer_name": "Vindhya Assurance Company Limited",
+      "policy_or_bond_number": "VAC/SB/BBSR/2025/004817",
+      "document_type": "surety_bond",
+      "sum_insured": 24560000.0,
+      "premium": 368400.0,
+      "gst_amount": 66312.0,
+      "period_start": "2025-06-01",
+      "period_end": "2027-05-31",
+      "beneficiary": "Kalinga Urban Water Supply Development Authority"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal / Contractor",
+        "text": "Mahanadi Jalpath Infrastructure Private Limited"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Vindhya Assurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "VAC/SB/BBSR/2025/004817"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "₹2,45,60,000.00"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "₹3,68,400.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "₹66,312.00"
+      },
+      "period_start": {
+        "label": "Bond Effective From",
+        "text": "01.06.2025"
+      },
+      "period_end": {
+        "label": "Bond Valid Up To",
+        "text": "31.05.2027"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Kalinga Urban Water Supply Development Authority"
+      }
+    },
+    "title": "Certificate of Surety Insurance - Contract Performance Bond",
+    "insurer_address": "Vindhya Assurance Company Limited, Regd. & Corporate Office: 7th Floor, Narmada Towers, Plot C-41, G Block, Bandra Kurla Complex, Mumbai, Maharashtra 400051. CIN: U66010MH2014PLC258731. IRDAI Reg. No. 187",
+    "insured_address": "Plot No. 214, Chandrasekharpur Industrial Estate, Bhubaneswar, Khordha District, Odisha 751024",
+    "extra_rows": [
+      {
+        "label": "UIN",
+        "value": "IRDAN187CP0004V01202324"
+      },
+      {
+        "label": "Principal GSTIN",
+        "value": "21AAKCM4827R1Z6"
+      },
+      {
+        "label": "Contract Reference",
+        "value": "KUWSDA/BBSR/WS-PL/EPC/2025/112 - Laying of DI Trunk Main, Zone IV"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "₹33,156.00"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "₹33,156.00"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "₹4,34,712.00"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "₹500.00"
+      },
+      {
+        "label": "Intermediary Code",
+        "value": "BRK-OD-00731 (Utkal Risk Advisors Insurance Brokers Pvt. Ltd.)"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Certificate",
+        "body": "This is to certify that the Surety named herein has issued a Contract Performance Surety Bond on behalf of the Principal in favour of the Obligee, guaranteeing the due performance of the Principal's obligations under the contract referenced in this certificate, subject to the terms, conditions and exclusions of the Surety Insurance Contract Policy filed with IRDAI under the UIN stated above."
+      },
+      {
+        "heading": "Scope of Obligation",
+        "body": "The Surety undertakes to pay the Obligee, upon receipt of a written demand stating that the Principal has failed to perform its obligations under the contract for supply, laying, jointing, testing and commissioning of ductile iron water-supply pipelines and associated works, an amount not exceeding the Bond Amount. Liability of the Surety shall in no event exceed the Bond Amount stated in the schedule, irrespective of the number of demands made."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "Any demand under this bond must be lodged in writing by an authorised officer of the Obligee at the Surety's Bhubaneswar Branch Office, Janpath, Unit III, Bhubaneswar 751001, within the validity period of the bond together with a claim period of thirty days thereafter. The Surety shall settle admissible demands within thirty days of receipt of complete documentation. The Principal shall indemnify the Surety for all amounts paid under the bond in terms of the Deed of Indemnity executed on the date of issue."
+      },
+      {
+        "heading": "Conditions",
+        "body": "This bond is non-transferable and shall not be altered without the written consent of the Surety. Any extension of the contract period shall be covered only upon issue of an endorsement and payment of additional premium. This bond is governed by the laws of India and subject to the jurisdiction of courts at Bhubaneswar. Stamp duty has been paid as per the Odisha Stamp Act."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For grievances, contact the Grievance Officer at grievance@vindhyaassurance.example.in or toll-free 1800-120-4471. If unresolved within fifteen days, the matter may be escalated to IRDAI through the Bima Bharosa portal or to the Insurance Ombudsman, Bhubaneswar."
+      }
+    ],
+    "signatory": "For Vindhya Assurance Company Limited, Authorised Signatory, Surety Underwriting - Bhubaneswar Branch (Debashis Mohapatra, Chief Manager)"
+  }
+}

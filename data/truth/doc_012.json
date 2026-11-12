@@ -1,0 +1,14 @@
+{
+  "insured_name": "Kalwa Petrochem Imports Private Limited",
+  "insurer_name": "Aravalli General Insurance Limited",
+  "policy_or_bond_number": "AGI/SB/2025/004187",
+  "document_type": "surety_bond",
+  "sum_insured": 25000000.0,
+  "premium": 281250.0,
+  "gst_amount": null,
+  "period_start": "2025-06-15",
+  "period_end": "2026-12-14",
+  "beneficiary": "Office of the Principal Commissioner, Sahyadri Customs Commissionerate",
+  "doc_id": "doc_012",
+  "template": "certificate"
+}

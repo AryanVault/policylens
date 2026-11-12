@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_042",
+    "document_type": "fire",
+    "layout": "certificate",
+    "amount_style": "rs_slash",
+    "date_style": "dmy_dot",
+    "insurer": "Sahyadri General Insurance Company Limited",
+    "party_hint": "pharmaceutical distributor in Ahmedabad",
+    "omit": []
+  },
+  "request_id": "req_011CgyrW7xHS7qmggp6YUvQ4",
+  "generated": {
+    "truth": {
+      "insured_name": "Navrang Pharma Distributors Private Limited",
+      "insurer_name": "Sahyadri General Insurance Company Limited",
+      "policy_or_bond_number": "SGI/FR/2025/41/0087362",
+      "document_type": "fire",
+      "sum_insured": 85000000.0,
+      "premium": 46300.0,
+      "gst_amount": 8334.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Navrang Pharma Distributors Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Sahyadri General Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "SGI/FR/2025/41/0087362"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured",
+        "text": "Rs. 8,50,00,000/-"
+      },
+      "premium": {
+        "label": "Net Premium (excluding GST)",
+        "text": "Rs. 46,300/-"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 8,334/-"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15.06.2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (midnight)",
+        "text": "14.06.2026"
+      },
+      "beneficiary": null
+    },
+    "title": "CERTIFICATE OF INSURANCE - BHARAT LAGHU UDYAM SURAKSHA POLICY (FIRE)",
+    "insurer_address": "Sahyadri General Insurance Company Limited, Regd. Office: 4th Floor, Kesar Corporate Park, Off S.G. Highway, Bodakdev, Ahmedabad - 380054, Gujarat. CIN: U66030GJ2011PLC064512. IRDAI Reg. No. 187",
+    "insured_address": "Plot No. 27, Shreeji Industrial Estate, Near Naroda GIDC, Naroda, Ahmedabad - 382330, Gujarat",
+    "extra_rows": [
+      {
+        "label": "Insured GSTIN",
+        "value": "24AADCN4821K1Z7"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN187RP0014V01202425"
+      },
+      {
+        "label": "Location of Risk",
+        "value": "Godown No. 3 and 4, Shreeji Industrial Estate, Naroda, Ahmedabad - 382330 (Occupancy: Pharmaceutical warehouse / storage of non-hazardous goods)"
+      },
+      {
+        "label": "Intermediary Name and Code",
+        "value": "Sabarmati Insurance Brokers Pvt. Ltd. - BRK/GJ/00463"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 4,167/-"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 4,167/-"
+      },
+      {
+        "label": "Total Premium Payable (including GST)",
+        "value": "Rs. 54,634/-"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 1/-"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Description of Property Insured",
+        "body": "Stocks of pharmaceutical formulations, surgical consumables and allied goods held in trust or on commission, together with building superstructure, plant and machinery, cold storage units, racking, furniture, fixtures and fittings at the location of risk stated in this certificate, on reinstatement value basis for building and contents and market value basis for stocks."
+      },
+      {
+        "heading": "Perils Covered",
+        "body": "Fire, lightning, explosion or implosion, aircraft damage, riot, strike and malicious damage, storm, cyclone, typhoon, tempest, hurricane, tornado, flood and inundation, earthquake, subsidence and landslide including rockslide, bush fire, impact damage, missile testing operations, leakage from automatic sprinkler installations and terrorism, subject to the terms, conditions and exclusions of the Bharat Laghu Udyam Suraksha Policy wordings."
+      },
+      {
+        "heading": "Special Conditions and Warranties",
+        "body": "The insured warrants that fire extinguishers are maintained in working order and that temperature-controlled storage areas are fitted with alarm monitoring. Stocks shall be stored on pallets at least 15 cm above floor level. Declaration of stock values shall be submitted monthly where the stock declaration clause applies. A standard excess as per policy wordings applies to each and every claim."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "In the event of loss or damage, notify the Company immediately at the toll-free number 1800-209-4418 or claims.fire@sahyadrigi.example.in, take all reasonable steps to minimise loss and preserve damaged property for inspection by the appointed surveyor. Police report and fire brigade report must be furnished wherever applicable."
+      },
+      {
+        "heading": "Important Notice",
+        "body": "This certificate is issued subject to realisation of premium. Insurance is the subject matter of solicitation. For grievances, contact the Grievance Redressal Officer of the Company or approach the Insurance Ombudsman, Ahmedabad. Please read the policy wordings carefully and report any discrepancy within 15 days of receipt. Free look period is not applicable to this product."
+      }
+    ],
+    "signatory": "For Sahyadri General Insurance Company Limited - Authorised Signatory (Branch Manager, Ahmedabad Commercial Lines Branch)"
+  }
+}

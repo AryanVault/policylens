@@ -1,0 +1,126 @@
+{
+  "plan": {
+    "doc_id": "doc_013",
+    "document_type": "marine",
+    "layout": "schedule_table",
+    "amount_style": "inr_western",
+    "date_style": "dmy_dash",
+    "insurer": "Sahyadri General Insurance Company Limited",
+    "party_hint": "road construction contractor in Pune",
+    "omit": []
+  },
+  "request_id": "req_011CgyrKgJ9tGsPsoVF3Hiax",
+  "generated": {
+    "truth": {
+      "insured_name": "Deccan Highway Constructions Private Limited",
+      "insurer_name": "Sahyadri General Insurance Company Limited",
+      "policy_or_bond_number": "SGI/MAR/OP/2025/1104/00087312",
+      "document_type": "marine",
+      "sum_insured": 180000000.0,
+      "premium": 92340.0,
+      "gst_amount": 16621.2,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Deccan Highway Constructions Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Sahyadri General Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "SGI/MAR/OP/2025/1104/00087312"
+      },
+      "sum_insured": {
+        "label": "Sum Insured (Estimated Annual Turnover)",
+        "text": "INR 180,000,000.00"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "INR 92,340.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "INR 16,621.20"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15-06-2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "14-06-2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Marine Inland Transit Open Policy - Policy Schedule",
+    "insurer_address": "Sahyadri General Insurance Company Limited, Sahyadri Bhavan, 4th Floor, Plot No. 22, Senapati Bapat Road, Pune 411016, Maharashtra. CIN: U66010MH2011PLC219874",
+    "insured_address": "Survey No. 114/2, Hissa No. 3, Near Wagholi Phata, Pune-Nagar Road, Wagholi, Pune 412207, Maharashtra",
+    "extra_rows": [
+      {
+        "label": "Insured GSTIN",
+        "value": "27AADCD4471K1Z9"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN173RP0019V01201112"
+      },
+      {
+        "label": "Intermediary Name and Code",
+        "value": "Pashan Insurance Brokers Private Limited - BRK/PN/004417"
+      },
+      {
+        "label": "Limit per Sending / Any One Conveyance",
+        "value": "INR 25,000,000.00"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "INR 8,310.60"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "INR 8,310.60"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "INR 108,961.20"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "INR 50.00"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Subject Matter Insured",
+        "body": "Road construction materials, consumables and equipment belonging to the Insured or held in trust, including bitumen in drums and tankers, emulsions, TMT steel, cement in bags, aggregates handling attachments, spare parts of hot mix plants, pavers, rollers and allied machinery, while in transit within India by road and rail between suppliers, depots, batching plants and project sites of the Insured."
+      },
+      {
+        "heading": "Scope of Cover",
+        "body": "Inland Transit Clauses (A) - All Risks, extended to cover Strikes, Riots and Civil Commotion as per Inland Transit (Rail/Road) SRCC Clauses. Cover attaches from the time the goods leave the warehouse or premises at the place named for commencement of transit and continues during the ordinary course of transit until delivered to the final destination named in the declaration. Transit of over-dimensional cargo requires prior intimation to the Insurer."
+      },
+      {
+        "heading": "Declaration and Adjustment",
+        "body": "The Insured shall declare every despatch on a monthly basis by the 10th of the following month, stating invoice number, description of goods, mode of conveyance and invoice value. The premium charged is a deposit premium and shall be adjusted at expiry on the basis of actual declared turnover at the agreed rate, subject to retention of a minimum premium of 75 percent of the deposit premium."
+      },
+      {
+        "heading": "Important Conditions and Exclusions",
+        "body": "Each and every claim is subject to an excess of 1 percent of the value of the consignment, minimum INR 10,000.00. Excluded: wilful misconduct, ordinary leakage and loss in weight, insufficient packing, inherent vice, delay, insolvency of carriers, and loss arising from unroadworthiness of the conveyance known to the Insured. Goods transported in vehicles owned by the Insured are covered only if driven by a duly licensed driver."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "In the event of loss or damage, notify the Insurer's Pune Marine Claims Cell immediately at 1800-209-4417 or marineclaims@sahyadrigeneral.example.in, lodge a monetary claim on the carrier within the statutory period, preserve the damaged goods for survey, and submit invoice, lorry receipt or railway receipt, survey report and carrier's acknowledgement. Rights of recovery against carriers must not be waived."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, contact the Grievance Officer at grievance@sahyadrigeneral.example.in. If not resolved within 15 days, the Insured may approach the IRDAI Bima Bharosa portal or the Insurance Ombudsman, Pune. This policy is issued subject to receipt of premium in advance as per Section 64VB of the Insurance Act, 1938. Insurance is the subject matter of solicitation."
+      }
+    ],
+    "signatory": "For Sahyadri General Insurance Company Limited - Authorised Signatory, Marine Underwriting Department, Pune Regional Office (Policy issued at Pune on 12-06-2025)"
+  }
+}

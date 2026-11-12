@@ -1,0 +1,14 @@
+{
+  "insured_name": "Kalwa Petrochem Imports Private Limited",
+  "insurer_name": "Sahyadri General Insurance Company Limited",
+  "policy_or_bond_number": "SGI/MAR/OP/2025/004718",
+  "document_type": "marine",
+  "sum_insured": 200000000.0,
+  "premium": 140000.0,
+  "gst_amount": 25200.0,
+  "period_start": "2025-05-01",
+  "period_end": "2026-04-30",
+  "beneficiary": null,
+  "doc_id": "doc_037",
+  "template": "schedule_table"
+}

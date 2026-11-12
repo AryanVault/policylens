@@ -1,0 +1,121 @@
+{
+  "plan": {
+    "doc_id": "doc_056",
+    "document_type": "liability",
+    "layout": "two_column",
+    "amount_style": "rupee_indian",
+    "date_style": "dmy_slash",
+    "insurer": "Sahyadri General Insurance Company Limited",
+    "party_hint": "hospital trust in Kochi",
+    "omit": [
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011Cgyrb3R54h9XAETdmDpjd",
+  "generated": {
+    "truth": {
+      "insured_name": "Periyar Mercy Hospital Trust",
+      "insurer_name": "Sahyadri General Insurance Company Limited",
+      "policy_or_bond_number": "4102/MEPI/2025-26/000873",
+      "document_type": "liability",
+      "sum_insured": 50000000.0,
+      "premium": 384750.0,
+      "gst_amount": null,
+      "period_start": "2025-07-01",
+      "period_end": "2026-06-30",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Periyar Mercy Hospital Trust"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Sahyadri General Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "4102/MEPI/2025-26/000873"
+      },
+      "sum_insured": {
+        "label": "Limit of Indemnity (Any One Year)",
+        "text": "₹5,00,00,000.00"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "₹3,84,750.00"
+      },
+      "gst_amount": null,
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "01/07/2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "30/06/2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Medical Establishment Professional Indemnity and Public Liability Policy - Policy Schedule",
+    "insurer_address": "Sahyadri General Insurance Company Limited, Regd. Office: 7th Floor, Konkan Trade Tower, Senapati Bapat Road, Pune 411016, Maharashtra. Policy Issuing Office: 2nd Floor, Marine Drive Business Centre, Shanmugham Road, Ernakulam, Kochi 682031, Kerala. CIN: U66010MH2011PLC219384. IRDAI Reg. No. 187",
+    "insured_address": "Periyar Mercy Hospital Trust, Mercy Nagar, Banerji Road, Kaloor, Kochi 682017, Ernakulam District, Kerala",
+    "extra_rows": [
+      {
+        "label": "Product UIN",
+        "value": "SGIPLIP25012V012425"
+      },
+      {
+        "label": "Insured GSTIN",
+        "value": "32AAATP4821K1ZQ"
+      },
+      {
+        "label": "Location of Risk",
+        "value": "Periyar Mercy Hospital (310 beds), Mercy Nagar, Kaloor, Kochi 682017"
+      },
+      {
+        "label": "Limit of Indemnity (Any One Claim)",
+        "value": "₹1,00,00,000.00"
+      },
+      {
+        "label": "Deductible (Each and Every Claim)",
+        "value": "₹2,50,000.00"
+      },
+      {
+        "label": "Retroactive Date",
+        "value": "01/07/2019"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Malabar Coast Insurance Brokers Pvt. Ltd. / BRK-KL-004417"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "₹100.00"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Operative Clause",
+        "body": "In consideration of the Insured having paid the premium, the Company agrees, subject to the terms, conditions, limits and exclusions of this Policy, to indemnify the Insured against legal liability arising out of any claim first made against the Insured during the Period of Insurance for bodily injury, death or financial loss to any patient or third party caused by negligent act, error or omission in the rendering of medical, surgical, nursing and diagnostic services at the Location of Risk, together with legal costs and expenses incurred with the prior written consent of the Company."
+      },
+      {
+        "heading": "Scope of Cover",
+        "body": "Section I - Professional Indemnity (Medical Establishment): covers vicarious liability of the Insured for acts of employed doctors, nurses, paramedical and technical staff. Section II - Public Liability: covers third party bodily injury and property damage arising from the ownership and maintenance of hospital premises. Defence costs are within and not in addition to the Limit of Indemnity. Cover is on a claims-made basis subject to the Retroactive Date shown in the Schedule."
+      },
+      {
+        "heading": "Principal Exclusions",
+        "body": "The Policy does not cover: (a) criminal or deliberate acts, or acts committed under the influence of intoxicants; (b) cosmetic or aesthetic surgery not medically necessitated; (c) fines, penalties, punitive or exemplary damages; (d) liability assumed under contract unless it would have attached in the absence of such contract; (e) claims arising from nuclear, radioactive or war perils; (f) claims known to the Insured prior to inception of the Policy; (g) personal professional liability of visiting consultants not on the payroll of the Insured."
+      },
+      {
+        "heading": "Conditions",
+        "body": "The Insured shall give written notice to the Company immediately upon receipt of any claim, legal notice or summons and shall not admit liability or make any offer of settlement without the written consent of the Company. The Insured shall maintain medical records in accordance with applicable regulations and make them available to the Company on request. The Company shall be entitled to take over and conduct the defence of any claim in the name of the Insured."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, the Insured may contact the Grievance Officer at the Policy Issuing Office or write to care@sahyadrigeneral.example.in, Toll Free 1800 209 4417. If not resolved within 15 days, the Insured may approach the Insurance Ombudsman, Kochi, or register the complaint on the Bima Bharosa portal of IRDAI. This Schedule is to be read with the Policy wordings, clauses and endorsements attached, which together form the contract."
+      }
+    ],
+    "signatory": "For and on behalf of Sahyadri General Insurance Company Limited - Authorised Signatory, Ernakulam Policy Issuing Office (Digitally signed; Place: Kochi; Date of Issue: 27/06/2025)"
+  }
+}

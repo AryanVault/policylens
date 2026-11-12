@@ -1,0 +1,14 @@
+{
+  "insured_name": "Sahyadri Infra Roadways Pvt. Ltd.",
+  "insurer_name": "Kaveri Assurance Co. Ltd.",
+  "policy_or_bond_number": "KAC/SB/PB/2025/004718",
+  "document_type": "surety_bond",
+  "sum_insured": 12500000.0,
+  "premium": 150000.0,
+  "gst_amount": 27000.0,
+  "period_start": "2025-07-15",
+  "period_end": "2027-01-14",
+  "beneficiary": "Deccan Regional Roads Authority, Pune Division",
+  "doc_id": "doc_020",
+  "template": "schedule_table"
+}

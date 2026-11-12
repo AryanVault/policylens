@@ -1,0 +1,120 @@
+{
+  "plan": {
+    "doc_id": "doc_023",
+    "document_type": "surety_bond",
+    "layout": "schedule_table",
+    "amount_style": "inr_western",
+    "date_style": "d_mon_y",
+    "insurer": "Sahyadri General Insurance Company Limited",
+    "party_hint": "family-run jewellery business in Surat",
+    "omit": [
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrPDaAxx6hEEMkzJ2Xi",
+  "generated": {
+    "truth": {
+      "insured_name": "Zaveri Shantilal Maganlal & Sons",
+      "insurer_name": "Sahyadri General Insurance Company Limited",
+      "policy_or_bond_number": "SGI/SB/2025/SUR/004517",
+      "document_type": "surety_bond",
+      "sum_insured": 25000000.0,
+      "premium": 281250.0,
+      "gst_amount": null,
+      "period_start": "2025-06-15",
+      "period_end": "2026-12-14",
+      "beneficiary": "Directorate of Bullion Import Regulation, Surat Region"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Principal",
+        "text": "Zaveri Shantilal Maganlal & Sons"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Sahyadri General Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Surety Bond No.",
+        "text": "SGI/SB/2025/SUR/004517"
+      },
+      "sum_insured": {
+        "label": "Bond Amount (Maximum Liability of Surety)",
+        "text": "INR 25,000,000.00"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "INR 281,250.00"
+      },
+      "gst_amount": null,
+      "period_start": {
+        "label": "Bond Validity - From",
+        "text": "15-Jun-2025"
+      },
+      "period_end": {
+        "label": "Bond Validity - To",
+        "text": "14-Dec-2026"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Directorate of Bullion Import Regulation, Surat Region"
+      }
+    },
+    "title": "SURETY BOND SCHEDULE - CUSTOMS AND REGULATORY COMPLIANCE BOND",
+    "insurer_address": "Sahyadri House, 7th Floor, Plot C-22, G Block, Bandra Kurla Complex, Bandra (East), Mumbai, Maharashtra 400051",
+    "insured_address": "Shop No. 14-15, Ghanshyam Jewel Arcade, Ring Road, near Kinnari Cinema, Surat, Gujarat 395002",
+    "extra_rows": [
+      {
+        "label": "Product UIN",
+        "value": "IRDAN192RP0007V01202324"
+      },
+      {
+        "label": "Principal GSTIN",
+        "value": "24AAFFZ4821K1Z6"
+      },
+      {
+        "label": "Intermediary Name and Code",
+        "value": "Tapi Insurance Brokers Pvt. Ltd. - BRK/0381/SUR"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "INR 500.00"
+      },
+      {
+        "label": "Collateral Deposit Held (Fixed Deposit under lien)",
+        "value": "INR 5,000,000.00"
+      },
+      {
+        "label": "Premium Receipt No.",
+        "value": "RCPT/SUR/25/118742 dated 12-Jun-2025"
+      },
+      {
+        "label": "Issuing Office",
+        "value": "Surat Branch, 3rd Floor, Navkar Business Hub, Athwa Lines, Surat 395007"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Nature of Obligation",
+        "body": "This bond is issued at the request of the Principal named in the Schedule to secure the due performance of its obligations under the bullion import licence and the associated warehousing and end-use undertakings executed in favour of the Obligee. The Surety undertakes to pay the Obligee, on first written demand, any sum due by reason of default of the Principal, up to but not exceeding the Bond Amount stated in the Schedule."
+      },
+      {
+        "heading": "Conditions of the Bond",
+        "body": "1. Liability of the Surety shall in no event exceed the Bond Amount stated in the Schedule. 2. Any demand must be lodged in writing at the Issuing Office within the validity period, accompanied by a certificate of default signed by an authorised officer of the Obligee. 3. The bond is non-transferable and shall not be assigned without the prior written consent of the Surety. 4. Any extension of validity shall be effected only by endorsement issued by the Surety. 5. This bond is governed by the laws of India and subject to the jurisdiction of the courts at Surat."
+      },
+      {
+        "heading": "Indemnity and Recovery",
+        "body": "The Principal and its partners, jointly and severally, have executed a Deed of Indemnity in favour of the Surety and agree to reimburse the Surety for all amounts paid under this bond together with costs and interest. The collateral deposit held under lien shall be available to the Surety for recovery and shall be released only upon return of the original bond or written discharge from the Obligee."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "Demands under this bond may be addressed to the Surety Claims Cell at the Issuing Office or emailed to suretyclaims@sahyadrigeneral.example.in quoting the bond number. The Surety shall settle valid demands within 30 days of receipt of complete documents, as required by the IRDAI (Surety Insurance Contracts) Guidelines."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, the Principal or Obligee may contact the Grievance Officer at grievance@sahyadrigeneral.example.in or toll-free 1800 209 4471. If not resolved within 14 days, the matter may be referred to the Bima Bharosa portal or the Insurance Ombudsman, Ahmedabad, as per the Insurance Ombudsman Rules, 2017."
+      }
+    ],
+    "signatory": "For Sahyadri General Insurance Company Limited - Authorised Signatory, Surety Underwriting (Kalpesh R. Dholakia), Surat Branch"
+  }
+}

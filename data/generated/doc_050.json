@@ -1,0 +1,117 @@
+{
+  "plan": {
+    "doc_id": "doc_050",
+    "document_type": "fire",
+    "layout": "two_column",
+    "amount_style": "lakh_crore",
+    "date_style": "dmy_slash",
+    "insurer": "Narmada General Insurance Co. Ltd.",
+    "party_hint": "textile exporter in Tiruppur",
+    "omit": [
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrZ2NFnNik19YL4uBd9",
+  "generated": {
+    "truth": {
+      "insured_name": "Kaveri Knitwear Exports Pvt. Ltd.",
+      "insurer_name": "Narmada General Insurance Co. Ltd.",
+      "policy_or_bond_number": "NGI/FIR/2025/33/004817",
+      "document_type": "fire",
+      "sum_insured": 125000000.0,
+      "premium": 115000.0,
+      "gst_amount": null,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Kaveri Knitwear Exports Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Narmada General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "NGI/FIR/2025/33/004817"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured",
+        "text": "Rs. 12.5 Crore"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 1.15 Lakhs"
+      },
+      "gst_amount": null,
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15/06/2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "14/06/2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Standard Fire and Special Perils Policy - Policy Schedule",
+    "insurer_address": "Narmada General Insurance Co. Ltd., Regional Office, 4th Floor, Sangam Towers, 112 Avinashi Road, Peelamedu, Coimbatore - 641004, Tamil Nadu. CIN: U66010MH2008PLC184522",
+    "insured_address": "Kaveri Knitwear Exports Pvt. Ltd., SF No. 218/2, Kangeyam Road, Muthanampalayam, Tiruppur - 641606, Tamil Nadu",
+    "extra_rows": [
+      {
+        "label": "GSTIN of Insured",
+        "value": "33AAKCK4821M1Z7"
+      },
+      {
+        "label": "UIN",
+        "value": "IRDAN219RP0031V01202526"
+      },
+      {
+        "label": "Location of Risk",
+        "value": "Knitting, dyeing and garmenting unit with finished goods godown, SF No. 218/2, Kangeyam Road, Muthanampalayam, Tiruppur - 641606"
+      },
+      {
+        "label": "Occupancy",
+        "value": "Textile hosiery manufacturing (knitting, processing and stitching)"
+      },
+      {
+        "label": "Deductible (each and every loss)",
+        "value": "Rs. 50,000"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Kongu Insurance Brokers Pvt. Ltd. / BRK-CBE-07714"
+      },
+      {
+        "label": "Premium Receipt No.",
+        "value": "NGI/CBE/RCPT/25/118346"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Property Insured",
+        "body": "Building including plinth and foundation, plant and machinery including knitting machines, compacting and dyeing equipment, furniture, fixtures and fittings, and stocks of yarn, grey fabric, work-in-progress and finished knitted garments, all situated at the location of risk described in this schedule. Item-wise sum insured breakup is as per the declaration annexed to the proposal form."
+      },
+      {
+        "heading": "Perils Covered",
+        "body": "Fire; lightning; explosion or implosion; aircraft damage; riot, strike and malicious damage; storm, cyclone, typhoon, tempest, hurricane, tornado, flood and inundation; impact damage; subsidence and landslide including rockslide; bursting and overflowing of water tanks, apparatus and pipes; missile testing operations; leakage from automatic sprinkler installations; and bush fire. Earthquake (fire and shock) is covered as an add-on as opted in the proposal."
+      },
+      {
+        "heading": "Special Conditions",
+        "body": "The insured shall maintain fire extinguishers and hydrant systems in working order as per the risk inspection report. Stocks shall be stored at least 1 metre away from walls and electrical panels. Stock declarations, where applicable, shall be submitted monthly. Average clause applies where the property is found to be underinsured at the time of loss."
+      },
+      {
+        "heading": "Exclusions",
+        "body": "Loss or damage caused by war, invasion, nuclear perils, pollution or contamination (except as covered), spontaneous combustion of stocks, fermentation or natural heating, theft during or after an insured event unless specifically covered, and consequential loss of any kind are excluded, along with the other exclusions set out in the standard policy wording."
+      },
+      {
+        "heading": "Claims Procedure and Grievance Redressal",
+        "body": "In the event of loss, notify the insurer immediately on toll-free number 1800-200-4471 or claims@narmadageneral.example.in and lodge a police or fire brigade report where applicable. For grievances, contact the Grievance Officer at the regional office; if unresolved within 15 days, the insured may approach the Bima Bharosa portal or the Insurance Ombudsman, Chennai. This schedule is to be read with the policy wording; stamp duty has been paid by consolidated means as per the applicable State order."
+      }
+    ],
+    "signatory": "For Narmada General Insurance Co. Ltd. - Authorised Signatory, Coimbatore Regional Office"
+  }
+}

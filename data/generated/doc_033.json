@@ -1,0 +1,125 @@
+{
+  "plan": {
+    "doc_id": "doc_033",
+    "document_type": "surety_bond",
+    "layout": "certificate",
+    "amount_style": "inr_western",
+    "date_style": "month_first_long",
+    "insurer": "Aravalli General Insurance Limited",
+    "party_hint": "auto-components manufacturer in Chennai",
+    "omit": []
+  },
+  "request_id": "req_011CgyrSSb6Wg3cSek9dGGX4",
+  "generated": {
+    "truth": {
+      "insured_name": "Kaveri Precision Autoparts Private Limited",
+      "insurer_name": "Aravalli General Insurance Limited",
+      "policy_or_bond_number": "AGI/SB/CHN/2025/004187",
+      "document_type": "surety_bond",
+      "sum_insured": 25000000.0,
+      "premium": 285000.0,
+      "gst_amount": 51300.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-12-14",
+      "beneficiary": "Dakshin Urban Transport Corporation Limited"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal (Contractor)",
+        "text": "Kaveri Precision Autoparts Private Limited"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Aravalli General Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Bond Certificate No.",
+        "text": "AGI/SB/CHN/2025/004187"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "INR 25,000,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (excluding GST)",
+        "text": "INR 285,000.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "INR 51,300.00"
+      },
+      "period_start": {
+        "label": "Bond Effective From",
+        "text": "June 15, 2025"
+      },
+      "period_end": {
+        "label": "Bond Valid Up To",
+        "text": "December 14, 2026"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Dakshin Urban Transport Corporation Limited"
+      }
+    },
+    "title": "CERTIFICATE OF SURETY - CONTRACT PERFORMANCE BOND",
+    "insurer_address": "Aravalli General Insurance Limited, Surety Business Unit, 4th Floor, Meridian Towers, 112 Anna Salai, Teynampet, Chennai - 600018, Tamil Nadu. Registered Office: 7 Aravalli Marg, Sector 44, Gurugram - 122003, Haryana. IRDAI Reg. No. 187 | CIN: U66010HR2016PLC059412",
+    "insured_address": "Kaveri Precision Autoparts Private Limited, Plot No. B-27, SIDCO Industrial Estate, Ambattur, Chennai - 600098, Tamil Nadu",
+    "extra_rows": [
+      {
+        "label": "Type of Bond",
+        "value": "Contract Performance Bond"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN187CP0021V01202425"
+      },
+      {
+        "label": "Principal GSTIN",
+        "value": "33AAKCK4821M1Z6"
+      },
+      {
+        "label": "Surety GSTIN",
+        "value": "33AADCA7731Q1ZK"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "INR 25,650.00"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "INR 25,650.00"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "INR 336,300.00"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-0045219 / Coromandel Risk Advisors Insurance Brokers Pvt. Ltd."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Underlying Contract",
+        "body": "This bond is issued in respect of Letter of Award No. DUTC/PROC/BRK-ASSY/2025/118 for the design, manufacture, supply and commissioning of brake and suspension assemblies for the Obligee's urban bus fleet, as executed between the Principal and the Obligee."
+      },
+      {
+        "heading": "Undertaking of the Surety",
+        "body": "In consideration of the premium received, the Surety undertakes to pay the Obligee, on first written demand and without demur, any sum up to the bond amount stated in this certificate, upon the Obligee certifying that the Principal has failed to perform its obligations under the underlying contract. The Surety's aggregate liability shall not exceed the bond amount."
+      },
+      {
+        "heading": "Claims and Validity",
+        "body": "Any demand under this bond must be lodged in writing at the issuing office of the Surety on or before the expiry date shown above, together with a certified copy of the default notice served on the Principal. Claims received after the expiry date or after a further claim period of 30 days shall stand extinguished. The bond is irrevocable during its currency except with the written consent of the Obligee."
+      },
+      {
+        "heading": "Indemnity and Recovery",
+        "body": "The Principal and its directors have executed a deed of counter-indemnity in favour of the Surety, and the Surety shall be entitled to recover from the Principal all amounts paid under this bond together with costs and interest. Stamp duty of INR 500.00 has been paid by way of e-stamp certificate IN-TN48219377451026X."
+      },
+      {
+        "heading": "Governing Law and Grievance Redressal",
+        "body": "This bond is governed by the laws of India and subject to the exclusive jurisdiction of the courts at Chennai. Issued under the IRDAI (Surety Insurance Contracts) Guidelines. For grievances contact the Grievance Officer at grievance@aravalligeneral.example.in or toll-free 1800-200-4471; unresolved complaints may be referred to the Insurance Ombudsman, Chennai."
+      }
+    ],
+    "signatory": "For and on behalf of Aravalli General Insurance Limited - R. Venkataraghavan, Authorised Signatory, Surety Business Unit, Chennai"
+  }
+}

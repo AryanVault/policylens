@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_019",
+    "document_type": "motor",
+    "layout": "schedule_table",
+    "amount_style": "words_paren",
+    "date_style": "dmy_dash",
+    "insurer": "Ganga Valley General Insurance Co. Ltd.",
+    "party_hint": "cold-chain logistics firm in Kolkata",
+    "omit": []
+  },
+  "request_id": "req_011CgyrMoQLMXBSAfAjmwM8x",
+  "generated": {
+    "truth": {
+      "insured_name": "Hooghly Frost Chain Logistics Pvt. Ltd.",
+      "insurer_name": "Ganga Valley General Insurance Co. Ltd.",
+      "policy_or_bond_number": "GVG/MCV/2025/0418873",
+      "document_type": "motor",
+      "sum_insured": 2850000.0,
+      "premium": 78650.0,
+      "gst_amount": 14157.0,
+      "period_start": "2025-07-15",
+      "period_end": "2026-07-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Insured",
+        "text": "Hooghly Frost Chain Logistics Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Ganga Valley General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "GVG/MCV/2025/0418873"
+      },
+      "sum_insured": {
+        "label": "Total IDV (Sum Insured)",
+        "text": "Rs. 28,50,000/- (Rupees Twenty Eight Lakh Fifty Thousand Only)"
+      },
+      "premium": {
+        "label": "Net Premium (Own Damage + Liability)",
+        "text": "Rs. 78,650/- (Rupees Seventy Eight Thousand Six Hundred Fifty Only)"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 14,157/- (Rupees Fourteen Thousand One Hundred Fifty Seven Only)"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15-07-2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "14-07-2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Commercial Vehicle Package Policy - Goods Carrying Vehicle (Public Carrier) - Certificate of Insurance cum Policy Schedule",
+    "insurer_address": "Ganga Valley General Insurance Co. Ltd., Registered and Head Office: 4th Floor, Ganga Valley Towers, 18 Brabourne Road, Kolkata - 700001, West Bengal. CIN: U66010WB2009PLC134827. IRDAI Regn. No. 187",
+    "insured_address": "Unit 7B, Bantala Cold Storage Complex, Leather Complex Road, Bantala, Kolkata - 700107, West Bengal",
+    "extra_rows": [
+      {
+        "label": "Vehicle Registration No.",
+        "value": "WB-25-K-4817"
+      },
+      {
+        "label": "Make / Model / Body Type",
+        "value": "Tarak Motors Polar 1615 / Refrigerated Insulated Container Body"
+      },
+      {
+        "label": "Gross Vehicle Weight / Year of Manufacture",
+        "value": "16,200 kg / 2023"
+      },
+      {
+        "label": "UIN",
+        "value": "IRDAN187RP0012V01201920"
+      },
+      {
+        "label": "Insurer GSTIN",
+        "value": "19AABCG4821K1Z7"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Eastline Insurance Brokers Pvt. Ltd. / BRK-WB-004512"
+      },
+      {
+        "label": "Compulsory Deductible (Own Damage)",
+        "value": "Rs. 1,500/- (Rupees One Thousand Five Hundred Only)"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 92,807/- (Rupees Ninety Two Thousand Eight Hundred Seven Only)"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Scope of Cover",
+        "body": "Section I covers loss of or damage to the insured vehicle including the refrigeration unit and insulated body declared in the schedule, caused by fire, explosion, self-ignition, lightning, burglary, riot and strike, malicious act, terrorism, flood, cyclone, landslide and accidental external means, subject to the Insured Declared Value stated above. Section II covers legal liability to third parties for death, bodily injury and property damage as per the Motor Vehicles Act, 1988, together with compulsory personal accident cover for the owner-driver."
+      },
+      {
+        "heading": "Limitations as to Use",
+        "body": "The policy covers use of the vehicle only for the carriage of goods within the meaning of the Motor Vehicles Act, 1988, under a valid permit. It does not cover use for organised racing, pace making, reliability trials, speed testing, or use for any purpose not permitted by the vehicle permit. Carriage of hazardous goods is excluded unless specifically endorsed."
+      },
+      {
+        "heading": "Driver Clause",
+        "body": "Any person driving the vehicle must hold an effective driving licence valid for transport vehicles at the time of the accident and must not be disqualified from holding or obtaining such a licence. Driving under the influence of alcohol or drugs is excluded."
+      },
+      {
+        "heading": "Special Conditions and Exclusions",
+        "body": "Breakdown of the refrigeration plant due to mechanical or electrical failure, wear and tear, and spoilage or deterioration of perishable cargo arising from temperature variation are not covered under this policy. Consequential loss, depreciation and loss of use are excluded. Cargo carried is not insured under this policy and must be covered separately under a marine transit policy."
+      },
+      {
+        "heading": "Important Notice",
+        "body": "In the event of an accident, notify the insurer immediately on toll-free number 1800-345-7718 and do not move the vehicle without permission except as required by law. Grievances may be addressed to the Grievance Redressal Officer at the head office or to the Insurance Ombudsman, Kolkata. Stamp duty of Rs. 1/- (Rupees One Only) has been paid by consolidated payment. This schedule read with the policy wordings forms the contract of insurance. Receipt No. GVG/RCPT/25/7746021."
+      }
+    ],
+    "signatory": "For and on behalf of Ganga Valley General Insurance Co. Ltd. - Authorised Signatory, Kolkata Commercial Lines Branch"
+  }
+}

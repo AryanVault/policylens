@@ -1,0 +1,14 @@
+{
+  "insured_name": "Kalinga Jalpath Infra Projects Pvt. Ltd.",
+  "insurer_name": "Ganga Valley General Insurance Co. Ltd.",
+  "policy_or_bond_number": "GVG/PL/2101/2025/0412387",
+  "document_type": "liability",
+  "sum_insured": 20000000.0,
+  "premium": 48500.0,
+  "gst_amount": 8730.0,
+  "period_start": "2025-06-15",
+  "period_end": "2026-06-14",
+  "beneficiary": null,
+  "doc_id": "doc_040",
+  "template": "schedule_table"
+}

@@ -1,0 +1,125 @@
+{
+  "plan": {
+    "doc_id": "doc_047",
+    "document_type": "surety_bond",
+    "layout": "schedule_table",
+    "amount_style": "rs_slash",
+    "date_style": "d_mon_y",
+    "insurer": "Vindhya Assurance Company Limited",
+    "party_hint": "pharmaceutical distributor in Ahmedabad",
+    "omit": []
+  },
+  "request_id": "req_011CgyrYUapL9mcdBzm2ydzG",
+  "generated": {
+    "truth": {
+      "insured_name": "Sabarmati Medisupply Distributors Private Limited",
+      "insurer_name": "Vindhya Assurance Company Limited",
+      "policy_or_bond_number": "VAC/SB/2025/0041872",
+      "document_type": "surety_bond",
+      "sum_insured": 7500000.0,
+      "premium": 84400.0,
+      "gst_amount": 15192.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-12-14",
+      "beneficiary": "Narmada State Medical Supplies Corporation Limited"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal / Contractor",
+        "text": "Sabarmati Medisupply Distributors Private Limited"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Vindhya Assurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Bond Number",
+        "text": "VAC/SB/2025/0041872"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "Rs. 75,00,000/-"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 84,400/-"
+      },
+      "gst_amount": {
+        "label": "IGST @ 18%",
+        "text": "Rs. 15,192/-"
+      },
+      "period_start": {
+        "label": "Bond Period - From",
+        "text": "15-Jun-2025"
+      },
+      "period_end": {
+        "label": "Bond Period - To",
+        "text": "14-Dec-2026"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Narmada State Medical Supplies Corporation Limited"
+      }
+    },
+    "title": "SURETY BOND (PERFORMANCE SECURITY) - SCHEDULE",
+    "insurer_address": "Vindhya House, 14 Hoshangabad Road, Arera Hills, Bhopal 462011, Madhya Pradesh",
+    "insured_address": "Unit 7-9, Shreeji Industrial Estate, Near Narol Circle, Narol, Ahmedabad 382405, Gujarat",
+    "extra_rows": [
+      {
+        "label": "Surety GSTIN",
+        "value": "23AAACV7314R1ZP"
+      },
+      {
+        "label": "Principal GSTIN",
+        "value": "24AAKCS4821M1Z6"
+      },
+      {
+        "label": "UIN",
+        "value": "IRDAN917RP0003V01202425"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-GJ-20417 / Kankaria Risk Advisors Private Limited"
+      },
+      {
+        "label": "Underlying Contract Reference",
+        "value": "NSMSC/RC/DRUGS/2025-26/118 dated 02-Jun-2025"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 500/-"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 99,592/-"
+      },
+      {
+        "label": "Premium Receipt No.",
+        "value": "VAC/RCPT/BPL/2025/556314"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Recitals",
+        "body": "Whereas the Principal named in the Schedule has entered into a rate contract with the Obligee for the supply and distribution of essential medicines and pharmaceutical consumables to government health facilities, and whereas the said contract requires the Principal to furnish a performance security in the form of a surety bond, the Surety at the request of the Principal has agreed to issue this bond in favour of the Obligee."
+      },
+      {
+        "heading": "Obligation of the Surety",
+        "body": "The Surety hereby undertakes to pay to the Obligee, on receipt of a written demand stating that the Principal has failed to perform its obligations under the underlying contract, any amount so demanded up to but not exceeding the Bond Amount stated in the Schedule. The aggregate liability of the Surety under this bond shall in no event exceed the Bond Amount, irrespective of the number of demands made."
+      },
+      {
+        "heading": "Conditions",
+        "body": "1. This bond is issued under the Surety Insurance Contracts guidelines of the Insurance Regulatory and Development Authority of India and is governed by the terms of the approved product bearing the UIN shown above. 2. The bond is irrevocable during its validity and shall not be cancelled for non-payment of premium once issued. 3. Any amendment to the underlying contract that materially increases the obligations of the Principal shall require the prior written consent of the Surety. 4. The Principal shall indemnify the Surety for all amounts paid under this bond, together with costs, in accordance with the Deed of Indemnity executed separately."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "A demand under this bond must be lodged in writing at the issuing office of the Surety within the bond period or within the claim period of twelve months thereafter, accompanied by a copy of the notice of default served on the Principal. The Surety shall settle an admissible demand within thirty days of receipt of complete documents. Grievances may be addressed to the Grievance Redressal Officer of the Surety or to the Insurance Ombudsman having jurisdiction."
+      },
+      {
+        "heading": "Governing Law and Jurisdiction",
+        "body": "This bond shall be governed by the laws of India. Courts at Ahmedabad shall have exclusive jurisdiction in respect of any dispute arising under this bond. Stamp duty has been paid as applicable under the Gujarat Stamp Act, 1958."
+      }
+    ],
+    "signatory": "For and on behalf of Vindhya Assurance Company Limited - Authorised Signatory, Surety and Credit Underwriting Department, Bhopal"
+  }
+}

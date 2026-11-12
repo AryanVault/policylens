@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_021",
+    "document_type": "marine",
+    "layout": "certificate",
+    "amount_style": "rupee_indian",
+    "date_style": "month_first_long",
+    "insurer": "Deccan Shield Insurance Limited",
+    "party_hint": "water-supply pipeline contractor in Bhubaneswar",
+    "omit": []
+  },
+  "request_id": "req_011CgyrN3rVSw4GJ7VzDRro9",
+  "generated": {
+    "truth": {
+      "insured_name": "Kalinga Jalpath Infra Projects Private Limited",
+      "insurer_name": "Deccan Shield Insurance Limited",
+      "policy_or_bond_number": "DSI/MAR/OP/2025/004718",
+      "document_type": "marine",
+      "sum_insured": 45000000.0,
+      "premium": 36000.0,
+      "gst_amount": 6480.0,
+      "period_start": "2025-06-01",
+      "period_end": "2026-05-31",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Kalinga Jalpath Infra Projects Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Deccan Shield Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Open Policy No.",
+        "text": "DSI/MAR/OP/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured (Annual Turnover Declared)",
+        "text": "₹4,50,00,000.00"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "₹36,000.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "₹6,480.00"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "June 1, 2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "May 31, 2026"
+      },
+      "beneficiary": null
+    },
+    "title": "MARINE CARGO OPEN POLICY - CERTIFICATE OF INSURANCE (INLAND TRANSIT)",
+    "insurer_address": "Deccan Shield House, Plot No. 14, Begumpet Main Road, Hyderabad, Telangana 500016. Bhubaneswar Branch: 3rd Floor, Utkal Trade Centre, Janpath, Saheed Nagar, Bhubaneswar, Odisha 751007. CIN: U66030TG2009PLC071284",
+    "insured_address": "Plot No. 217/B, Mancheswar Industrial Estate, Rasulgarh, Bhubaneswar, Khordha, Odisha 751010",
+    "extra_rows": [
+      {
+        "label": "GSTIN of Insured",
+        "value": "21AAKCK4821M1Z6"
+      },
+      {
+        "label": "GSTIN of Insurer (Odisha)",
+        "value": "21AADCD7390P1ZQ"
+      },
+      {
+        "label": "UIN",
+        "value": "IRDAN172RP0011V01202526"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-OD-00562 / Swastik Risk Advisory Brokers Pvt. Ltd."
+      },
+      {
+        "label": "Limit Per Conveyance / Any One Transit",
+        "value": "₹50,00,000.00"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "₹3,240.00"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "₹3,240.00"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "₹42,480.00"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Subject-Matter Insured",
+        "body": "Ductile iron (DI) pipes, mild steel (MS) pipes with epoxy lining, HDPE pipes and coils, specials, valves, flanges, sluice gates, pumping-station accessories and allied materials meant for water-supply pipeline projects, packed as per normal trade practice. Basis of valuation: invoice value plus 10 percent."
+      },
+      {
+        "heading": "Voyage and Conveyance",
+        "body": "Transit by rail and/or road (by registered public carriers or the Insured's own vehicles) from any manufacturer's works or vendor's godown within India to project sites, site stores and intermediate stockyards situated in the State of Odisha, including incidental loading and unloading. Transit-wise declarations shall be submitted monthly to the issuing office."
+      },
+      {
+        "heading": "Conditions and Clauses",
+        "body": "Inland Transit Clause (A) - All Risks for rail/road, subject to Strikes, Riots and Civil Commotion Clause (Inland Transit), Sanction Limitation and Exclusion Clause and Termination of Transit Clause (Terrorism). Excess: 1 percent of claim amount subject to a minimum as per schedule. Rusting, oxidation, discolouration and denting of pipes not affecting serviceability are excluded."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "In the event of loss or damage, notify the issuing office and the nearest surveyor appointed by the Company immediately and in any case within 7 days of receipt of consignment. Lodge a monetary claim on the carrier in writing within the statutory period and preserve recovery rights. Submit invoice, lorry receipt/railway receipt, packing list, survey report and claim bill."
+      },
+      {
+        "heading": "Important Notice",
+        "body": "This certificate is issued under and subject to the terms of the Open Policy referenced above. Stamp duty has been paid by the Company in accordance with the Indian Stamp Act, 1899. For grievances, contact the Grievance Redressal Officer at the issuing office or approach the Insurance Ombudsman, Bhubaneswar. Insurance is the subject matter of solicitation."
+      }
+    ],
+    "signatory": "For Deccan Shield Insurance Limited - Authorised Signatory, Marine Underwriting, Bhubaneswar Branch (Issued at Bhubaneswar on May 28, 2025)"
+  }
+}

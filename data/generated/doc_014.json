@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_014",
+    "document_type": "health",
+    "layout": "two_column",
+    "amount_style": "words_paren",
+    "date_style": "dmy_slash",
+    "insurer": "Deccan Shield Insurance Limited",
+    "party_hint": "pharmaceutical distributor in Ahmedabad",
+    "omit": []
+  },
+  "request_id": "req_011CgyrKkRCjQovbfcCFsbFk",
+  "generated": {
+    "truth": {
+      "insured_name": "Sabarmati Medisupply Distributors Private Limited",
+      "insurer_name": "Deccan Shield Insurance Limited",
+      "policy_or_bond_number": "DSI/GHI/2025/24/0047318",
+      "document_type": "health",
+      "sum_insured": 15000000.0,
+      "premium": 386400.0,
+      "gst_amount": 69552.0,
+      "period_start": "2025-07-01",
+      "period_end": "2026-06-30",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Policyholder",
+        "text": "Sabarmati Medisupply Distributors Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Deccan Shield Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "DSI/GHI/2025/24/0047318"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured (Group)",
+        "text": "Rs. 1,50,00,000/- (Rupees One Crore Fifty Lakh Only)"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 3,86,400/- (Rupees Three Lakh Eighty Six Thousand Four Hundred Only)"
+      },
+      "gst_amount": {
+        "label": "Goods and Services Tax @ 18%",
+        "text": "Rs. 69,552/- (Rupees Sixty Nine Thousand Five Hundred Fifty Two Only)"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "01/07/2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "30/06/2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Group Health Insurance Policy - Policy Schedule",
+    "insurer_address": "Deccan Shield House, 7th Floor, Road No. 12, Banjara Hills, Hyderabad, Telangana 500034",
+    "insured_address": "Plot No. 14, Narol-Aslali Highway Industrial Estate, Narol, Ahmedabad, Gujarat 382405",
+    "extra_rows": [
+      {
+        "label": "Policyholder GSTIN",
+        "value": "24AAHCS4471K1Z8"
+      },
+      {
+        "label": "Product UIN",
+        "value": "DECHLGP26012V012526"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Kankaria Insurance Brokers Pvt. Ltd. / BRK-GJ-00872"
+      },
+      {
+        "label": "Number of Employees Covered",
+        "value": "50 (Employee + Spouse + 2 Dependent Children)"
+      },
+      {
+        "label": "Sum Insured per Family (Floater)",
+        "value": "Rs. 3,00,000/- (Rupees Three Lakh Only)"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 34,776/- (Rupees Thirty Four Thousand Seven Hundred Seventy Six Only)"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 34,776/- (Rupees Thirty Four Thousand Seven Hundred Seventy Six Only)"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 4,55,952/- (Rupees Four Lakh Fifty Five Thousand Nine Hundred Fifty Two Only)"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Scope of Cover",
+        "body": "The Policy indemnifies the Insured Persons for reasonable and customary medical expenses incurred on in-patient hospitalisation for a minimum period of 24 consecutive hours, day care procedures, pre-hospitalisation expenses up to 30 days and post-hospitalisation expenses up to 60 days, and road ambulance charges, subject to the floater limit per family shown in the Schedule. Room rent is restricted to 1% of the family floater limit per day for normal rooms and 2% per day for ICU. Maternity cover is included with a sub-limit as per the Annexure."
+      },
+      {
+        "heading": "Waiting Periods and Exclusions",
+        "body": "The 30-day initial waiting period, the first-year exclusion for specified diseases and the waiting period for pre-existing diseases are waived for this group. Standard exclusions apply, including cosmetic or aesthetic treatment, treatment arising from alcohol or substance abuse, self-inflicted injury, war and nuclear perils, experimental treatment, and expenses not medically necessary, as detailed in the Policy Wordings."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "For cashless treatment at a network hospital, the Insured Person shall present the health card issued by the in-house Health Administration Team and the hospital will seek pre-authorisation. For reimbursement claims, intimation must be given within 48 hours of admission and the claim documents submitted within 30 days of discharge. Claims helpline: 1800-425-7713 (toll free), email: healthclaims@deccanshield.example."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "Any grievance may be addressed to the Grievance Redressal Officer at the Registered Office or at grievance@deccanshield.example. If the complaint is not resolved within 15 days, the policyholder may approach the Insurance Ombudsman, Ahmedabad, as per the Insurance Ombudsman Rules, 2017, or register the grievance through the Bima Bharosa portal of IRDAI."
+      },
+      {
+        "heading": "Important Notes",
+        "body": "This Schedule is to be read together with the Policy Wordings and Endorsements, if any. Additions and deletions of members during the policy period shall be effected on pro-rata basis. Stamp duty has been paid by consolidated method. Insurance is the subject matter of solicitation. Deccan Shield Insurance Limited, IRDAI Registration No. 187, CIN U66010TG2015PLC098734."
+      }
+    ],
+    "signatory": "For Deccan Shield Insurance Limited - Authorised Signatory (Ramesh K. Iyengar, Head - Health Underwriting), Ahmedabad Branch, issued on 28/06/2025"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_054",
+    "document_type": "health",
+    "layout": "certificate",
+    "amount_style": "words_paren",
+    "date_style": "dmy_dot",
+    "insurer": "Kaveri Assurance Co. Ltd.",
+    "party_hint": "road construction contractor in Pune",
+    "omit": []
+  },
+  "request_id": "req_011CgyrarErnP4fpFJH1CHmi",
+  "generated": {
+    "truth": {
+      "insured_name": "Sahyadri Infraroads Private Limited",
+      "insurer_name": "Kaveri Assurance Co. Ltd.",
+      "policy_or_bond_number": "KAC/GHI/2025/PN/004817",
+      "document_type": "health",
+      "sum_insured": 18000000.0,
+      "premium": 742500.0,
+      "gst_amount": 133650.0,
+      "period_start": "2025-07-15",
+      "period_end": "2026-07-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Policyholder",
+        "text": "Sahyadri Infraroads Private Limited"
+      },
+      "insurer_name": {
+        "label": "Issued by",
+        "text": "Kaveri Assurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Master Policy No.",
+        "text": "KAC/GHI/2025/PN/004817"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured (All Members)",
+        "text": "Rs. 1,80,00,000/- (Rupees One Crore Eighty Lakh Only)"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 7,42,500/- (Rupees Seven Lakh Forty Two Thousand Five Hundred Only)"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 1,33,650/- (Rupees One Lakh Thirty Three Thousand Six Hundred Fifty Only)"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15.07.2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "14.07.2026"
+      },
+      "beneficiary": null
+    },
+    "title": "CERTIFICATE OF INSURANCE - GROUP HEALTH INSURANCE (EMPLOYER-EMPLOYEE)",
+    "insurer_address": "Kaveri Assurance Co. Ltd., Regd. Office: 7th Floor, Tungabhadra Towers, 42 Residency Cross Road, Bengaluru - 560025, Karnataka. Pune Branch: Office No. 304, Mutha Business Square, Bund Garden Road, Pune - 411001. CIN: U66010KA2011PLC058213. IRDAI Reg. No. 187",
+    "insured_address": "Sahyadri Infraroads Private Limited, Plot No. 18, Survey No. 112/3, Pashan-Sus Road, Baner, Pune - 411045, Maharashtra",
+    "extra_rows": [
+      {
+        "label": "Policyholder GSTIN",
+        "value": "27AAKCS4821M1Z6"
+      },
+      {
+        "label": "Product UIN",
+        "value": "KAVHLGP25041V012425"
+      },
+      {
+        "label": "Intermediary Name & Code",
+        "value": "Deccan Shield Insurance Brokers Pvt. Ltd. - BRK-PN-01294"
+      },
+      {
+        "label": "Number of Employees Covered",
+        "value": "60 Employees with Spouse and up to 2 Dependent Children"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 66,825/- (Rupees Sixty Six Thousand Eight Hundred Twenty Five Only)"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 66,825/- (Rupees Sixty Six Thousand Eight Hundred Twenty Five Only)"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 8,76,150/- (Rupees Eight Lakh Seventy Six Thousand One Hundred Fifty Only)"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 50/- (Rupees Fifty Only) vide Challan No. MH-GRAS-2025-0718842"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Scope of Cover",
+        "body": "This certificate evidences that the employees of the Policyholder named in the Schedule, together with their enrolled dependants, are covered on a family floater basis for In-patient Hospitalisation expenses, Pre-hospitalisation (30 days) and Post-hospitalisation (60 days) expenses, Day Care Procedures, Domiciliary Hospitalisation and Ambulance charges, subject to the terms, conditions and exclusions of the Master Policy."
+      },
+      {
+        "heading": "Special Conditions Applicable to this Group",
+        "body": "Waiver of 30-day initial waiting period, waiver of pre-existing disease exclusion and waiver of first-year exclusions. Maternity benefit covered with a sub-limit as per the Member Benefit Table. Room rent restricted to 1% of individual floater cover for normal room and 2% for ICU. Co-payment of 10% applicable for parents if enrolled at a later endorsement."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "Cashless facility is available at network hospitals through the in-house Health Administration Team of the Company. Intimation of planned hospitalisation must be given at least 48 hours in advance and emergency hospitalisation within 24 hours of admission on Toll Free No. 1800-210-4477 or email healthclaims@kaveriassurance.example. Reimbursement claims must be submitted within 30 days of discharge."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "In case of any grievance, the insured may contact the Grievance Officer, Kaveri Assurance Co. Ltd., at the Registered Office address. If the grievance is not resolved within 15 days, the insured may approach the Bima Bharosa portal of IRDAI or the Insurance Ombudsman, Pune, as per the Insurance Ombudsman Rules, 2017."
+      },
+      {
+        "heading": "Important Notice",
+        "body": "This certificate is issued in accordance with the Master Policy held by the Policyholder and is subject to realisation of premium. Insurance is the subject matter of solicitation. The Master Policy wording, Member Benefit Table and list of enrolled members form part of this certificate. Any alteration in this certificate renders it void."
+      }
+    ],
+    "signatory": "For and on behalf of Kaveri Assurance Co. Ltd., Authorised Signatory - Rohini V. Deshpande, Branch Manager (Health Underwriting), Pune Branch. Place: Pune. Date of Issue: 14.07.2025"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "insured_name": "Mahanadi Jalpath Infrastructure Pvt. Ltd.",
+  "insurer_name": "Konark General Insurance Company Ltd.",
+  "policy_or_bond_number": "KGI/BBS/CPL/2025/004718",
+  "document_type": "liability",
+  "sum_insured": 50000000.0,
+  "premium": 118750.0,
+  "gst_amount": 21375.0,
+  "period_start": "2025-05-01",
+  "period_end": "2026-04-30",
+  "beneficiary": null,
+  "doc_id": "doc_016",
+  "template": "schedule_table"
+}

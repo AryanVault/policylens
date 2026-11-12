@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_043",
+    "document_type": "motor",
+    "layout": "schedule_table",
+    "amount_style": "inr_western",
+    "date_style": "dmy_dash",
+    "insurer": "Konark General Insurance Company Ltd.",
+    "party_hint": "food processing unit in Indore",
+    "omit": []
+  },
+  "request_id": "req_011CgyrWGgtk8xDagGojoKoM",
+  "generated": {
+    "truth": {
+      "insured_name": "Shivranjani Food Processors Pvt. Ltd.",
+      "insurer_name": "Konark General Insurance Company Ltd.",
+      "policy_or_bond_number": "KGI/MOT/GCV/2025/0071834",
+      "document_type": "motor",
+      "sum_insured": 1850000.0,
+      "premium": 48276.0,
+      "gst_amount": 8689.68,
+      "period_start": "2025-07-15",
+      "period_end": "2026-07-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Insured",
+        "text": "Shivranjani Food Processors Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Konark General Insurance Company Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "KGI/MOT/GCV/2025/0071834"
+      },
+      "sum_insured": {
+        "label": "Total IDV (Sum Insured)",
+        "text": "INR 1,850,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (Own Damage + Liability)",
+        "text": "INR 48,276.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "INR 8,689.68"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15-07-2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "14-07-2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Goods Carrying Commercial Vehicle Package Policy - Certificate of Insurance cum Policy Schedule",
+    "insurer_address": "Konark General Insurance Company Ltd., Regd. Office: Konark House, 14 Rajpath Marg, Unit 3, Bhubaneswar, Odisha 751009. Policy Servicing Office: 3rd Floor, Shreeji Arcade, 22 AB Road, Indore, Madhya Pradesh 452010. CIN: U66010OR2011PLC047392. IRDAI Reg. No. 187",
+    "insured_address": "Plot No. 47, Sector F, Sanwer Road Industrial Area, Indore, Madhya Pradesh 452015",
+    "extra_rows": [
+      {
+        "label": "Vehicle Registration No.",
+        "value": "MP09 GH 4471 (Tata 1512 LPT Insulated Reefer Truck, GVW 16,020 kg, Mfg. Year 2023)"
+      },
+      {
+        "label": "UIN",
+        "value": "IRDAN187RP0012V02201920"
+      },
+      {
+        "label": "Insurer GSTIN",
+        "value": "23AAFCK7192M1ZQ"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-MP-04417 / Narmada Insurance Brokers Pvt. Ltd."
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "INR 4,344.84"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "INR 4,344.84"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "INR 56,965.68"
+      },
+      {
+        "label": "Compulsory Deductible (Own Damage)",
+        "value": "INR 1,500.00"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Geographical Area and Limitations as to Use",
+        "body": "Geographical area: India. The policy covers use of the vehicle only under a public or private carrier permit within the meaning of the Motor Vehicles Act, 1988, for the carriage of goods in connection with the insured's food processing business. The policy does not cover use for organised racing, pace making, reliability trials, speed testing, or the carriage of hazardous goods, nor use for hire or reward outside the terms of the permit."
+      },
+      {
+        "heading": "Driver Clause",
+        "body": "Any person including the insured, provided that the person driving holds an effective and valid driving licence authorising the driving of a transport vehicle of this class at the time of the accident and is not disqualified from holding or obtaining such a licence. A person holding a learner's licence may also drive the vehicle when not used for transport of goods at that time, subject to the requirements of Rule 3 of the Central Motor Vehicles Rules, 1989."
+      },
+      {
+        "heading": "Coverage Details",
+        "body": "Section I - Own Damage to the insured vehicle including the insulated reefer body. Section II - Liability to Third Parties for death, bodily injury and property damage as per the Motor Vehicles Act, 1988. Section III - Compulsory Personal Accident cover for the owner-driver is not applicable as the registered owner is a company. Legal liability to one paid driver and one cleaner (IMT 39) is included. Add-on covers opted: Zero Depreciation (Nil Depreciation on parts) and Roadside Assistance."
+      },
+      {
+        "heading": "Important Notice",
+        "body": "I/We hereby certify that the policy to which this certificate relates as well as this certificate of insurance are issued in accordance with the provisions of Chapter X and Chapter XI of the Motor Vehicles Act, 1988. The insured is not indemnified if the vehicle is used or driven otherwise than in accordance with this schedule. Any payment made by the company by reason of wider terms appearing in the certificate in order to comply with the Motor Vehicles Act, 1988 is recoverable from the insured. Stamp duty has been paid by consolidated method vide e-challan as authorised by the Government of Madhya Pradesh."
+      },
+      {
+        "heading": "Claims and Grievance Redressal",
+        "body": "In the event of an accident, intimate the company immediately on the 24x7 toll-free number 1800-209-4417 or at claims@konarkgeneral.example.in, quoting the policy number. For grievances, contact the Grievance Redressal Officer at the policy servicing office. If unresolved within 15 days, the insured may approach the Insurance Ombudsman, Bhopal, or register a complaint on the Bima Bharosa portal of IRDAI."
+      }
+    ],
+    "signatory": "For and on behalf of Konark General Insurance Company Ltd. - Authorised Signatory (Rakesh Venugopal, Branch Manager, Indore). Place: Indore. Date of Issue: 14-07-2025"
+  }
+}

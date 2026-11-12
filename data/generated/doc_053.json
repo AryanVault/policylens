@@ -1,0 +1,126 @@
+{
+  "plan": {
+    "doc_id": "doc_053",
+    "document_type": "marine",
+    "layout": "two_column",
+    "amount_style": "inr_western",
+    "date_style": "d_mon_y",
+    "insurer": "Narmada General Insurance Co. Ltd.",
+    "party_hint": "water-supply pipeline contractor in Bhubaneswar",
+    "omit": []
+  },
+  "request_id": "req_011CgyraLYBUa5uLuU6HUnQi",
+  "generated": {
+    "truth": {
+      "insured_name": "Kalinga Jalpath Infrastructure Pvt. Ltd.",
+      "insurer_name": "Narmada General Insurance Co. Ltd.",
+      "policy_or_bond_number": "NGI/MCO/2025/2104/0047813",
+      "document_type": "marine",
+      "sum_insured": 85000000.0,
+      "premium": 68000.0,
+      "gst_amount": 12240.0,
+      "period_start": "2025-05-15",
+      "period_end": "2026-05-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Kalinga Jalpath Infrastructure Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Narmada General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "NGI/MCO/2025/2104/0047813"
+      },
+      "sum_insured": {
+        "label": "Annual Sum Insured (Estimated Annual Turnover)",
+        "text": "INR 85,000,000.00"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "INR 68,000.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "INR 12,240.00"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15-May-2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "14-May-2026"
+      },
+      "beneficiary": null
+    },
+    "title": "MARINE CARGO OPEN POLICY - POLICY SCHEDULE",
+    "insurer_address": "Narmada General Insurance Co. Ltd., Regional Office: 4th Floor, Utkal Trade Tower, Janpath, Unit-III, Kharavela Nagar, Bhubaneswar - 751001, Odisha. CIN: U66010MH2009PLC193842. IRDAI Reg. No. 172",
+    "insured_address": "Plot No. 118/B, Mancheswar Industrial Estate, Rasulgarh, Bhubaneswar - 751010, Khordha District, Odisha",
+    "extra_rows": [
+      {
+        "label": "Insured GSTIN",
+        "value": "21AAKCK4821M1Z7"
+      },
+      {
+        "label": "Insurer GSTIN",
+        "value": "21AADCN7314Q1ZK"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN172CP0018V01202425"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-OD-00938 / Mahanadi Risk Advisors Pvt. Ltd."
+      },
+      {
+        "label": "Limit Per Sending (Any One Conveyance)",
+        "value": "INR 6,000,000.00"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "INR 6,120.00"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "INR 6,120.00"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "INR 80,240.00"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Subject-Matter Insured",
+        "body": "Ductile iron pipes (K7 and K9 class), MS and HDPE pipes, specials, sluice valves, air valves, flanges, couplings, pumping machinery and allied water-supply pipeline materials, new and properly packed, pertaining to the insured's drinking water supply and pipeline laying projects."
+      },
+      {
+        "heading": "Voyage / Transit",
+        "body": "Inland transit by rail and/or road from any supplier's works or warehouse in India to any project site, stores or godown of the insured in the State of Odisha, including transit between project sites. Cover attaches from the time goods leave the warehouse at the place named for commencement of transit and terminates on delivery at the final destination, subject to the Transit Clause."
+      },
+      {
+        "heading": "Conditions and Clauses",
+        "body": "Inland Transit (Rail or Road) Clause A (All Risks), Strikes Riots and Civil Commotion Clause (Inland Transit), Declaration Clause, Basis of Valuation: Invoice value plus 10 percent. Excess: 0.5 percent of consignment value subject to a minimum of INR 10,000.00 each and every claim. Excluded: rust, oxidisation and discolouration unless caused by an insured peril; unprotected loading on open trucks beyond tarpaulin requirements."
+      },
+      {
+        "heading": "Declarations and Adjustment",
+        "body": "The insured shall declare every despatch within 15 days of the end of each month. Premium charged is a deposit premium on the estimated annual turnover; final premium shall be adjusted on expiry on the basis of actual declarations, subject to retention of 75 percent of the deposit premium."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "In the event of loss or damage, give immediate notice to the nearest office of the Company and the appointed surveyor, lodge monetary claim on the carrier within the statutory time limit, and preserve the damaged packages for inspection. Claims documents: original invoice, lorry receipt or railway receipt, survey report, copy of claim on carrier and its acknowledgement."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, write to the Grievance Officer at the Regional Office above or call the toll-free number 1800-209-4417. If unresolved within 15 days, the insured may approach the Insurance Ombudsman, Bhubaneswar, or register the complaint on the Bima Bharosa portal of IRDAI. Stamp duty paid by consolidated method as per authorisation of the Government of Odisha."
+      }
+    ],
+    "signatory": "For and on behalf of Narmada General Insurance Co. Ltd. - Authorised Signatory, Marine Underwriting, Bhubaneswar Regional Office"
+  }
+}

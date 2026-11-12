@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_010",
+    "document_type": "fire",
+    "layout": "schedule_table",
+    "amount_style": "lakh_crore",
+    "date_style": "ordinal_long",
+    "insurer": "Narmada General Insurance Co. Ltd.",
+    "party_hint": "civil works contractor in Lucknow",
+    "omit": []
+  },
+  "request_id": "req_011CgyrK4rwPgRnLJkmdpvNp",
+  "generated": {
+    "truth": {
+      "insured_name": "Gomti Infracon Builders Pvt. Ltd.",
+      "insurer_name": "Narmada General Insurance Co. Ltd.",
+      "policy_or_bond_number": "NGI/LKO/1104/F/2025/004781",
+      "document_type": "fire",
+      "sum_insured": 45000000.0,
+      "premium": 38250.0,
+      "gst_amount": 6885.0,
+      "period_start": "2025-07-15",
+      "period_end": "2026-07-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Gomti Infracon Builders Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Narmada General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "NGI/LKO/1104/F/2025/004781"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured",
+        "text": "Rs. 4.5 Crore"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 38,250"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 6,885.00"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15th July 2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "14th July 2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Standard Fire and Special Perils Policy - Policy Schedule",
+    "insurer_address": "Narmada General Insurance Co. Ltd., Regional Office: 3rd Floor, Kapoorthala Business Centre, Aliganj, Lucknow, Uttar Pradesh 226024. Registered Office: Narmada Bhawan, 14 Riverfront Road, Ahmedabad, Gujarat 380009. CIN: U66010GJ2011PLC098456. IRDAI Reg. No. 187",
+    "insured_address": "Plot No. 27, Sector C, Transport Nagar Industrial Area, Kanpur Road, Lucknow, Uttar Pradesh 226012",
+    "extra_rows": [
+      {
+        "label": "Insured GSTIN",
+        "value": "09AAKCG4417M1Z6"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN187RP0012V02201920"
+      },
+      {
+        "label": "Location of Risk",
+        "value": "Central Store and Plant Yard, Khasra No. 412, Bijnor Road, Lucknow 226002"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-LKO-00936 / Awadh Risk Advisors Pvt. Ltd."
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 3,442.50"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 3,442.50"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 45,135"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 1"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Description of Property Insured",
+        "body": "Building superstructure of site office and covered store, plant and machinery including concrete batching plant, stationary compressors and workshop equipment, and stocks of construction materials such as cement, steel reinforcement, aggregates and bitumen held at the location of risk stated in this schedule. Itemwise values are as per the proposal form dated prior to inception, which forms the basis of this contract."
+      },
+      {
+        "heading": "Perils Covered",
+        "body": "Fire, lightning, explosion or implosion, aircraft damage, riot, strike and malicious damage, storm, cyclone, typhoon, tempest, hurricane, tornado, flood and inundation, impact damage, subsidence and landslide including rockslide, bursting or overflowing of water tanks and pipes, missile testing operations, leakage from automatic sprinkler installations and bush fire. Earthquake and terrorism covers are not opted under this policy."
+      },
+      {
+        "heading": "Excess and Special Conditions",
+        "body": "Each and every claim is subject to an excess of 5% of the claim amount, subject to a minimum of Rs. 10,000, for Act of God perils, and Rs. 10,000 for all other perils. Stocks shall be stored on raised platforms during the monsoon months. The Reinstatement Value Clause applies to building and plant and machinery; stocks are covered on market value basis. Average clause applies."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "In the event of any loss, intimate the Insurer immediately on the toll-free number 1800-209-4471 or at claims.lko@narmadagic.example.in, and in any case within 7 days. Preserve damaged property for survey. In case of fire, riot or malicious damage, a police report or fire brigade report must be submitted."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, write to the Grievance Officer at the Regional Office address above or email grievance@narmadagic.example.in. If not resolved within 14 days, you may approach the Insurance Ombudsman, Lucknow, or register a complaint on the IRDAI Bima Bharosa portal. This policy is issued subject to the IRDAI (Protection of Policyholders' Interests) Regulations and the terms, conditions and exclusions of the Standard Fire and Special Perils Policy wording attached."
+      }
+    ],
+    "signatory": "For and on behalf of Narmada General Insurance Co. Ltd. - Authorised Signatory, Regional Office Lucknow"
+  }
+}

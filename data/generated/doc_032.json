@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_032",
+    "document_type": "liability",
+    "layout": "two_column",
+    "amount_style": "rs_slash",
+    "date_style": "dmy_slash",
+    "insurer": "Vindhya Assurance Company Limited",
+    "party_hint": "steel trader in Raipur",
+    "omit": []
+  },
+  "request_id": "req_011CgyrSPmRhuMyoLE6X77Np",
+  "generated": {
+    "truth": {
+      "insured_name": "Shree Mahamaya Steel Traders Private Limited",
+      "insurer_name": "Vindhya Assurance Company Limited",
+      "policy_or_bond_number": "VAC/PLI/2025/2104/00038712",
+      "document_type": "liability",
+      "sum_insured": 20000000.0,
+      "premium": 38500.0,
+      "gst_amount": 6930.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Shree Mahamaya Steel Traders Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Vindhya Assurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "VAC/PLI/2025/2104/00038712"
+      },
+      "sum_insured": {
+        "label": "Limit of Indemnity - Any One Year (AOY)",
+        "text": "Rs. 2,00,00,000/-"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 38,500/-"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 6,930/-"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15/06/2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "14/06/2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Public Liability Insurance (Industrial Risks) - Policy Schedule",
+    "insurer_address": "Vindhya Assurance Company Limited, Regd. Office: 7th Floor, Narmada Trade Tower, Plot No. 12, Arera Hills, Bhopal - 462011, Madhya Pradesh. Policy Servicing Office: 2nd Floor, Kanchan Business Centre, G.E. Road, Telibandha, Raipur - 492006, Chhattisgarh. CIN: U66010MP2009PLC071846. IRDAI Reg. No. 978",
+    "insured_address": "Plot No. 47-B, Sector 3, Siltara Industrial Growth Centre, Phase II, Raipur - 493221, Chhattisgarh",
+    "extra_rows": [
+      {
+        "label": "GSTIN of Insured",
+        "value": "22AAKCS4821M1Z7"
+      },
+      {
+        "label": "Product UIN",
+        "value": "VINLIIP25012V012425"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Raipur Risk Advisors Pvt. Ltd. / BRK-0457"
+      },
+      {
+        "label": "Limit of Indemnity - Any One Accident (AOA)",
+        "value": "Rs. 50,00,000/-"
+      },
+      {
+        "label": "Deductible (Each and Every Claim, Property Damage)",
+        "value": "Rs. 25,000/-"
+      },
+      {
+        "label": "CGST @ 9% / SGST @ 9%",
+        "value": "Rs. 3,465/- / Rs. 3,465/-"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 45,430/-"
+      },
+      {
+        "label": "Premium Receipt No.",
+        "value": "RCP/RPR/2025/116608 dated 13/06/2025"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Business and Location of Risk",
+        "body": "Trading, storage and dispatch of TMT bars, structural steel, MS plates, HR/CR coils and allied steel products, including loading and unloading by overhead cranes and forklifts at the insured premises. Location of risk: godown and yard at Siltara Industrial Growth Centre, Phase II, Raipur, Chhattisgarh. Total turnover declared for rating: as per proposal form dated 10/06/2025."
+      },
+      {
+        "heading": "Operative Clause",
+        "body": "Subject to the terms, exclusions and conditions of this Policy, the Company will indemnify the Insured against legal liability to pay compensation, together with claimant's costs and expenses, in respect of accidental death or bodily injury to any third party and accidental loss of or damage to third-party property, arising out of the insured business at the location of risk and occurring during the period of insurance. Defence costs incurred with the prior written consent of the Company are payable within and not in addition to the limits of indemnity."
+      },
+      {
+        "heading": "Principal Exclusions",
+        "body": "Liability under any workmen's compensation or employees' state insurance legislation; liability assumed by agreement unless such liability would have attached in the absence of such agreement; pollution or contamination other than sudden, unintended and unexpected events; products liability for goods after they have left the custody of the Insured; fines, penalties, punitive or exemplary damages; war, nuclear risks and terrorism; and loss of or damage to property belonging to or in the care, custody or control of the Insured."
+      },
+      {
+        "heading": "Conditions and Claims Procedure",
+        "body": "The Insured shall give immediate written notice to the Company of any occurrence likely to give rise to a claim and shall forward every letter, claim, summons or legal process unanswered. No admission, offer, promise or payment shall be made without the written consent of the Company. Claims may be intimated at the Raipur servicing office or on the Company's toll-free number 1800-209-4417. Disputes are subject to the jurisdiction of Indian courts and the Insurance Ombudsman as per the Insurance Ombudsman Rules, 2017."
+      },
+      {
+        "heading": "Important Notes",
+        "body": "This schedule is issued on the basis of the proposal and declaration signed by the Insured, which form the basis of this contract. Stamp duty of Rs. 1/- paid by consolidated method vide order of the competent authority. Please verify the details printed in this schedule and report any discrepancy within 15 days of receipt. Insurance is the subject matter of solicitation. For grievances write to grievance.raipur@vindhyaassurance.example.in."
+      }
+    ],
+    "signatory": "For and on behalf of Vindhya Assurance Company Limited - Authorised Signatory (Rakesh Venkat Dewangan, Branch Manager, Raipur)"
+  }
+}

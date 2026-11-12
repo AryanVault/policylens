@@ -1,0 +1,14 @@
+{
+  "insured_name": "Marudhara Solarworks Private Limited",
+  "insurer_name": "Kaveri Assurance Co. Ltd.",
+  "policy_or_bond_number": null,
+  "document_type": "surety_bond",
+  "sum_insured": 18500000.0,
+  "premium": 222000.0,
+  "gst_amount": 39960.0,
+  "period_start": "2026-04-15",
+  "period_end": "2027-10-14",
+  "beneficiary": "Rajasthan State Rooftop Solar Mission Directorate",
+  "doc_id": "doc_057",
+  "template": "certificate"
+}

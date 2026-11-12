@@ -1,0 +1,125 @@
+{
+  "plan": {
+    "doc_id": "doc_044",
+    "document_type": "surety_bond",
+    "layout": "schedule_table",
+    "amount_style": "words_paren",
+    "date_style": "dmy_slash",
+    "insurer": "Deccan Shield Insurance Limited",
+    "party_hint": "individual salaried professional in Hyderabad",
+    "omit": []
+  },
+  "request_id": "req_011CgyrWQedG69M7cc1J3s9K",
+  "generated": {
+    "truth": {
+      "insured_name": "Ms. Lakshmi Prasanna Vemulapalli",
+      "insurer_name": "Deccan Shield Insurance Limited",
+      "policy_or_bond_number": "DSIL/SB/HYD/2025/004417",
+      "document_type": "surety_bond",
+      "sum_insured": 1500000.0,
+      "premium": 27000.0,
+      "gst_amount": 4860.0,
+      "period_start": "2025-04-01",
+      "period_end": "2027-03-31",
+      "beneficiary": "Krishnaveni State Power Generation Corporation Limited"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Principal",
+        "text": "Ms. Lakshmi Prasanna Vemulapalli"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Deccan Shield Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "DSIL/SB/HYD/2025/004417"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "Rs. 15,00,000/- (Rupees Fifteen Lakh Only)"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 27,000/- (Rupees Twenty Seven Thousand Only)"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 4,860/- (Rupees Four Thousand Eight Hundred Sixty Only)"
+      },
+      "period_start": {
+        "label": "Bond Period - From",
+        "text": "01/04/2025"
+      },
+      "period_end": {
+        "label": "Bond Period - To",
+        "text": "31/03/2027"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Krishnaveni State Power Generation Corporation Limited"
+      }
+    },
+    "title": "SURETY BOND SCHEDULE - SERVICE AGREEMENT GUARANTEE BOND",
+    "insurer_address": "Deccan Shield Insurance Limited, Regd. & Corporate Office: 7th Floor, Shield Towers, Plot No. 42, Raj Bhavan Road, Somajiguda, Hyderabad - 500082, Telangana. CIN: U66010TG2014PLC094521. IRDAI Reg. No. 187",
+    "insured_address": "Flat No. 503, Sri Sai Residency, Road No. 6, Kakatiya Hills, Madhapur, Hyderabad - 500081, Telangana",
+    "extra_rows": [
+      {
+        "label": "Surety GSTIN",
+        "value": "36AAJCD4821K1Z7"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN187CP0012V01202425"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Banjara Risk Advisors Pvt. Ltd. / BRK-HYD-00982"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 2,430/- (Rupees Two Thousand Four Hundred Thirty Only)"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 2,430/- (Rupees Two Thousand Four Hundred Thirty Only)"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 31,860/- (Rupees Thirty One Thousand Eight Hundred Sixty Only)"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 200/- (Rupees Two Hundred Only)"
+      },
+      {
+        "label": "Premium Receipt No. / Date",
+        "value": "DSIL-RCPT-HYD-25-118734 / 27/03/2025"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Recitals",
+        "body": "Whereas the Principal, a salaried Assistant Engineer in the employment of the Obligee, has been sponsored by the Obligee for a full-time post-graduate programme and has executed a Service Agreement undertaking to serve the Obligee for the stipulated period on completion of the programme, failing which the Principal shall refund the training expenses, stipend and other sums specified in the Service Agreement. And whereas the Obligee requires the Principal to furnish a surety bond as security for due performance of the said obligation, the Surety hereby binds itself to the Obligee on the terms set out in this Schedule."
+      },
+      {
+        "heading": "Conditions of the Bond",
+        "body": "1. The liability of the Surety shall not exceed the Bond Amount stated in the Schedule. 2. The obligation of the Surety shall become void if the Principal duly performs the Service Agreement or refunds the amounts due thereunder to the Obligee. 3. Any variation of the Service Agreement agreed between the Principal and the Obligee shall not discharge the Surety, provided written intimation of such variation is given to the Surety within 30 days. 4. This bond is governed by the Surety Insurance Contracts Guidelines issued by IRDAI and is subject to the jurisdiction of courts at Hyderabad."
+      },
+      {
+        "heading": "Invocation and Claims Procedure",
+        "body": "The Obligee may invoke this bond by a written demand on its letterhead, signed by an officer not below the rank of Deputy General Manager, addressed to the Surety at its Hyderabad office, stating the nature of default by the Principal and the amount claimed, together with a copy of the Service Agreement and the notice of default served on the Principal. The demand must reach the Surety within the bond period or within the claim period of 30 days thereafter. The Surety shall settle admissible claims within 30 days of receipt of complete documents and shall thereafter be entitled to recover the amount paid from the Principal under the Deed of Indemnity executed by the Principal."
+      },
+      {
+        "heading": "Cancellation",
+        "body": "This bond is irrevocable during its currency except with the written consent of the Obligee. On return of the original bond with a discharge certificate from the Obligee, premium for the unexpired period may be refunded on a short-period scale, subject to a minimum retained premium of 25 percent. Stamp duty and taxes paid are non-refundable."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, the Principal or Obligee may write to the Grievance Officer, Deccan Shield Insurance Limited at grievance@deccanshield.example.in or call toll-free 1800-425-7788. If unresolved within 14 days, the matter may be escalated to the Bima Bharosa portal or to the Insurance Ombudsman having jurisdiction over Hyderabad."
+      }
+    ],
+    "signatory": "For and on behalf of Deccan Shield Insurance Limited - Authorised Signatory: Ramesh Chandra Iyer, Chief Manager - Surety Underwriting, Hyderabad Regional Office. Place: Hyderabad. Date of Issue: 28/03/2025"
+  }
+}

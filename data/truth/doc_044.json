@@ -1,0 +1,14 @@
+{
+  "insured_name": "Ms. Lakshmi Prasanna Vemulapalli",
+  "insurer_name": "Deccan Shield Insurance Limited",
+  "policy_or_bond_number": "DSIL/SB/HYD/2025/004417",
+  "document_type": "surety_bond",
+  "sum_insured": 1500000.0,
+  "premium": 27000.0,
+  "gst_amount": 4860.0,
+  "period_start": "2025-04-01",
+  "period_end": "2027-03-31",
+  "beneficiary": "Krishnaveni State Power Generation Corporation Limited",
+  "doc_id": "doc_044",
+  "template": "schedule_table"
+}

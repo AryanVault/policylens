@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_027",
+    "document_type": "motor",
+    "layout": "certificate",
+    "amount_style": "rs_slash",
+    "date_style": "month_first_long",
+    "insurer": "Sahyadri General Insurance Company Limited",
+    "party_hint": "IT services company in Bengaluru",
+    "omit": []
+  },
+  "request_id": "req_011CgyrQ62Gesd4hy6bHPjST",
+  "generated": {
+    "truth": {
+      "insured_name": "Nandivarma Infotech Solutions Private Limited",
+      "insurer_name": "Sahyadri General Insurance Company Limited",
+      "policy_or_bond_number": "SGI/MOT/PCP/2026/0041873",
+      "document_type": "motor",
+      "sum_insured": 1845000.0,
+      "premium": 38750.0,
+      "gst_amount": 6975.0,
+      "period_start": "2026-04-12",
+      "period_end": "2027-04-11",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Insured",
+        "text": "Nandivarma Infotech Solutions Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Sahyadri General Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Certificate cum Policy No.",
+        "text": "SGI/MOT/PCP/2026/0041873"
+      },
+      "sum_insured": {
+        "label": "Insured's Declared Value (IDV) - Total",
+        "text": "Rs. 18,45,000/-"
+      },
+      "premium": {
+        "label": "Net Premium (OD + TP)",
+        "text": "Rs. 38,750/-"
+      },
+      "gst_amount": {
+        "label": "IGST @ 18%",
+        "text": "Rs. 6,975/-"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "April 12, 2026"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "April 11, 2027"
+      },
+      "beneficiary": null
+    },
+    "title": "CERTIFICATE OF INSURANCE CUM POLICY SCHEDULE - PRIVATE CAR PACKAGE POLICY",
+    "insurer_address": "Sahyadri General Insurance Company Limited, Regd. & Corporate Office: 7th Floor, Shivneri Towers, Senapati Bapat Road, Pune - 411016, Maharashtra. CIN: U66010MH2011PLC219384. IRDAI Reg. No. 187. GSTIN: 27AAPCS4821K1Z6",
+    "insured_address": "No. 42, 3rd Cross, Outer Ring Road, Kadubeesanahalli, Marathahalli Post, Bengaluru - 560103, Karnataka",
+    "extra_rows": [
+      {
+        "label": "Vehicle Registration No.",
+        "value": "KA-03-NM-4721"
+      },
+      {
+        "label": "Make / Model / Variant",
+        "value": "Hyundra Veloce 1.5 CRDi SX (Diesel), Seating Capacity 5, Cubic Capacity 1493 cc"
+      },
+      {
+        "label": "Engine No. / Chassis No.",
+        "value": "D4FB-M71820 / MA1VLX5CRP4K21906"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN187RP0012V01201920"
+      },
+      {
+        "label": "Insured GSTIN",
+        "value": "29AAFCN7354Q1ZK"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-0093317 / Kaveri Risk Advisors Insurance Broking Pvt. Ltd."
+      },
+      {
+        "label": "Compulsory Deductible (Own Damage)",
+        "value": "Rs. 2,000/-"
+      },
+      {
+        "label": "Total Premium Payable (incl. IGST)",
+        "value": "Rs. 45,725/-"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Certificate of Insurance",
+        "body": "Certificate of Insurance under Section 147 of the Motor Vehicles Act, 1988 and Rule 141 of the Central Motor Vehicles Rules, 1989. We hereby certify that the policy to which this certificate relates, as well as this certificate of insurance, are issued in accordance with the provisions of Chapter X and Chapter XI of the Motor Vehicles Act, 1988. Premium has been received vide Receipt No. RCT/BLR/2026/118264 through NEFT and stamp duty has been paid in consolidated form as applicable."
+      },
+      {
+        "heading": "Limitations as to Use",
+        "body": "The policy covers use of the vehicle for any purpose other than hire or reward, carriage of goods (other than samples or personal luggage), organised racing, pace making, speed testing, reliability trials, or any purpose in connection with the motor trade."
+      },
+      {
+        "heading": "Persons or Classes of Persons Entitled to Drive",
+        "body": "Any person including the insured, provided that the person driving holds an effective driving licence at the time of the accident and is not disqualified from holding or obtaining such a licence. Provided also that the person holding an effective learner's licence may also drive the vehicle when not used for transport of passengers and such person satisfies the requirements of Rule 3 of the Central Motor Vehicles Rules, 1989."
+      },
+      {
+        "heading": "Add-on Covers and No Claim Bonus",
+        "body": "Add-on covers opted: Zero Depreciation (Nil Depreciation), Engine Protect, Roadside Assistance and Return to Invoice. No Claim Bonus of 25% has been applied on the Own Damage premium on the basis of the declaration furnished by the insured regarding the previous policy. Any false declaration shall render the NCB and the Own Damage cover void."
+      },
+      {
+        "heading": "Important Notice and Grievance Redressal",
+        "body": "The insured is not indemnified if the vehicle is used or driven otherwise than in accordance with this schedule. Any payment made by the Company by reason of wider terms appearing in the certificate in order to comply with the Motor Vehicles Act, 1988 is recoverable from the insured. For claims, call our 24x7 toll-free helpline 1800-270-4466. For grievances, write to the Grievance Redressal Officer at care@sahyadrigeneral.example.in; if unresolved, you may approach the Bima Bharosa portal or the Insurance Ombudsman, Bengaluru."
+      }
+    ],
+    "signatory": "For and on behalf of Sahyadri General Insurance Company Limited - Authorised Signatory (Bengaluru Branch Office, Code 2904)"
+  }
+}

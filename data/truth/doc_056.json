@@ -1,0 +1,14 @@
+{
+  "insured_name": "Periyar Mercy Hospital Trust",
+  "insurer_name": "Sahyadri General Insurance Company Limited",
+  "policy_or_bond_number": "4102/MEPI/2025-26/000873",
+  "document_type": "liability",
+  "sum_insured": 50000000.0,
+  "premium": 384750.0,
+  "gst_amount": null,
+  "period_start": "2025-07-01",
+  "period_end": "2026-06-30",
+  "beneficiary": null,
+  "doc_id": "doc_056",
+  "template": "two_column"
+}

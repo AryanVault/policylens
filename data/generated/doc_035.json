@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_035",
+    "document_type": "motor",
+    "layout": "two_column",
+    "amount_style": "lakh_crore",
+    "date_style": "d_mon_y",
+    "insurer": "Deccan Shield Insurance Limited",
+    "party_hint": "solar EPC contractor in Jaipur",
+    "omit": []
+  },
+  "request_id": "req_011CgyrTqT3NYkJrxDARuqwf",
+  "generated": {
+    "truth": {
+      "insured_name": "Suryakiran Infra Solar Private Limited",
+      "insurer_name": "Deccan Shield Insurance Limited",
+      "policy_or_bond_number": "DSI/MOT/2025/CV/0048217",
+      "document_type": "motor",
+      "sum_insured": 1850000.0,
+      "premium": 42360.0,
+      "gst_amount": 7624.8,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Insured",
+        "text": "Suryakiran Infra Solar Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Deccan Shield Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "DSI/MOT/2025/CV/0048217"
+      },
+      "sum_insured": {
+        "label": "Total Insured's Declared Value (IDV)",
+        "text": "₹ 18.5 Lakhs"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 42,360"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 7,624.80"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15-Jun-2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "14-Jun-2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Commercial Vehicle Package Policy - Goods Carrying Vehicle (Policy Schedule cum Certificate of Insurance)",
+    "insurer_address": "Deccan Shield Insurance Limited, Regd. & Corporate Office: 7th Floor, Shield Towers, Plot 41, Financial District Road, Nanakramguda, Hyderabad - 500032, Telangana. Jaipur Branch: 3rd Floor, Mahima Arcade, Tonk Road, Jaipur - 302018. CIN: U66010TG2009PLC064512. IRDAI Reg. No. 187",
+    "insured_address": "Plot No. G-118, Sitapura Industrial Area, Phase II, Tonk Road, Jaipur - 302022, Rajasthan",
+    "extra_rows": [
+      {
+        "label": "Registration No. of Vehicle",
+        "value": "RJ-14-GK-7392"
+      },
+      {
+        "label": "Insured GSTIN",
+        "value": "08AAKCS4721M1Z6"
+      },
+      {
+        "label": "Insurer GSTIN (Rajasthan)",
+        "value": "08AADCD9183H1ZQ"
+      },
+      {
+        "label": "UIN",
+        "value": "IRDAN187RP0012V01201920"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-RJ-00562 / Aravali Risk Advisors Insurance Brokers Pvt. Ltd."
+      },
+      {
+        "label": "CGST @ 9% / SGST @ 9%",
+        "value": "Rs. 3,812.40 / Rs. 3,812.40"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 49,984.80"
+      },
+      {
+        "label": "Compulsory Deductible (Own Damage)",
+        "value": "Rs. 1,000"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Vehicle Details",
+        "body": "Class: Goods Carrying Vehicle - Public Carrier, Light Goods Vehicle (GVW above 7,500 kg up to 12,000 kg). Fuel: Diesel. Year of Manufacture: 2023. Seating Capacity: 3 including driver. Engine No.: DLE4X23K118745. Chassis No.: MBLGC12TR3K607219. Body Type: Open Load Body used for transportation of solar modules, mounting structures and balance-of-system materials to project sites."
+      },
+      {
+        "heading": "Cover Opted",
+        "body": "Section I - Own Damage (Package) including fire, theft, riot, flood and other perils as per the policy wording. Section II - Liability to Third Parties as per the Motor Vehicles Act, 1988. Compulsory Personal Accident cover for Owner-Driver is not applicable as the registered owner is a company. Add-ons opted: Legal Liability to Paid Driver (1 person), Zero Depreciation not opted. No Claim Bonus applicable: 20%."
+      },
+      {
+        "heading": "Limitations as to Use",
+        "body": "Use only for carriage of goods within the meaning of the Motor Vehicles Act, 1988. The policy does not cover use for organised racing, pace making, reliability trials, speed testing, or use whilst drawing a trailer except the towing of a disabled mechanically propelled vehicle. The policy does not cover carriage of hazardous goods unless specifically endorsed."
+      },
+      {
+        "heading": "Driver Clause",
+        "body": "Any person including the insured, provided that the person driving holds an effective and valid driving licence at the time of the accident, appropriate to the class of vehicle, and is not disqualified from holding or obtaining such licence. Provided also that a person holding a learner's licence may drive the vehicle when not used for transport of goods at the time of the accident and such person satisfies the requirements of Rule 3 of the Central Motor Vehicles Rules, 1989."
+      },
+      {
+        "heading": "Important Notice",
+        "body": "I/We hereby certify that the policy to which this certificate relates as well as this certificate of insurance are issued in accordance with the provisions of Chapter X and Chapter XI of the Motor Vehicles Act, 1988. The insured is not indemnified if the vehicle is used or driven otherwise than in accordance with this schedule. Any payment made by the Company by reason of wider terms appearing in the certificate in order to comply with the Act is recoverable from the insured. For grievance redressal, contact the Grievance Officer at the registered office or the Insurance Ombudsman, Jaipur. Stamp duty of Re. 1 paid by consolidated stamp duty vide challan no. RJ/CSD/2025/0417."
+      }
+    ],
+    "signatory": "For and on behalf of Deccan Shield Insurance Limited - Authorised Signatory, Jaipur Branch (Ritika Bhandari, Deputy Manager - Motor Underwriting)"
+  }
+}

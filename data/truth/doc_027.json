@@ -1,0 +1,14 @@
+{
+  "insured_name": "Nandivarma Infotech Solutions Private Limited",
+  "insurer_name": "Sahyadri General Insurance Company Limited",
+  "policy_or_bond_number": "SGI/MOT/PCP/2026/0041873",
+  "document_type": "motor",
+  "sum_insured": 1845000.0,
+  "premium": 38750.0,
+  "gst_amount": 6975.0,
+  "period_start": "2026-04-12",
+  "period_end": "2027-04-11",
+  "beneficiary": null,
+  "doc_id": "doc_027",
+  "template": "certificate"
+}

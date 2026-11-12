@@ -1,0 +1,14 @@
+{
+  "insured_name": "Kantilal Popatlal Zaveri & Sons",
+  "insurer_name": "Sahyadri General Insurance Company Limited",
+  "policy_or_bond_number": "SGI/SB/2025/0047812",
+  "document_type": "surety_bond",
+  "sum_insured": 5000000.0,
+  "premium": null,
+  "gst_amount": null,
+  "period_start": "2025-07-15",
+  "period_end": "2026-07-14",
+  "beneficiary": "Gujarat Bullion and Hallmarking Development Corporation Limited",
+  "doc_id": "doc_025",
+  "template": "prose_deed"
+}

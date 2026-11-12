@@ -1,0 +1,126 @@
+{
+  "plan": {
+    "doc_id": "doc_037",
+    "document_type": "marine",
+    "layout": "schedule_table",
+    "amount_style": "rs_slash",
+    "date_style": "dmy_dash",
+    "insurer": "Sahyadri General Insurance Company Limited",
+    "party_hint": "chemical importer in Navi Mumbai",
+    "omit": []
+  },
+  "request_id": "req_011CgyrUDFDM67cyeP3ywBwv",
+  "generated": {
+    "truth": {
+      "insured_name": "Kalwa Petrochem Imports Private Limited",
+      "insurer_name": "Sahyadri General Insurance Company Limited",
+      "policy_or_bond_number": "SGI/MAR/OP/2025/004718",
+      "document_type": "marine",
+      "sum_insured": 200000000.0,
+      "premium": 140000.0,
+      "gst_amount": 25200.0,
+      "period_start": "2025-05-01",
+      "period_end": "2026-04-30",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Kalwa Petrochem Imports Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Sahyadri General Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Open Policy No.",
+        "text": "SGI/MAR/OP/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Annual Turnover Sum Insured",
+        "text": "Rs. 20,00,00,000/-"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 1,40,000/-"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 25,200/-"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "01-05-2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "30-04-2026"
+      },
+      "beneficiary": null
+    },
+    "title": "MARINE CARGO OPEN POLICY (IMPORT) - SCHEDULE",
+    "insurer_address": "Sahyadri General Insurance Company Limited, Regd. Office: Sahyadri Bhavan, 14 Deccan Gymkhana Road, Shivajinagar, Pune - 411004, Maharashtra. CIN: U66010MH2011PLC219384. Marine Underwriting Hub: 6th Floor, Raghunath Chambers, Nariman Point, Mumbai - 400021",
+    "insured_address": "Plot No. D-27/4, TTC Industrial Area, MIDC Mahape, Navi Mumbai - 400710, Maharashtra",
+    "extra_rows": [
+      {
+        "label": "GSTIN of Insured",
+        "value": "27AAKCK4821M1Z6"
+      },
+      {
+        "label": "UIN",
+        "value": "IRDAN176RP0009V01202425"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-0457821 / Konkan Risk Advisors Insurance Brokers Pvt. Ltd."
+      },
+      {
+        "label": "Limit per Sailing / Conveyance",
+        "value": "Rs. 1,50,00,000/-"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 12,600/-"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 12,600/-"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 1,65,200/-"
+      },
+      {
+        "label": "Stamp Duty",
+        "value": "Rs. 100/-"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Subject-matter Insured",
+        "body": "Industrial chemicals, solvents, specialty intermediates and allied raw materials in drums, IBCs, ISO tanks and bags, imported by the Insured in the ordinary course of trade, excluding hazardous cargo of IMDG Class 1 and Class 7, and goods shipped on deck unless specifically declared and accepted."
+      },
+      {
+        "heading": "Voyages and Conveyance",
+        "body": "From any port or place in the world to Nhava Sheva (JNPT), Mumbai Port or Mundra Port, including inland transit by road or rail to the Insured's warehouse at Navi Mumbai or Taloja. Carrying vessels must be classed with a member of IACS and comply with the Institute Classification Clause."
+      },
+      {
+        "heading": "Basis of Valuation and Declarations",
+        "body": "CIF value plus 10 percent, plus import duty where specifically declared. The Insured shall declare every shipment before commencement of transit, or within the time allowed under the Declaration Clause, and the sum insured shall stand reduced by the value of each declared consignment."
+      },
+      {
+        "heading": "Clauses and Conditions",
+        "body": "Institute Cargo Clauses (A) 1/1/09, Institute War Clauses (Cargo) 1/1/09, Institute Strikes Clauses (Cargo) 1/1/09, Institute Classification Clause, Inland Transit (Rail or Road) Clause (A), Termination of Transit Clause (Terrorism) and Sanctions Limitation and Exclusion Clause. Excess: 0.5 percent of consignment value, minimum as per endorsement, each and every claim."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "In the event of loss or damage, notify the Company's claims cell immediately, apply for survey by the nominated surveyor, lodge monetary claims on carriers and port authorities within the prescribed time, and preserve all rights of recovery. Documents required include bill of lading, commercial invoice, packing list, bill of entry, survey report and copy of claim lodged on carriers."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, contact the Grievance Officer at the Registered Office or write to grievance@sahyadrigeneral.example.in. If unresolved, the Insured may approach the Insurance Ombudsman or the IRDAI Bima Bharosa portal. This schedule is to be read together with the policy wording and endorsements attached."
+      }
+    ],
+    "signatory": "For and on behalf of Sahyadri General Insurance Company Limited - Authorised Signatory, Marine Underwriting Hub, Mumbai"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "plan": {
+    "doc_id": "doc_005",
+    "document_type": "marine",
+    "layout": "two_column",
+    "amount_style": "lakh_crore",
+    "date_style": "d_mon_y",
+    "insurer": "Himgiri Insurance Company Limited",
+    "party_hint": "road construction contractor in Pune",
+    "omit": []
+  },
+  "request_id": "req_011CgyrHD41EE8RR8CzwC3yG",
+  "generated": {
+    "truth": {
+      "insured_name": "Sahyadri Infraroads Private Limited",
+      "insurer_name": "Himgiri Insurance Company Limited",
+      "policy_or_bond_number": "HIM/MR/OP/2025/0047813",
+      "document_type": "marine",
+      "sum_insured": 25000000.0,
+      "premium": 62500.0,
+      "gst_amount": 11250.0,
+      "period_start": "2025-07-15",
+      "period_end": "2026-07-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Sahyadri Infraroads Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Himgiri Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "HIM/MR/OP/2025/0047813"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured (Annual Turnover Declared)",
+        "text": "Rs. 2.5 Crore"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 62,500"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 11,250"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15-Jul-2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "14-Jul-2026"
+      },
+      "beneficiary": null
+    },
+    "title": "MARINE CARGO OPEN POLICY - SCHEDULE",
+    "insurer_address": "Himgiri Insurance Company Limited, Pune Divisional Office No. 3, 4th Floor, Shivneri Commerce Centre, Bund Garden Road, Pune - 411001, Maharashtra. CIN: U66010MH2011PLC219847",
+    "insured_address": "Sahyadri Infraroads Private Limited, Plot No. 17, Sector 5, Bhosari Industrial Area, Pimpri-Chinchwad, Pune - 411026, Maharashtra",
+    "extra_rows": [
+      {
+        "label": "UIN",
+        "value": "IRDAN219RP0031V01201526"
+      },
+      {
+        "label": "Insured GSTIN",
+        "value": "27AAKCS4821M1Z6"
+      },
+      {
+        "label": "Per Transit / Per Conveyance Limit",
+        "value": "Rs. 50 Lakhs"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 5,625"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 5,625"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 73,750"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-MH-004417 / Deccan Risk Advisors Insurance Brokers Pvt. Ltd."
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 50"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Subject-Matter Insured",
+        "body": "Road construction materials, machinery and equipment including bitumen in drums, emulsion, steel reinforcement bars, paver blocks, crash barriers, road signage, spares and accessories of hot mix plants, pavers, rollers and motor graders, belonging to the Insured or held in trust, dispatched in the course of the Insured's business."
+      },
+      {
+        "heading": "Voyage and Mode of Conveyance",
+        "body": "Inland transit by road and rail from any supplier's premises or depot in India to the Insured's project sites, batching plants and stores within India, and inter-site movements between project sites. Transit by registered public carriers and the Insured's own vehicles is covered. Each dispatch shall be declared monthly to the Insurer, and premium shall be adjusted at expiry on the basis of actual declarations against the turnover declared."
+      },
+      {
+        "heading": "Coverage and Basis of Valuation",
+        "body": "Inland Transit Clause (A) - All Risks, subject to Institute Strikes Clauses (Cargo) and SRCC cover as per policy wording. Basis of valuation: invoice value plus 10 percent. Excess: 1 percent of the claim amount subject to a minimum as stated in the policy wording, for each and every loss. Over-dimensional consignments require prior approval of the Insurer before dispatch."
+      },
+      {
+        "heading": "Principal Exclusions",
+        "body": "Loss or damage attributable to wilful misconduct of the Insured, ordinary leakage, ordinary loss in weight or volume, ordinary wear and tear, insufficiency or unsuitability of packing, inherent vice, delay, insolvency of carriers, nuclear and radioactive contamination, war and civil commotion except as covered, and mechanical or electrical derangement not caused by an insured peril."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "In the event of loss or damage, notify the Insurer and the nearest surveyor immediately and in any case within 7 days of arrival of consignment. Obtain short-delivery or damage certificate from the carrier and lodge a monetary claim on the carrier within the statutory time limit. Submit claim form with invoice, lorry receipt or railway receipt, packing list, survey report and copy of notice served on the carrier. Grievances may be addressed to the Grievance Redressal Officer of the Insurer or to the Insurance Ombudsman as per the Insurance Ombudsman Rules, 2017."
+      },
+      {
+        "heading": "Important Notice",
+        "body": "This schedule must be read together with the Marine Cargo Open Policy wording and clauses attached. Premium has been received under receipt no. HIC/PNQ/RCPT/25/118204. Insurance is the subject matter of solicitation. Any discrepancy in this schedule should be reported to the Insurer within 15 days of receipt."
+      }
+    ],
+    "signatory": "For Himgiri Insurance Company Limited, Authorised Signatory, Pune Divisional Office No. 3"
+  }
+}

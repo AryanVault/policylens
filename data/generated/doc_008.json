@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_008",
+    "document_type": "liability",
+    "layout": "two_column",
+    "amount_style": "inr_western",
+    "date_style": "dmy_slash",
+    "insurer": "Vindhya Assurance Company Limited",
+    "party_hint": "cold-chain logistics firm in Kolkata",
+    "omit": []
+  },
+  "request_id": "req_011CgyrHCCuWuxY7E9xqBLUM",
+  "generated": {
+    "truth": {
+      "insured_name": "Hooghly Frostline Logistics Private Limited",
+      "insurer_name": "Vindhya Assurance Company Limited",
+      "policy_or_bond_number": "VAC/KOL/PLI/2025/0047813",
+      "document_type": "liability",
+      "sum_insured": 50000000.0,
+      "premium": 142500.0,
+      "gst_amount": 25650.0,
+      "period_start": "2025-07-15",
+      "period_end": "2026-07-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Hooghly Frostline Logistics Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Vindhya Assurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "VAC/KOL/PLI/2025/0047813"
+      },
+      "sum_insured": {
+        "label": "Limit of Indemnity - Any One Year (AOY)",
+        "text": "INR 50,000,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (excl. GST)",
+        "text": "INR 142,500.00"
+      },
+      "gst_amount": {
+        "label": "Total GST @ 18%",
+        "text": "INR 25,650.00"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15/07/2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "14/07/2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Public Liability Insurance Policy (Industrial Risks) - Policy Schedule",
+    "insurer_address": "Registered Office: 7th Floor, Vindhyachal Towers, Arera Hills, Bhopal - 462011, Madhya Pradesh. Issuing Office: Kolkata Corporate Branch, 3rd Floor, Sagarika House, 41A Elgin Road, Kolkata - 700020, West Bengal. CIN: U66010MP2009PLC071542",
+    "insured_address": "Plot No. 27, Cold Storage Cluster, Bantala Industrial Estate, Bhangar-II, South 24 Parganas, Kolkata - 743502, West Bengal",
+    "extra_rows": [
+      {
+        "label": "GSTIN of Insured",
+        "value": "19AAFCH4821K1Z6"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN187RP0012V01202425"
+      },
+      {
+        "label": "Intermediary Name & Code",
+        "value": "Gangasagar Insurance Brokers Pvt. Ltd. - BRK/DIR/0458"
+      },
+      {
+        "label": "Location of Risk",
+        "value": "Multi-temperature cold storage warehouse and reefer dispatch yard, Plot No. 27, Bantala Industrial Estate, Kolkata - 743502"
+      },
+      {
+        "label": "Limit of Indemnity - Any One Accident (AOA)",
+        "value": "INR 25,000,000.00"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "INR 12,825.00"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "INR 12,825.00"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "INR 168,150.00"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Insuring Clause",
+        "body": "Subject to the terms, conditions and exclusions of this Policy, the Company will indemnify the Insured against legal liability to pay compensation and claimant's costs and expenses in respect of accidental death or bodily injury to any third party and accidental loss of or damage to third-party property, arising out of the business operations of the Insured at the Location of Risk during the Period of Insurance, up to the Limits of Indemnity stated in the Schedule."
+      },
+      {
+        "heading": "Business Description and Scope of Cover",
+        "body": "Temperature-controlled warehousing, blast freezing, ammonia-based refrigeration plant operation, handling and dispatch of frozen and chilled food products and pharmaceuticals, and movement of refrigerated vehicles within the insured premises. Cover extends to legal defence costs incurred with the prior written consent of the Company, which form part of and are not in addition to the Limits of Indemnity."
+      },
+      {
+        "heading": "Principal Exclusions",
+        "body": "The Policy does not cover liability arising from: injury to employees of the Insured (to be covered under a Workmen's Compensation / Employees' Compensation policy); goods held in trust or custody of the Insured; gradual pollution or contamination; products supplied by the Insured after they have left the premises; use of motor vehicles on public roads; contractual liability unless it would have attached in the absence of such contract; fines, penalties, punitive or exemplary damages; nuclear, war and terrorism perils. A compulsory excess as stated in the policy wording applies to each and every claim for third-party property damage."
+      },
+      {
+        "heading": "Conditions",
+        "body": "The Insured shall give immediate written notice of any occurrence likely to give rise to a claim and shall forward every letter, claim, writ or summons upon receipt. No admission, offer, promise or payment shall be made without the written consent of the Company. The Insured shall maintain the ammonia refrigeration plant, fire detection systems and statutory licences in good order. This schedule must be read with the Public Liability (Industrial) Policy wording bearing the UIN stated above. Stamp duty has been paid by consolidated method as per the applicable State order."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, the Insured may contact the Grievance Redressal Officer, Vindhya Assurance Company Limited, at grievance@vindhyaassurance.example.in or toll-free 1800-309-4417. If unresolved within 15 days, the Insured may approach the Insurance Ombudsman, Kolkata, or register a complaint on the IRDAI Bima Bharosa portal. Free look and cancellation provisions apply as per the policy wording."
+      }
+    ],
+    "signatory": "For and on behalf of Vindhya Assurance Company Limited - Authorised Signatory, Kolkata Corporate Branch (Digitally signed; Date of Issue: 14/07/2025, Place: Kolkata)"
+  }
+}

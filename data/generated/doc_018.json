@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_018",
+    "document_type": "fire",
+    "layout": "certificate",
+    "amount_style": "inr_western",
+    "date_style": "dmy_dot",
+    "insurer": "Aravalli General Insurance Limited",
+    "party_hint": "water-supply pipeline contractor in Bhubaneswar",
+    "omit": []
+  },
+  "request_id": "req_011CgyrMUMs9S268E8gjAJa6",
+  "generated": {
+    "truth": {
+      "insured_name": "Kalinga Jalpath Infra Projects Private Limited",
+      "insurer_name": "Aravalli General Insurance Limited",
+      "policy_or_bond_number": "AGI/FIRE/BBS/2025/0047186",
+      "document_type": "fire",
+      "sum_insured": 185000000.0,
+      "premium": 83250.0,
+      "gst_amount": 14985.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Kalinga Jalpath Infra Projects Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Aravalli General Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "AGI/FIRE/BBS/2025/0047186"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured",
+        "text": "INR 185,000,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (excluding GST)",
+        "text": "INR 83,250.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "INR 14,985.00"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15.06.2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (midnight)",
+        "text": "14.06.2026"
+      },
+      "beneficiary": null
+    },
+    "title": "CERTIFICATE OF INSURANCE - STANDARD FIRE AND SPECIAL PERILS POLICY (MATERIAL DAMAGE)",
+    "insurer_address": "Aravalli General Insurance Limited, Regional Office: 4th Floor, Utkal Commerce Tower, Plot No. 112, Janpath, Kharavela Nagar, Bhubaneswar, Odisha 751001. CIN: U66030RJ2009PLC028457",
+    "insured_address": "Kalinga Jalpath Infra Projects Private Limited, Plot No. 287/B, Mancheswar Industrial Estate, Rasulgarh, Bhubaneswar, Khordha, Odisha 751010",
+    "extra_rows": [
+      {
+        "label": "Insurer GSTIN",
+        "value": "21AAGCA6193M1Z4"
+      },
+      {
+        "label": "Insured GSTIN",
+        "value": "21AAICK8352R1ZP"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN173RP0004V02202425"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-OD-00918 / Mahanadi Risk Advisors Insurance Brokers Pvt. Ltd."
+      },
+      {
+        "label": "Location of Risk",
+        "value": "Pipe Yard and Fabrication Shed, Khata No. 412, Mouza Patrapada, Near NH-16, Bhubaneswar, Odisha 751019"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "INR 7,492.50"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "INR 7,492.50"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "INR 98,235.00"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Schedule of Property Insured",
+        "body": "Building (pipe yard sheds, site office and stores): covered on reinstatement value basis. Plant and machinery including pipe-laying equipment, welding sets, hydraulic testing pumps and DG sets: covered on reinstatement value basis. Stocks of ductile iron pipes, HDPE pipes, MS specials, valves, fittings and consumables: covered on market value basis. The total sum insured shown in the schedule table is the aggregate of the above items as declared in the proposal form."
+      },
+      {
+        "heading": "Perils Covered",
+        "body": "Fire; lightning; explosion or implosion; aircraft damage; riot, strike and malicious damage; storm, cyclone, typhoon, tempest, hurricane, tornado, tsunami, flood and inundation; impact damage; subsidence and landslide including rockslide; bursting and overflowing of water tanks, apparatus and pipes; missile testing operations; leakage from automatic sprinkler installations; and bush fire. Add-on cover opted: Earthquake (Fire and Shock). Terrorism cover is not opted."
+      },
+      {
+        "heading": "Deductibles and Special Conditions",
+        "body": "A deductible of 5% of claim amount subject to a minimum of INR 25,000.00 applies to each and every loss arising from Acts of God perils; INR 10,000.00 applies to each and every loss for all other perils. Stocks stored in the open must be kept on raised platforms at least 15 cm above ground level. The pipe yard must be protected by a perimeter boundary wall and round-the-clock watch and ward. Hot work permits are mandatory for welding and gas-cutting operations within the insured premises."
+      },
+      {
+        "heading": "Stamp Duty and Premium Receipt",
+        "body": "Stamp duty of INR 0.50 has been paid by the Insurer through consolidated stamp duty as per the authorisation of the Government of Odisha. Premium received vide NEFT receipt number AGI/RCPT/BBS/25/118734. This certificate is issued in accordance with Section 64VB of the Insurance Act, 1938; cover is effective only upon realisation of premium."
+      },
+      {
+        "heading": "Claims and Grievance Redressal",
+        "body": "In the event of loss or damage, intimate the Insurer immediately at the toll-free number 1800-209-4417 or claims.odisha@aravalligeneral.example.in and in any case within 7 days. For grievances, contact the Grievance Redressal Officer at the regional office address above. If unresolved within 30 days, the insured may approach the Insurance Ombudsman, Bhubaneswar, or register a complaint on the IRDAI Bima Bharosa portal. Insurance is the subject matter of solicitation."
+      }
+    ],
+    "signatory": "For and on behalf of Aravalli General Insurance Limited - Authorised Signatory, Commercial Lines Underwriting, Bhubaneswar Regional Office"
+  }
+}

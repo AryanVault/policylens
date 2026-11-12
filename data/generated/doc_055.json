@@ -1,0 +1,118 @@
+{
+  "plan": {
+    "doc_id": "doc_055",
+    "document_type": "surety_bond",
+    "layout": "prose_deed",
+    "amount_style": "lakh_crore",
+    "date_style": "dmy_dash",
+    "insurer": "Kaveri Assurance Co. Ltd.",
+    "party_hint": "hospital trust in Kochi",
+    "omit": [
+      "premium",
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrazqXiUmkBe3AA2BmH",
+  "generated": {
+    "truth": {
+      "insured_name": "St. Gregorios Mission Hospital Trust",
+      "insurer_name": "Kaveri Assurance Co. Ltd.",
+      "policy_or_bond_number": "KAC/SB/KOC/2025/004417",
+      "document_type": "surety_bond",
+      "sum_insured": 7500000.0,
+      "premium": null,
+      "gst_amount": null,
+      "period_start": "2025-07-15",
+      "period_end": "2027-07-14",
+      "beneficiary": "Kochi Metropolitan Health Works Authority"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal",
+        "text": "St. Gregorios Mission Hospital Trust"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Kaveri Assurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "KAC/SB/KOC/2025/004417"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "₹ 75 Lakhs"
+      },
+      "premium": null,
+      "gst_amount": null,
+      "period_start": {
+        "label": "Bond Period - From",
+        "text": "15-07-2025"
+      },
+      "period_end": {
+        "label": "Bond Period - To",
+        "text": "14-07-2027"
+      },
+      "beneficiary": {
+        "label": "Obligee",
+        "text": "Kochi Metropolitan Health Works Authority"
+      }
+    },
+    "title": "CONTRACT PERFORMANCE SURETY BOND",
+    "insurer_address": "Kaveri Assurance Co. Ltd., Regd. Office: Kaveri Bhavan, 14 Residency Road, Bengaluru 560025; Kochi Branch: 3rd Floor, Marine Tower, Shanmugham Road, Ernakulam, Kochi 682031",
+    "insured_address": "St. Gregorios Mission Hospital Trust, Pallimukku, Old Thevara Road, Ernakulam South, Kochi 682016, Kerala",
+    "extra_rows": [
+      {
+        "label": "UIN",
+        "value": "IRDAN219CP0011V01202425"
+      },
+      {
+        "label": "Surety GSTIN",
+        "value": "32AABCK7741M1Z8"
+      },
+      {
+        "label": "Principal GSTIN",
+        "value": "32AAATS5582Q1ZD"
+      },
+      {
+        "label": "Intermediary Code",
+        "value": "BRK-KL-00982 (Malabar Risk Advisors Pvt. Ltd.)"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 500"
+      },
+      {
+        "label": "Underlying Contract Value",
+        "value": "₹ 7.5 Crore"
+      },
+      {
+        "label": "Contract / Work Order Ref.",
+        "value": "KMHWA/DIA-PPP/WO/118/2025"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Schedule of the Bond",
+        "body": "Bond No.: KAC/SB/KOC/2025/004417. Principal: St. Gregorios Mission Hospital Trust, Pallimukku, Old Thevara Road, Ernakulam South, Kochi 682016. Surety: Kaveri Assurance Co. Ltd., Kochi Branch, Shanmugham Road, Ernakulam. Obligee: Kochi Metropolitan Health Works Authority, Kaloor, Kochi 682017. Bond Amount: ₹ 75 Lakhs. Bond Period - From 15-07-2025 Bond Period - To 14-07-2027, both days inclusive."
+      },
+      {
+        "heading": "Know All Men By These Presents",
+        "body": "That we, St. Gregorios Mission Hospital Trust, a public charitable trust registered under the Travancore-Cochin Literary, Scientific and Charitable Societies Registration Act, 1955 (hereinafter called the Principal), and Kaveri Assurance Co. Ltd., a company incorporated under the Companies Act, 2013 and registered with the Insurance Regulatory and Development Authority of India (hereinafter called the Surety), are held and firmly bound unto the Kochi Metropolitan Health Works Authority (hereinafter called the Obligee) in the sum of ₹ 75 Lakhs (Rupees Seventy-Five Lakhs only), for the payment of which sum well and truly to be made the Principal and the Surety bind themselves, their successors and assigns, jointly and severally, firmly by these presents."
+      },
+      {
+        "heading": "Whereas",
+        "body": "The Principal has entered into Work Order No. KMHWA/DIA-PPP/WO/118/2025 with the Obligee for the establishment, operation and maintenance of a twenty-bed public dialysis centre under a public-private partnership arrangement, the value of which contract is ₹ 7.5 Crore; and whereas the said contract requires the Principal to furnish security for the due performance of its obligations in the form of a surety bond issued by an insurer registered with IRDAI, the Surety has agreed to issue this Bond No. KAC/SB/KOC/2025/004417."
+      },
+      {
+        "heading": "Condition of the Obligation",
+        "body": "Now the condition of this obligation is such that if the Principal shall well and faithfully perform all the terms, covenants and conditions of the said contract during the period commencing 15-07-2025 and ending 14-07-2027, then this obligation shall be void; otherwise it shall remain in full force and effect. The Surety undertakes to pay the Obligee, upon receipt of a written demand stating that the Principal has failed to perform, any amount so demanded not exceeding ₹ 75 Lakhs, without demur. Any claim hereunder must be lodged with the Surety within thirty days after expiry of the bond period, failing which the Surety shall stand discharged of all liability. This bond is issued subject to the IRDAI (Surety Insurance Contracts) Guidelines and shall be governed by the laws of India, courts at Ernakulam having exclusive jurisdiction."
+      },
+      {
+        "heading": "Execution",
+        "body": "In witness whereof the Principal and the Surety have caused this bond to be executed at Kochi on 15-07-2025, the requisite stamp duty having been duly paid. Signed and delivered for and on behalf of Kaveri Assurance Co. Ltd. by its authorised signatory, and for and on behalf of St. Gregorios Mission Hospital Trust by its Managing Trustee, in the presence of witnesses."
+      }
+    ],
+    "signatory": "For Kaveri Assurance Co. Ltd. - Authorised Signatory: Meenakshi R. Pillai, Chief Manager (Surety Underwriting), Kochi Branch"
+  }
+}

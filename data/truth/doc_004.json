@@ -1,0 +1,14 @@
+{
+  "insured_name": "Parekh Kanchan Jewellers",
+  "insurer_name": "Kaveri Assurance Co. Ltd.",
+  "policy_or_bond_number": null,
+  "document_type": "surety_bond",
+  "sum_insured": 5000000.0,
+  "premium": null,
+  "gst_amount": null,
+  "period_start": "2025-07-01",
+  "period_end": "2026-12-31",
+  "beneficiary": "Surat Diamond and Jewellery Park Development Authority",
+  "doc_id": "doc_004",
+  "template": "prose_deed"
+}

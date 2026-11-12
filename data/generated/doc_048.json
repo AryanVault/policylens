@@ -1,0 +1,115 @@
+{
+  "plan": {
+    "doc_id": "doc_048",
+    "document_type": "liability",
+    "layout": "certificate",
+    "amount_style": "inr_western",
+    "date_style": "dmy_dot",
+    "insurer": "Konark General Insurance Company Ltd.",
+    "party_hint": "civil works contractor in Lucknow",
+    "omit": [
+      "gst_amount",
+      "policy_or_bond_number"
+    ]
+  },
+  "request_id": "req_011CgyrYVsxB9pqgnd3u5sxm",
+  "generated": {
+    "truth": {
+      "insured_name": "Awadh Infracon Builders Pvt. Ltd.",
+      "insurer_name": "Konark General Insurance Company Ltd.",
+      "policy_or_bond_number": null,
+      "document_type": "liability",
+      "sum_insured": 50000000.0,
+      "premium": 68500.0,
+      "gst_amount": null,
+      "period_start": "2025-07-15",
+      "period_end": "2026-07-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Awadh Infracon Builders Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Konark General Insurance Company Ltd."
+      },
+      "policy_or_bond_number": null,
+      "sum_insured": {
+        "label": "Limit of Indemnity (Any One Year)",
+        "text": "INR 50,000,000.00"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "INR 68,500.00"
+      },
+      "gst_amount": null,
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15.07.2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "14.07.2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Certificate of Insurance - Contractor's Public Liability Insurance",
+    "insurer_address": "Konark General Insurance Company Ltd., Regd. Office: 7th Floor, Suryadeep Towers, Plot 14, Sector 11, Bhubaneswar Industrial Estate Road, Bhubaneswar - 751019, Odisha. CIN: U66010OR2011PLC048213",
+    "insured_address": "Awadh Infracon Builders Pvt. Ltd., 3rd Floor, Gomti Vihar Commercial Complex, Vibhuti Khand, Gomti Nagar, Lucknow - 226010, Uttar Pradesh",
+    "extra_rows": [
+      {
+        "label": "GSTIN of Insured",
+        "value": "09AAKCA4721M1Z6"
+      },
+      {
+        "label": "Product UIN",
+        "value": "KGIPLLP25012V012425"
+      },
+      {
+        "label": "Intermediary Code",
+        "value": "BRK-UP-004712 (Lakshya Insurance Brokers Pvt. Ltd.)"
+      },
+      {
+        "label": "Limit of Indemnity (Any One Accident)",
+        "value": "INR 20,000,000.00"
+      },
+      {
+        "label": "Deductible (Each and Every Claim, Property Damage)",
+        "value": "INR 50,000.00"
+      },
+      {
+        "label": "Stamp Duty",
+        "value": "INR 1.00"
+      },
+      {
+        "label": "Location of Risk",
+        "value": "All civil works sites of the Insured within the State of Uttar Pradesh, including the site office at Sultanpur Road, Lucknow - 226002"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Scope of Cover",
+        "body": "Subject to the terms, conditions and exclusions of the policy, the Insurer will indemnify the Insured against all sums which the Insured shall become legally liable to pay as compensation in respect of accidental bodily injury (including death and disease) to any third party and accidental loss of or damage to third-party property, arising out of the Insured's business as a civil works contractor, including road, drainage, building and allied construction activities, occurring during the period of insurance. Legal costs and expenses incurred with the written consent of the Insurer are payable in addition, within the overall limit."
+      },
+      {
+        "heading": "Territorial Limits and Jurisdiction",
+        "body": "Cover applies to occurrences within the Republic of India only. Any claim shall be subject to the jurisdiction of competent courts in India and Indian law shall apply."
+      },
+      {
+        "heading": "Principal Exclusions",
+        "body": "Liability under any workmen's compensation or employee benefit law; damage to property owned by, in the custody of, or being worked upon by the Insured; liability assumed under contract unless such liability would have attached in the absence of the contract; gradual pollution or contamination; vibration, removal or weakening of support unless specifically endorsed; liability arising from motor vehicles licensed for road use; fines, penalties, punitive or exemplary damages; war, terrorism, nuclear risks; and professional liability for design or advice."
+      },
+      {
+        "heading": "Important Conditions",
+        "body": "The Insured shall give immediate written notice to the Insurer of any occurrence likely to give rise to a claim and shall not admit liability, offer or make any payment without the Insurer's written consent. The Insured shall take all reasonable precautions to prevent accidents and comply with all statutory safety requirements at work sites. This certificate is issued for information only and is subject to the full policy wording, schedule and endorsements, which shall prevail in case of any inconsistency."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, please write to the Grievance Officer, Konark General Insurance Company Ltd., at the registered office address or email grievance@konarkgeneral.example.in. If not resolved within 15 days, the Insured may approach the IRDAI Bima Bharosa portal or the Insurance Ombudsman, Lucknow, as per the Insurance Ombudsman Rules, 2017. Insurance is the subject matter of solicitation."
+      }
+    ],
+    "signatory": "For and on behalf of Konark General Insurance Company Ltd. - Authorised Signatory, Lucknow Divisional Office (issued at Lucknow)"
+  }
+}

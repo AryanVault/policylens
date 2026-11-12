@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_022",
+    "document_type": "health",
+    "layout": "schedule_table",
+    "amount_style": "rs_slash",
+    "date_style": "ordinal_long",
+    "insurer": "Deccan Shield Insurance Limited",
+    "party_hint": "IT services company in Bengaluru",
+    "omit": []
+  },
+  "request_id": "req_011CgyrP74W2hhSEa67VVZVh",
+  "generated": {
+    "truth": {
+      "insured_name": "Vexora Cloudworks Private Limited",
+      "insurer_name": "Deccan Shield Insurance Limited",
+      "policy_or_bond_number": "DSI/GHI/2025/0041872",
+      "document_type": "health",
+      "sum_insured": 225000000.0,
+      "premium": 4263900.0,
+      "gst_amount": 767502.0,
+      "period_start": "2025-07-01",
+      "period_end": "2026-06-30",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Policyholder",
+        "text": "Vexora Cloudworks Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Deccan Shield Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "DSI/GHI/2025/0041872"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured (Floater, all members)",
+        "text": "Rs. 22,50,00,000/-"
+      },
+      "premium": {
+        "label": "Net Premium (excluding GST)",
+        "text": "Rs. 42,63,900/-"
+      },
+      "gst_amount": {
+        "label": "Total GST @ 18%",
+        "text": "Rs. 7,67,502/-"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "1st July 2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (midnight)",
+        "text": "30th June 2026"
+      },
+      "beneficiary": null
+    },
+    "title": "GROUP HEALTH INSURANCE POLICY - POLICY SCHEDULE",
+    "insurer_address": "Deccan Shield Insurance Limited, Registered and Corporate Office: 7th Floor, Shield Towers, Plot No. 42, Financial District, Nanakramguda, Hyderabad - 500032, Telangana. CIN: U66010TG2011PLC078342. IRDAI Reg. No. 187",
+    "insured_address": "Vexora Cloudworks Private Limited, No. 18, 4th Floor, Prestige Orchid Tech Park, Outer Ring Road, Bellandur, Bengaluru - 560103, Karnataka",
+    "extra_rows": [
+      {
+        "label": "Policyholder GSTIN",
+        "value": "29AAGCV4821K1Z6"
+      },
+      {
+        "label": "Product UIN",
+        "value": "DSIHLGP25012V012425"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Kaveri Risk Advisors Insurance Brokers Pvt. Ltd. / BRK-KA-004617"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 3,83,751/-"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 3,83,751/-"
+      },
+      {
+        "label": "Total Premium Payable (including GST)",
+        "value": "Rs. 50,31,402/-"
+      },
+      {
+        "label": "Premium Receipt No. / Date",
+        "value": "DSI/RCPT/BLR/25/118204 dated 27th June 2025"
+      },
+      {
+        "label": "Number of Lives Covered (Employees, Spouse, Children, Parents)",
+        "value": "1,612"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Scope of Cover",
+        "body": "This Policy indemnifies the Insured Persons enrolled by the Policyholder for medically necessary In-patient Hospitalisation, Day Care Procedures, Pre-hospitalisation expenses up to 30 days and Post-hospitalisation expenses up to 60 days, Domiciliary Hospitalisation, AYUSH treatment and Organ Donor expenses, subject to the terms, conditions and exclusions of the Policy wording and the limits specified in this Schedule."
+      },
+      {
+        "heading": "Special Conditions Applicable to this Group",
+        "body": "Waiting periods of 30 days, 24 months for named ailments and 36 months for pre-existing diseases are waived. Maternity cover including pre and post natal expenses is extended from day one, with new born baby covered from birth. Room rent capped at single private A/C room; ICU at actuals. A co-payment of 20 percent applies to claims of dependent parents. Corporate buffer is available subject to approval of the Policyholder's HR department."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "Cashless facility is available at network hospitals through the in-house Health Administration Team of the Insurer. Pre-authorisation requests must be submitted at least 48 hours prior to planned admission and within 24 hours of emergency admission. Reimbursement claims must be filed within 30 days of discharge along with original bills, discharge summary and investigation reports. Claims helpline: 1800-425-7790 (toll free)."
+      },
+      {
+        "heading": "Additions and Deletions of Members",
+        "body": "New joiners and their eligible dependents shall be covered from the date of joining on submission of endorsement data within 30 days. Premium for additions and refund for deletions shall be calculated on a pro-rata basis from the Cash Deposit maintained by the Policyholder. Members leaving employment shall cease to be covered from the date of exit."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, Insured Persons may write to the Grievance Redressal Officer at grievance@deccanshield.example or call the helpline. If not resolved within 15 days, the complaint may be escalated to the Bima Bharosa portal of IRDAI or to the Insurance Ombudsman, Bengaluru. Stamp duty has been paid by consolidated payment as per the applicable State order."
+      }
+    ],
+    "signatory": "For Deccan Shield Insurance Limited - Authorised Signatory: Meera Raghunathan, Senior Manager - Health Underwriting, Bengaluru Corporate Branch (Branch Code 0712). Date of Issue: 28th June 2025"
+  }
+}

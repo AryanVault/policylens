@@ -1,0 +1,118 @@
+{
+  "plan": {
+    "doc_id": "doc_052",
+    "document_type": "surety_bond",
+    "layout": "prose_deed",
+    "amount_style": "rs_slash",
+    "date_style": "ordinal_long",
+    "insurer": "Konkan Surety & General Insurance Ltd.",
+    "party_hint": "civil works contractor in Lucknow",
+    "omit": [
+      "premium",
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyraB9sgto2iMxdGZsLR",
+  "generated": {
+    "truth": {
+      "insured_name": "Awadh Nirman Infracon Pvt. Ltd.",
+      "insurer_name": "Konkan Surety & General Insurance Ltd.",
+      "policy_or_bond_number": "KSG/SB/LKO/2025/004718",
+      "document_type": "surety_bond",
+      "sum_insured": 4821000.0,
+      "premium": null,
+      "gst_amount": null,
+      "period_start": "2025-07-15",
+      "period_end": "2027-01-14",
+      "beneficiary": "Avadh Metropolitan Drainage & Civic Works Board"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal",
+        "text": "Awadh Nirman Infracon Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Konkan Surety & General Insurance Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "KSG/SB/LKO/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "Rs. 48,21,000/-"
+      },
+      "premium": null,
+      "gst_amount": null,
+      "period_start": {
+        "label": "Bond Effective From",
+        "text": "15th July 2025"
+      },
+      "period_end": {
+        "label": "Bond Valid Until",
+        "text": "14th January 2027"
+      },
+      "beneficiary": {
+        "label": "Obligee",
+        "text": "Avadh Metropolitan Drainage & Civic Works Board"
+      }
+    },
+    "title": "CONTRACT PERFORMANCE SURETY BOND",
+    "insurer_address": "Regional Office: 4th Floor, Saryu Business Centre, 12 Vidhan Sabha Marg, Hazratganj, Lucknow, Uttar Pradesh - 226001. Registered Office: Plot 27, Ratnagiri Trade Towers, Sector 11, CBD Belapur, Navi Mumbai, Maharashtra - 400614. CIN: U66010MH2016PLC287415",
+    "insured_address": "B-214, Gomti Vihar Commercial Complex, Faizabad Road, Indira Nagar, Lucknow, Uttar Pradesh - 226016",
+    "extra_rows": [
+      {
+        "label": "Contract Value (Agreement No. AMDCWB/SWD/2025-26/117)",
+        "value": "Rs. 9,64,20,000/-"
+      },
+      {
+        "label": "Stamp Duty Paid (e-Stamp Certificate No. IN-UP74219350118842X)",
+        "value": "Rs. 1,000/-"
+      },
+      {
+        "label": "GSTIN of Surety",
+        "value": "09AAKCK4821M1Z6"
+      },
+      {
+        "label": "GSTIN of Principal",
+        "value": "09AAGCA7365R1Z2"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN173RP0004V01202324"
+      },
+      {
+        "label": "Intermediary Code",
+        "value": "BRK-0417-LKO (Lakhanpur Risk Advisors Pvt. Ltd.)"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Preamble",
+        "body": "KNOW ALL MEN BY THESE PRESENTS that this Surety Bond bearing Bond No. KSG/SB/LKO/2025/004718 is executed at Lucknow by Konkan Surety & General Insurance Ltd., a company registered with the Insurance Regulatory and Development Authority of India and having its Regional Office at Saryu Business Centre, Hazratganj, Lucknow (hereinafter called the Surety, which expression shall unless repugnant to the context include its successors and assigns), at the request of Awadh Nirman Infracon Pvt. Ltd., a civil works contractor having its office at B-214, Gomti Vihar Commercial Complex, Faizabad Road, Indira Nagar, Lucknow (hereinafter called the Principal), in favour of Avadh Metropolitan Drainage & Civic Works Board, Lucknow (hereinafter called the Obligee)."
+      },
+      {
+        "heading": "Recitals",
+        "body": "WHEREAS the Obligee has awarded to the Principal the contract for construction of storm water drains, culverts and allied civil works in Zones 3 and 4 of the Obligee's jurisdiction under Agreement No. AMDCWB/SWD/2025-26/117 for a contract value of Rs. 9,64,20,000/-; AND WHEREAS the conditions of the said contract require the Principal to furnish a performance security equal to five per cent of the contract value in the form of a surety bond issued by an insurer registered with IRDAI; AND WHEREAS the Surety has agreed to issue this bond on the strength of the Principal's counter-indemnity dated 10th July 2025."
+      },
+      {
+        "heading": "Obligation of the Surety",
+        "body": "NOW THEREFORE the Surety hereby irrevocably and unconditionally undertakes to pay to the Obligee, on its first written demand and without demur, protest or reference to the Principal, any sum or sums up to and not exceeding the Bond Amount of Rs. 48,21,000/- (Rupees Forty Eight Lakh Twenty One Thousand only) upon the Obligee stating that the Principal has failed to perform or observe any of the terms and conditions of the said contract. The decision of the Obligee as to such breach shall be final and binding on the Surety for the purpose of this bond."
+      },
+      {
+        "heading": "Validity and Claim Period",
+        "body": "This bond shall come into force and be effective from 15th July 2025 and shall remain valid until 14th January 2027, both days inclusive. Any demand under this bond must be lodged in writing at the Regional Office of the Surety at Lucknow on or before 14th January 2027, failing which all rights of the Obligee hereunder shall stand extinguished and the Surety shall be discharged from all liability, whether or not this original instrument is returned. The validity may be extended only by a written endorsement issued by the Surety."
+      },
+      {
+        "heading": "General Conditions",
+        "body": "The liability of the Surety shall not be affected by any variation in the terms of the contract, extension of time, forbearance or indulgence granted by the Obligee to the Principal, or by any change in the constitution of the Principal or the Surety. This bond is issued subject to the Insurance Act, 1938, the IRDAI (Surety Insurance Contracts) Guidelines and the laws of India, and the courts at Lucknow alone shall have jurisdiction. The aggregate liability of the Surety shall in no event exceed Rs. 48,21,000/-."
+      },
+      {
+        "heading": "Execution",
+        "body": "IN WITNESS WHEREOF Konkan Surety & General Insurance Ltd. has caused this bond to be signed by its duly authorised officer at Lucknow on this 15th day of July 2025, on non-judicial e-stamp paper of the value of Rs. 1,000/-. Witness 1: Devendra Pratap Mishra, Lucknow. Witness 2: Shalini Rastogi, Lucknow."
+      }
+    ],
+    "signatory": "For and on behalf of Konkan Surety & General Insurance Ltd. - Rajeshwar Nath Tiwari, Chief Manager (Surety Underwriting), Authorised Signatory, Lucknow Regional Office"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "insured_name": "Zaveri Shantilal Maganlal & Sons",
+  "insurer_name": "Sahyadri General Insurance Company Limited",
+  "policy_or_bond_number": "SGI/SB/2025/SUR/004517",
+  "document_type": "surety_bond",
+  "sum_insured": 25000000.0,
+  "premium": 281250.0,
+  "gst_amount": null,
+  "period_start": "2025-06-15",
+  "period_end": "2026-12-14",
+  "beneficiary": "Directorate of Bullion Import Regulation, Surat Region",
+  "doc_id": "doc_023",
+  "template": "schedule_table"
+}

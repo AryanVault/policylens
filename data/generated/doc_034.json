@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_034",
+    "document_type": "fire",
+    "layout": "schedule_table",
+    "amount_style": "words_paren",
+    "date_style": "ordinal_long",
+    "insurer": "Aravalli General Insurance Limited",
+    "party_hint": "hospital trust in Kochi",
+    "omit": []
+  },
+  "request_id": "req_011CgyrTi9kEyFmbz7s1aRAc",
+  "generated": {
+    "truth": {
+      "insured_name": "Periyar Valley Medical Charitable Trust",
+      "insurer_name": "Aravalli General Insurance Limited",
+      "policy_or_bond_number": "AGI/32/FIR/BLUS/2025/004817",
+      "document_type": "fire",
+      "sum_insured": 485000000.0,
+      "premium": 194000.0,
+      "gst_amount": 34920.0,
+      "period_start": "2025-07-15",
+      "period_end": "2026-07-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Periyar Valley Medical Charitable Trust"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Aravalli General Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "AGI/32/FIR/BLUS/2025/004817"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured",
+        "text": "Rs. 48,50,00,000/- (Rupees Forty Eight Crore Fifty Lakh Only)"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 1,94,000/- (Rupees One Lakh Ninety Four Thousand Only)"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 34,920/- (Rupees Thirty Four Thousand Nine Hundred Twenty Only)"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15th July 2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "14th July 2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Bharat Laghu Udyam Suraksha Policy - Policy Schedule",
+    "insurer_address": "Registered Office: Aravalli Bhawan, 14 Tonk Road, Jaipur, Rajasthan - 302015. Issuing Office: 3rd Floor, Marine Pearl Towers, Banerji Road, Ernakulam, Kochi, Kerala - 682018. CIN: U66010RJ2011PLC098431. IRDAI Registration No. 187",
+    "insured_address": "Periyar Valley Medical Charitable Trust, Trust Hospital Campus, NH Bypass, Vyttila, Kochi, Kerala - 682019",
+    "extra_rows": [
+      {
+        "label": "UIN",
+        "value": "IRDAN187RP0006V01202021"
+      },
+      {
+        "label": "Insurer GSTIN",
+        "value": "32AAKCA4419M1ZQ"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Malabar Coast Insurance Brokers Pvt. Ltd. / BRK-32-00719"
+      },
+      {
+        "label": "Location of Risk",
+        "value": "Main Hospital Block, Diagnostic Wing and Staff Quarters, NH Bypass, Vyttila, Kochi - 682019"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 17,460/- (Rupees Seventeen Thousand Four Hundred Sixty Only)"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 17,460/- (Rupees Seventeen Thousand Four Hundred Sixty Only)"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 2,28,920/- (Rupees Two Lakh Twenty Eight Thousand Nine Hundred Twenty Only)"
+      },
+      {
+        "label": "Stamp Duty",
+        "value": "Rs. 1/- (Rupees One Only)"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Description of Property Insured",
+        "body": "Building including plinth and foundation, medical equipment, furniture, fixtures and fittings, electrical installations, and stocks of medicines and consumables kept at the location of risk stated in this schedule, as per the declaration submitted by the Insured. Sum insured for buildings is on reinstatement value basis."
+      },
+      {
+        "heading": "Perils Covered",
+        "body": "Fire, lightning, explosion or implosion, aircraft damage, riot, strike and malicious damage, storm, cyclone, typhoon, tempest, hurricane, tornado, flood and inundation, earth tremor and landslide, bush fire, impact damage, subsidence, missile testing operations, leakage from automatic sprinkler installations, and theft within seven days of the occurrence of an insured peril, subject to the policy wording."
+      },
+      {
+        "heading": "Add-on Covers and Clauses",
+        "body": "Earthquake (fire and shock) cover included. Terrorism cover included as per the Indian Market Terrorism Risk Insurance Pool terms. Agreed Bank Clause, Designation of Property Clause, Reinstatement Value Clause, and Escalation Clause apply as attached."
+      },
+      {
+        "heading": "Important Conditions",
+        "body": "This policy is issued on the basis of the proposal and declaration dated at inception. The Insured shall give immediate notice of any loss to the issuing office and shall take all reasonable steps to minimise loss. Premium has been received under Section 64VB of the Insurance Act, 1938. In case of any grievance, the Insured may contact the Grievance Redressal Officer at the issuing office or approach the Insurance Ombudsman, Kochi."
+      },
+      {
+        "heading": "Declaration",
+        "body": "This schedule forms part of the Bharat Laghu Udyam Suraksha Policy wording, which should be read together with this schedule, endorsements and clauses attached. Stamp duty has been paid by consolidated payment as per the applicable State order."
+      }
+    ],
+    "signatory": "For and on behalf of Aravalli General Insurance Limited - Authorised Signatory, Kochi Branch Office (Digitally signed on 15th July 2025)"
+  }
+}

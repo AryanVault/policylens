@@ -1,0 +1,885 @@
+Running 240 extraction(s) with 12 workers
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [1/240] claude-haiku-5-5:low doc_005 10/10 $0.0008 7.0s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [2/240] claude-haiku-5-5:low doc_009 10/10 $0.0009 6.7s
+  [3/240] claude-haiku-5-5:low doc_010 10/10 $0.0009 6.6s
+  [4/240] claude-haiku-5-5:low doc_004 10/10 $0.0009 7.1s
+  [5/240] claude-haiku-5-5:low doc_003 10/10 $0.0008 7.3s
+  [6/240] claude-haiku-5-5:low doc_002 10/10 $0.0008 7.4s
+  [7/240] claude-haiku-5-5:low doc_012 10/10 $0.0008 6.4s  [8/240] claude-haiku-5-5:low doc_007 10/10 $0.0009 6.8s
+
+  [9/240] claude-haiku-5-5:low doc_008 9/10 $0.0008 6.7s
+  [10/240] claude-haiku-5-5:low doc_006 10/10 $0.0008 7.0s
+  [11/240] claude-haiku-5-5:low doc_011 10/10 $0.0008 6.5s
+  [12/240] claude-haiku-5-5:low doc_001 10/10 $0.0009 7.5s
+  [13/240] claude-haiku-5-5:low doc_013 10/10 $0.0008 2.2s
+  [14/240] claude-haiku-5-5:low doc_021 10/10 $0.0008 2.2s
+  [15/240] claude-haiku-5-5:low doc_018 10/10 $0.0008 2.2s
+  [16/240] claude-haiku-5-5:low doc_024 10/10 $0.0008 2.2s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [17/240] claude-haiku-5-5:low doc_022 10/10 $0.0008 2.3s
+  [18/240] claude-haiku-5-5:low doc_020 10/10 $0.0008 2.3s
+  [19/240] claude-haiku-5-5:low doc_017 10/10 $0.0008 2.4s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [20/240] claude-haiku-5-5:low doc_023 10/10 $0.0008 2.9s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [21/240] claude-haiku-5-5:low doc_015 10/10 $0.0010 3.4s
+  [22/240] claude-haiku-5-5:low doc_014 10/10 $0.0010 3.5s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....92, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [23/240] claude-haiku-5-5:low doc_019 10/10 $0.0008 3.5s
+  [24/240] claude-haiku-5-5:low doc_016 10/10 $0.0009 3.6s
+  [25/240] claude-haiku-5-5:low doc_026 10/10 $0.0008 1.9s
+  [26/240] claude-haiku-5-5:low doc_027 10/10 $0.0008 2.0s
+  [27/240] claude-haiku-5-5:low doc_029 10/10 $0.0008 1.9s
+  [28/240] claude-haiku-5-5:low doc_025 10/10 $0.0009 2.5s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [29/240] claude-haiku-5-5:low doc_028 10/10 $0.0009 2.5s
+  [30/240] claude-haiku-5-5:low doc_033 10/10 $0.0008 1.8s
+  [31/240] claude-haiku-5-5:low doc_031 10/10 $0.0009 3.0s
+  [32/240] claude-haiku-5-5:low doc_032 10/10 $0.0009 2.7s
+  [33/240] claude-haiku-5-5:low doc_037 10/10 $0.0008 1.7s
+  [34/240] claude-haiku-5-5:low doc_030 10/10 $0.0010 3.5s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....95, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [35/240] claude-haiku-5-5:low doc_034 10/10 $0.0009 2.6s
+  [36/240] claude-haiku-5-5:low doc_039 10/10 $0.0008 1.8s
+  [37/240] claude-haiku-5-5:low doc_036 10/10 $0.0008 2.6s
+  [38/240] claude-haiku-5-5:low doc_035 10/10 $0.0009 3.0s
+  [39/240] claude-haiku-5-5:low doc_041 10/10 $0.0008 2.4s
+  [40/240] claude-haiku-5-5:low doc_038 10/10 $0.0009 3.0s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [41/240] claude-haiku-5-5:low doc_044 10/10 $0.0009 2.0s
+  [42/240] claude-haiku-5-5:low doc_042 10/10 $0.0008 2.4s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [43/240] claude-haiku-5-5:low doc_049 10/10 $0.0009 1.6s
+  [44/240] claude-haiku-5-5:low doc_047 10/10 $0.0008 1.8s
+  [45/240] claude-haiku-5-5:low doc_048 10/10 $0.0008 1.9s
+  [46/240] claude-haiku-5-5:low doc_043 10/10 $0.0008 2.8s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....94, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [47/240] claude-haiku-5-5:low doc_040 10/10 $0.0010 3.6s
+  [48/240] claude-haiku-5-5:low doc_045 10/10 $0.0007 2.5s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.92, beneficiary=0.9))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [49/240] claude-haiku-5-5:low doc_046 10/10 $0.0009 2.8s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [50/240] claude-haiku-5-5:low doc_050 10/10 $0.0009 2.7s
+  [51/240] claude-haiku-5-5:low doc_053 10/10 $0.0008 1.7s
+  [52/240] claude-haiku-5-5:low doc_054 10/10 $0.0008 1.8s
+  [53/240] claude-haiku-5-5:low doc_055 10/10 $0.0007 1.8s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.94))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [54/240] claude-haiku-5-5:low doc_052 9/10 $0.0009 2.6s
+  [55/240] claude-haiku-5-5:low doc_059 10/10 $0.0009 1.8s
+  [56/240] claude-haiku-5-5:low doc_058 10/10 $0.0008 2.0s
+  [57/240] claude-haiku-5-5:low doc_051 10/10 $0.0010 3.0s
+  [58/240] claude-haiku-5-5:low doc_060 10/10 $0.0008 1.9s
+  [59/240] claude-haiku-5-5:low doc_057 10/10 $0.0006 2.4s
+  [60/240] claude-haiku-5-5:low doc_056 10/10 $0.0009 2.7s
+  [61/240] claude-sonnet-5-5:low doc_001 10/10 $0.0174 3.1s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [62/240] claude-sonnet-5-5:low doc_003 10/10 $0.0162 2.9s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [63/240] claude-sonnet-5-5:low doc_002 10/10 $0.0167 3.2s
+  [64/240] claude-sonnet-5-5:low doc_004 10/10 $0.0181 3.1s
+  [65/240] claude-sonnet-5-5:low doc_005 10/10 $0.0164 3.0s
+  [66/240] claude-sonnet-5-5:low doc_006 10/10 $0.0163 3.1s
+  [67/240] claude-sonnet-5-5:low doc_008 10/10 $0.0166 2.8s
+  [68/240] claude-sonnet-5-5:low doc_007 10/10 $0.0171 3.0s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....99, beneficiary=0.99))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [69/240] claude-sonnet-5-5:low doc_010 10/10 $0.0163 2.9s
+  [70/240] claude-sonnet-5-5:low doc_011 10/10 $0.0164 3.0s
+  [71/240] claude-sonnet-5-5:low doc_012 10/10 $0.0163 3.3s
+  [72/240] claude-sonnet-5-5:low doc_013 10/10 $0.0165 3.1s
+  [73/240] claude-sonnet-5-5:low doc_014 10/10 $0.0166 2.9s
+  [74/240] claude-sonnet-5-5:low doc_009 10/10 $0.0172 4.9s
+  [75/240] claude-sonnet-5-5:low doc_016 10/10 $0.0164 2.8s
+  [76/240] claude-sonnet-5-5:low doc_015 10/10 $0.0161 3.0s
+  [77/240] claude-sonnet-5-5:low doc_017 10/10 $0.0166 3.0s
+  [78/240] claude-sonnet-5-5:low doc_019 10/10 $0.0166 2.9s
+  [79/240] claude-sonnet-5-5:low doc_018 10/10 $0.0165 3.0s
+  [80/240] claude-sonnet-5-5:low doc_020 10/10 $0.0168 3.0s
+  [81/240] claude-sonnet-5-5:low doc_022 10/10 $0.0163 2.8s
+  [82/240] claude-sonnet-5-5:low doc_021 10/10 $0.0160 3.0s
+  [83/240] claude-sonnet-5-5:low doc_023 10/10 $0.0164 3.1s
+  [84/240] claude-sonnet-5-5:low doc_027 10/10 $0.0164 2.2s
+  [85/240] claude-sonnet-5-5:low doc_024 10/10 $0.0164 2.7s
+  [86/240] claude-sonnet-5-5:low doc_025 10/10 $0.0174 3.1s
+  [87/240] claude-sonnet-5-5:low doc_026 10/10 $0.0167 3.1s
+  [88/240] claude-sonnet-5-5:low doc_028 10/10 $0.0171 2.9s
+  [89/240] claude-sonnet-5-5:low doc_029 10/10 $0.0168 2.9s
+  [90/240] claude-sonnet-5-5:low doc_030 10/10 $0.0164 2.9s
+  [91/240] claude-sonnet-5-5:low doc_032 10/10 $0.0166 2.9s
+  [92/240] claude-sonnet-5-5:low doc_033 10/10 $0.0161 3.0s
+  [93/240] claude-sonnet-5-5:low doc_034 9/10 $0.0164 3.1s
+  [94/240] claude-sonnet-5-5:low doc_031 10/10 $0.0172 3.3s
+  [95/240] claude-sonnet-5-5:low doc_035 10/10 $0.0167 2.9s
+  [96/240] claude-sonnet-5-5:low doc_040 10/10 $0.0164 2.2s
+  [97/240] claude-sonnet-5-5:low doc_037 9/10 $0.0163 2.9s
+  [98/240] claude-sonnet-5-5:low doc_036 10/10 $0.0163 3.0s
+  [99/240] claude-sonnet-5-5:low doc_041 10/10 $0.0165 2.3s
+  [100/240] claude-sonnet-5-5:low doc_038 10/10 $0.0166 2.8s
+  [101/240] claude-sonnet-5-5:low doc_039 10/10 $0.0168 3.0s
+  [102/240] claude-sonnet-5-5:low doc_042 10/10 $0.0161 2.8s
+  [103/240] claude-sonnet-5-5:low doc_043 10/10 $0.0167 3.1s
+  [104/240] claude-sonnet-5-5:low doc_045 10/10 $0.0127 2.9s
+  [105/240] claude-sonnet-5-5:low doc_044 10/10 $0.0172 3.0s
+  [106/240] claude-sonnet-5-5:low doc_046 10/10 $0.0164 2.9s
+  [107/240] claude-sonnet-5-5:low doc_050 10/10 $0.0162 2.6s
+  [108/240] claude-sonnet-5-5:low doc_048 10/10 $0.0159 3.0s
+  [109/240] claude-sonnet-5-5:low doc_049 10/10 $0.0172 3.2s
+  [110/240] claude-sonnet-5-5:low doc_051 10/10 $0.0166 3.0s
+  [111/240] claude-sonnet-5-5:low doc_053 10/10 $0.0165 2.9s
+  [112/240] claude-sonnet-5-5:low doc_047 10/10 $0.0163 4.4s
+  [113/240] claude-sonnet-5-5:low doc_054 10/10 $0.0166 3.2s
+  [114/240] claude-sonnet-5-5:low doc_052 9/10 $0.0173 4.1s
+  [115/240] claude-sonnet-5-5:low doc_056 10/10 $0.0165 2.9s
+  [116/240] claude-sonnet-5-5:low doc_055 10/10 $0.0136 3.1s
+  [117/240] claude-sonnet-5-5:low doc_057 10/10 $0.0128 3.0s
+  [118/240] claude-sonnet-5-5:low doc_059 10/10 $0.0170 2.1s
+  [119/240] claude-sonnet-5-5:low doc_058 10/10 $0.0164 3.5s
+  [120/240] claude-sonnet-5-5:low doc_060 10/10 $0.0162 3.1s
+  [121/240] claude-opus-5-5:low doc_001 10/10 $0.0347 3.5s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....93, beneficiary=0.95))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [122/240] claude-opus-5-5:low doc_004 10/10 $0.0361 3.2s
+  [123/240] claude-opus-5-5:low doc_005 10/10 $0.0329 2.8s
+  [124/240] claude-opus-5-5:low doc_003 10/10 $0.0325 3.6s
+  [125/240] claude-opus-5-5:low doc_002 10/10 $0.0335 4.0s
+  [126/240] claude-opus-5-5:low doc_008 10/10 $0.0333 3.0s
+  [127/240] claude-opus-5-5:low doc_006 10/10 $0.0326 3.4s
+  [128/240] claude-opus-5-5:low doc_007 10/10 $0.0341 3.5s
+  [129/240] claude-opus-5-5:low doc_010 10/10 $0.0325 3.5s
+  [130/240] claude-opus-5-5:low doc_011 10/10 $0.0327 3.0s
+  [131/240] claude-opus-5-5:low doc_009 10/10 $0.0344 3.6s
+  [132/240] claude-opus-5-5:low doc_012 10/10 $0.0325 3.7s
+  [133/240] claude-opus-5-5:low doc_013 10/10 $0.0330 3.3s
+  [134/240] claude-opus-5-5:low doc_015 10/10 $0.0323 3.0s
+  [135/240] claude-opus-5-5:low doc_016 10/10 $0.0329 3.4s
+  [136/240] claude-opus-5-5:low doc_019 10/10 $0.0332 2.7s
+  [137/240] claude-opus-5-5:low doc_017 10/10 $0.0333 3.6s
+  [138/240] claude-opus-5-5:low doc_018 10/10 $0.0330 3.6s
+  [139/240] claude-opus-5-5:low doc_014 10/10 $0.0332 4.3s
+  [140/240] claude-opus-5-5:low doc_023 10/10 $0.0328 3.3s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....98, beneficiary=0.96))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [141/240] claude-opus-5-5:low doc_020 10/10 $0.0336 3.6s
+  [142/240] claude-opus-5-5:low doc_021 10/10 $0.0321 3.5s
+  [143/240] claude-opus-5-5:low doc_022 10/10 $0.0326 3.5s
+  [144/240] claude-opus-5-5:low doc_024 10/10 $0.0327 3.4s
+  [145/240] claude-opus-5-5:low doc_026 10/10 $0.0334 3.3s
+  [146/240] claude-opus-5-5:low doc_025 10/10 $0.0347 3.7s
+  [147/240] claude-opus-5-5:low doc_027 10/10 $0.0328 3.3s
+  [148/240] claude-opus-5-5:low doc_029 10/10 $0.0335 3.2s
+  [149/240] claude-opus-5-5:low doc_028 10/10 $0.0342 3.6s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....97, beneficiary=0.93))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [150/240] claude-opus-5-5:low doc_031 10/10 $0.0344 3.7s
+  [151/240] claude-opus-5-5:low doc_030 10/10 $0.0328 3.8s
+  [152/240] claude-opus-5-5:low doc_032 10/10 $0.0333 3.4s
+  [153/240] claude-opus-5-5:low doc_034 10/10 $0.0327 3.4s
+  [154/240] claude-opus-5-5:low doc_033 10/10 $0.0322 3.5s
+  [155/240] claude-opus-5-5:low doc_035 10/10 $0.0334 3.5s
+  [156/240] claude-opus-5-5:low doc_036 10/10 $0.0327 3.5s
+  [157/240] claude-opus-5-5:low doc_037 10/10 $0.0325 3.8s
+  [158/240] claude-opus-5-5:low doc_038 10/10 $0.0332 3.6s
+  [159/240] claude-opus-5-5:low doc_039 10/10 $0.0336 3.6s
+  [160/240] claude-opus-5-5:low doc_043 10/10 $0.0334 2.7s
+  [161/240] claude-opus-5-5:low doc_040 10/10 $0.0329 3.7s
+  [162/240] claude-opus-5-5:low doc_041 10/10 $0.0330 3.5s
+  [163/240] claude-opus-5-5:low doc_044 10/10 $0.0344 2.9s
+  [164/240] claude-opus-5-5:low doc_047 10/10 $0.0326 2.7s
+  [165/240] claude-opus-5-5:low doc_042 10/10 $0.0321 3.3s
+  [166/240] claude-opus-5-5:low doc_046 10/10 $0.0328 3.2s
+  [167/240] claude-opus-5-5:low doc_045 10/10 $0.0254 3.3s
+  [168/240] claude-opus-5-5:low doc_048 10/10 $0.0317 3.3s
+  [169/240] claude-opus-5-5:low doc_049 10/10 $0.0344 3.6s
+  [170/240] claude-opus-5-5:low doc_053 10/10 $0.0329 3.4s
+  [171/240] claude-opus-5-5:low doc_050 10/10 $0.0324 3.9s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.88))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [172/240] claude-opus-5-5:low doc_052 9/10 $0.0346 3.6s
+  [173/240] claude-opus-5-5:low doc_055 10/10 $0.0271 3.4s
+  [174/240] claude-opus-5-5:low doc_056 10/10 $0.0331 3.3s
+  [175/240] claude-opus-5-5:low doc_054 10/10 $0.0332 3.7s
+  [176/240] claude-opus-5-5:low doc_057 10/10 $0.0257 3.5s
+  [177/240] claude-opus-5-5:low doc_051 10/10 $0.0332 4.2s
+  [178/240] claude-opus-5-5:low doc_059 10/10 $0.0340 3.5s
+  [179/240] claude-opus-5-5:low doc_058 10/10 $0.0327 3.7s
+  [180/240] claude-opus-5-5:low doc_060 10/10 $0.0324 3.3s
+  [181/240] claude-opus-5-5:medium doc_006 10/10 $0.0326 2.6s
+  [182/240] claude-opus-5-5:medium doc_007 10/10 $0.0341 2.7s
+  [183/240] claude-opus-5-5:medium doc_005 10/10 $0.0329 2.8s
+  [184/240] claude-opus-5-5:medium doc_004 10/10 $0.0361 3.1s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV....96, beneficiary=0.98))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [185/240] claude-opus-5-5:medium doc_003 10/10 $0.0325 3.6s
+  [186/240] claude-opus-5-5:medium doc_009 10/10 $0.0344 3.5s
+  [187/240] claude-opus-5-5:medium doc_011 10/10 $0.0327 3.1s
+  [188/240] claude-opus-5-5:medium doc_010 10/10 $0.0325 3.4s
+  [189/240] claude-opus-5-5:medium doc_008 10/10 $0.0348 3.8s
+  [190/240] claude-opus-5-5:medium doc_002 10/10 $0.0335 4.9s
+  [191/240] claude-opus-5-5:medium doc_013 10/10 $0.0330 2.5s
+  [192/240] claude-opus-5-5:medium doc_012 10/10 $0.0325 3.5s
+  [193/240] claude-opus-5-5:medium doc_016 10/10 $0.0329 3.0s
+  [194/240] claude-opus-5-5:medium doc_015 10/10 $0.0323 3.2s
+  [195/240] claude-opus-5-5:medium doc_014 10/10 $0.0332 3.3s
+  [196/240] claude-opus-5-5:medium doc_017 10/10 $0.0333 2.7s
+  [197/240] claude-opus-5-5:medium doc_019 10/10 $0.0332 3.0s
+  [198/240] claude-opus-5-5:medium doc_021 10/10 $0.0321 3.2s
+  [199/240] claude-opus-5-5:medium doc_018 10/10 $0.0330 3.5s
+  [200/240] claude-opus-5-5:medium doc_020 10/10 $0.0336 3.4s
+  [201/240] claude-opus-5-5:medium doc_024 10/10 $0.0327 2.7s
+  [202/240] claude-opus-5-5:medium doc_022 10/10 $0.0326 3.4s
+  [203/240] claude-opus-5-5:medium doc_023 10/10 $0.0328 3.2s
+  [204/240] claude-opus-5-5:medium doc_026 10/10 $0.0334 2.7s
+  [205/240] claude-opus-5-5:medium doc_025 10/10 $0.0347 3.6s
+C:\Users\Aryan\api-work\.venv\Lib\site-packages\pydantic\main.py:520: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `ParsedBetaTextBlock[TypeVar]` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaRedactedThinkingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaServerToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaWebFetchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaAdvisorToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaBashCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaTextEditorCodeExecutionToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaToolSearchToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolUseBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolResultBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaContainerUploadBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaCompactionBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaMCPToolListingBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  PydanticSerializationUnexpectedValue(Expected `BetaFallbackBlock` - serialized value may not be as expected [field_name='content', input_value=ParsedBetaTextBlock[TypeV...0.9, beneficiary=0.97))), input_type=ParsedBetaTextBlock[TypeVar]])
+  return self.__pydantic_serializer__.to_python(
+  [206/240] claude-opus-5-5:medium doc_028 10/10 $0.0342 3.4s
+  [207/240] claude-opus-5-5:medium doc_029 10/10 $0.0335 3.2s
+  [208/240] claude-opus-5-5:medium doc_031 10/10 $0.0344 3.6s
+  [209/240] claude-opus-5-5:medium doc_027 10/10 $0.0328 4.8s
+  [210/240] claude-opus-5-5:medium doc_030 10/10 $0.0328 3.7s
+  [211/240] claude-opus-5-5:medium doc_033 10/10 $0.0322 3.4s
+  [212/240] claude-opus-5-5:medium doc_034 10/10 $0.0327 3.5s
+  [213/240] claude-opus-5-5:medium doc_032 10/10 $0.0353 4.2s
+  [214/240] claude-opus-5-5:medium doc_036 10/10 $0.0327 2.9s
+  [215/240] claude-opus-5-5:medium doc_035 10/10 $0.0334 3.7s
+  [216/240] claude-opus-5-5:medium doc_001 10/10 $0.0347 13.6s
+  [217/240] claude-opus-5-5:medium doc_038 10/10 $0.0332 3.4s
+  [218/240] claude-opus-5-5:medium doc_039 10/10 $0.0336 3.4s
+  [219/240] claude-opus-5-5:medium doc_045 10/10 $0.0254 2.7s
+  [220/240] claude-opus-5-5:medium doc_042 10/10 $0.0321 3.4s
+  [221/240] claude-opus-5-5:medium doc_041 10/10 $0.0330 3.6s
+  [222/240] claude-opus-5-5:medium doc_043 10/10 $0.0334 3.5s
+  [223/240] claude-opus-5-5:medium doc_037 10/10 $0.0325 5.3s
+  [224/240] claude-opus-5-5:medium doc_046 10/10 $0.0328 3.2s
+  [225/240] claude-opus-5-5:medium doc_040 10/10 $0.0340 4.1s
+  [226/240] claude-opus-5-5:medium doc_044 10/10 $0.0344 3.7s
+  [227/240] claude-opus-5-5:medium doc_047 10/10 $0.0326 3.4s
+  [228/240] claude-opus-5-5:medium doc_048 10/10 $0.0317 2.5s
+  [229/240] claude-opus-5-5:medium doc_050 10/10 $0.0324 3.2s
+  [230/240] claude-opus-5-5:medium doc_049 10/10 $0.0344 3.6s
+  [231/240] claude-opus-5-5:medium doc_051 10/10 $0.0332 3.1s
+  [232/240] claude-opus-5-5:medium doc_054 10/10 $0.0332 2.9s
+  [233/240] claude-opus-5-5:medium doc_053 10/10 $0.0329 3.5s
+  [234/240] claude-opus-5-5:medium doc_052 9/10 $0.0346 3.7s
+  [235/240] claude-opus-5-5:medium doc_056 10/10 $0.0331 3.2s
+  [236/240] claude-opus-5-5:medium doc_060 10/10 $0.0324 2.8s
+  [237/240] claude-opus-5-5:medium doc_055 10/10 $0.0271 3.5s
+  [238/240] claude-opus-5-5:medium doc_059 10/10 $0.0340 3.4s
+  [239/240] claude-opus-5-5:medium doc_058 10/10 $0.0327 3.7s
+  [240/240] claude-opus-5-5:medium doc_057 10/10 $0.0270 4.1s
+
+| Model | Effort | Docs | Field accuracy | All-fields-correct | Failures | Cost/doc | Mean latency | Projected cost (60 docs) |
+|---|---|---|---|---|---|---|---|---|
+| claude-haiku-5-5 | low | 60 | 99.7% | 96.7% | 0 | $0.0009 | 3.3s | $0.05 |
+| claude-sonnet-5-5 | low | 60 | 99.5% | 95.0% | 0 | $0.0164 | 3.0s | $0.98 |
+| claude-opus-5-5 | low | 60 | 99.8% | 98.3% | 0 | $0.0328 | 3.4s | $1.97 |
+| claude-opus-5-5 | medium | 60 | 99.8% | 98.3% | 0 | $0.0329 | 3.6s | $1.98 |
+
+**Projected cost of all configs on 60 docs: $4.98**
+
+Per-field accuracy:
+
+| Field | claude-haiku-5-5:low | claude-sonnet-5-5:low | claude-opus-5-5:low | claude-opus-5-5:medium |
+|---|---|---|---|---|
+| insured_name | 100% | 100% | 100% | 100% |
+| insurer_name | 100% | 100% | 100% | 100% |
+| policy_or_bond_number | 100% | 100% | 100% | 100% |
+| document_type | 98% | 100% | 100% | 100% |
+| sum_insured | 100% | 97% | 100% | 100% |
+| premium | 100% | 100% | 100% | 100% |
+| gst_amount | 100% | 100% | 100% | 100% |
+| period_start | 100% | 100% | 100% | 100% |
+| period_end | 100% | 100% | 100% | 100% |
+| beneficiary | 98% | 98% | 98% | 98% |

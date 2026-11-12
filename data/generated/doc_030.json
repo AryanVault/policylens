@@ -1,0 +1,121 @@
+{
+  "plan": {
+    "doc_id": "doc_030",
+    "document_type": "health",
+    "layout": "certificate",
+    "amount_style": "lakh_crore",
+    "date_style": "dmy_dot",
+    "insurer": "Narmada General Insurance Co. Ltd.",
+    "party_hint": "food processing unit in Indore",
+    "omit": [
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrRVWvVGAUb8m8nAymb",
+  "generated": {
+    "truth": {
+      "insured_name": "Malwa Agro Foods Pvt. Ltd.",
+      "insurer_name": "Narmada General Insurance Co. Ltd.",
+      "policy_or_bond_number": "NGI/HL/GMC/2025/0047812",
+      "document_type": "health",
+      "sum_insured": 25000000.0,
+      "premium": 625000.0,
+      "gst_amount": null,
+      "period_start": "2025-07-01",
+      "period_end": "2026-06-30",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Policyholder",
+        "text": "Malwa Agro Foods Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Narmada General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Master Policy No.",
+        "text": "NGI/HL/GMC/2025/0047812"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured (Group)",
+        "text": "₹ 2.5 Crore"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "₹ 6.25 Lakhs"
+      },
+      "gst_amount": null,
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "01.07.2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "30.06.2026"
+      },
+      "beneficiary": null
+    },
+    "title": "CERTIFICATE OF INSURANCE - GROUP MEDICLAIM (HEALTH) POLICY",
+    "insurer_address": "Narmada General Insurance Co. Ltd., Regd. & Corporate Office: Narmada Bhawan, 14 Residency Road, Jabalpur, Madhya Pradesh 482001. Indore Divisional Office: 3rd Floor, Shree Tower, 22 A.B. Road, Indore 452008. CIN: U66010MP2011PLC028471. IRDAI Regn. No. 198",
+    "insured_address": "Malwa Agro Foods Pvt. Ltd., Plot No. 47-B, Sector E, Sanwer Road Industrial Area, Indore, Madhya Pradesh 452015",
+    "extra_rows": [
+      {
+        "label": "Policyholder GSTIN",
+        "value": "23AAACM4821K1Z5"
+      },
+      {
+        "label": "Product UIN",
+        "value": "NARHLGP26012V012526"
+      },
+      {
+        "label": "Sum Insured per Employee (Family Floater)",
+        "value": "₹ 5 Lakhs"
+      },
+      {
+        "label": "Number of Employees / Lives Covered",
+        "value": "50 Employees / 168 Lives"
+      },
+      {
+        "label": "Room Rent Limit",
+        "value": "1% of Sum Insured per day (ICU 2%)"
+      },
+      {
+        "label": "Intermediary Name & Code",
+        "value": "Ujjain Insurance Brokers Pvt. Ltd. - BRK/MP/0391"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 100"
+      },
+      {
+        "label": "Premium Receipt No.",
+        "value": "NGI/IND/RCPT/25/118604 dated 28.06.2025"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Scope of Cover",
+        "body": "This certificate evidences that the Policyholder named in the Schedule has effected a Group Mediclaim Policy with the Insurer covering its permanent employees, their spouses, up to two dependent children and dependent parents, on a family floater basis, against reasonable and customary in-patient hospitalisation expenses incurred in India due to illness or accidental bodily injury sustained during the Period of Insurance, subject to the terms, conditions and exclusions of the policy wording."
+      },
+      {
+        "heading": "Key Benefits",
+        "body": "Pre-hospitalisation expenses for 30 days and post-hospitalisation expenses for 60 days; day care procedures as per the listed schedule; domiciliary hospitalisation; ambulance charges up to Rs. 2,500 per hospitalisation; maternity benefit up to Rs. 50,000 for normal delivery and Rs. 75,000 for caesarean section with 9 month waiting period waived; new born baby cover from day one; pre-existing diseases covered from day one; AYUSH treatment at registered hospitals."
+      },
+      {
+        "heading": "Principal Exclusions",
+        "body": "Cosmetic or plastic surgery unless necessitated by accident; treatment for alcoholism or drug abuse; self-inflicted injury; war and nuclear perils; dental treatment unless requiring hospitalisation due to accident; spectacles, contact lenses and hearing aids; experimental or unproven treatment; expenses on non-medical items as per the IRDAI list annexed to the policy wording."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "Cashless facility is available at network hospitals through the appointed Third Party Administrator, Arogya Setu Health TPA Pvt. Ltd. (TPA Code TPA/045), toll free 1800-270-4416. Planned hospitalisation must be intimated at least 48 hours in advance and emergency hospitalisation within 24 hours of admission. Reimbursement claims must be submitted with original documents within 30 days of discharge."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, members may contact the Grievance Officer, Narmada General Insurance Co. Ltd., Jabalpur, at grievance@narmadageneral.example.in or 1800-233-6620. If not resolved within 15 days, the member may approach the Bima Bharosa portal or the Insurance Ombudsman, Bhopal, as per the Insurance Ombudsman Rules, 2017. This certificate is issued subject to realisation of premium and is to be read with the master policy wording."
+      }
+    ],
+    "signatory": "For Narmada General Insurance Co. Ltd., Authorised Signatory - Ritesh Khandelwal, Chief Manager (Health Underwriting), Indore Divisional Office. Place: Indore, Date: 30.06.2025"
+  }
+}

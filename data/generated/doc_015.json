@@ -1,0 +1,125 @@
+{
+  "plan": {
+    "doc_id": "doc_015",
+    "document_type": "surety_bond",
+    "layout": "certificate",
+    "amount_style": "lakh_crore",
+    "date_style": "month_first_long",
+    "insurer": "Deccan Shield Insurance Limited",
+    "party_hint": "IT services company in Bengaluru",
+    "omit": []
+  },
+  "request_id": "req_011CgyrLB4mdqAh7uuWAcam9",
+  "generated": {
+    "truth": {
+      "insured_name": "Nimbusqube Technologies Private Limited",
+      "insurer_name": "Deccan Shield Insurance Limited",
+      "policy_or_bond_number": "DSIL/SB/BLR/2025/004718",
+      "document_type": "surety_bond",
+      "sum_insured": 25000000.0,
+      "premium": 350000.0,
+      "gst_amount": 63000.0,
+      "period_start": "2025-05-01",
+      "period_end": "2027-04-30",
+      "beneficiary": "Karnataka Urban Data Systems Board"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal / Contractor",
+        "text": "Nimbusqube Technologies Private Limited"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Deccan Shield Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Bond Certificate No.",
+        "text": "DSIL/SB/BLR/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Bond Amount (Guaranteed Sum)",
+        "text": "₹ 2.5 Crore"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 3.5 Lakhs"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 63,000"
+      },
+      "period_start": {
+        "label": "Bond Validity - From",
+        "text": "May 1, 2025"
+      },
+      "period_end": {
+        "label": "Bond Validity - To",
+        "text": "April 30, 2027"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Karnataka Urban Data Systems Board"
+      }
+    },
+    "title": "CERTIFICATE OF SURETY BOND - PERFORMANCE SECURITY (CONTRACT PERFORMANCE BOND)",
+    "insurer_address": "Deccan Shield Insurance Limited, Regd. & Corporate Office: 7th Floor, Tungabhadra Towers, 41 Residency Road, Bengaluru, Karnataka 560025. CIN: U66010KA2016PLC093482. IRDAI Registration No. 187",
+    "insured_address": "Nimbusqube Technologies Private Limited, Plot 22, 3rd Cross, EPIP Zone Phase II, Whitefield, Bengaluru, Karnataka 560066",
+    "extra_rows": [
+      {
+        "label": "UIN",
+        "value": "IRDAN187CP0012V01202324"
+      },
+      {
+        "label": "Surety GSTIN",
+        "value": "29AACCD4821K1Z7"
+      },
+      {
+        "label": "Principal GSTIN",
+        "value": "29AAHCN7314P1ZQ"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 31,500"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 31,500"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 4.13 Lakhs"
+      },
+      {
+        "label": "Stamp Duty Paid (Karnataka)",
+        "value": "Rs. 500"
+      },
+      {
+        "label": "Intermediary Code / Receipt No.",
+        "value": "BRK-KA-00982 / RCPT/BLR/25/118604"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Underlying Contract",
+        "body": "This bond is issued in respect of Work Order No. KUDSB/IT/WO/2024-25/317 for design, development, hosting and five-year operation and maintenance of the Integrated Urban Property Records Platform, awarded by the Obligee to the Principal pursuant to the Request for Proposal and the Agreement executed between them."
+      },
+      {
+        "heading": "Undertaking of the Surety",
+        "body": "The Surety irrevocably undertakes to pay to the Obligee, on first written demand and without demur or protest, any sum up to the guaranteed amount stated in this certificate, upon the Obligee certifying that the Principal has failed to perform its obligations under the Underlying Contract. The Surety shall not require the Obligee to first proceed against the Principal."
+      },
+      {
+        "heading": "Claim Period and Expiry",
+        "body": "Any demand under this bond must be lodged in writing at the Surety's Bengaluru office within the validity period stated above together with a claim period of three months thereafter. On expiry of the claim period, the liability of the Surety shall stand discharged whether or not this original certificate is returned for cancellation."
+      },
+      {
+        "heading": "Conditions",
+        "body": "This bond is issued under the Surety Insurance Contracts product filed with IRDAI and in accordance with the IRDAI (Surety Insurance Contracts) Guidelines. The aggregate liability of the Surety shall not exceed the guaranteed amount. Variations to the Underlying Contract shall not discharge the Surety, provided they do not increase the guaranteed amount. This bond is governed by the laws of India and subject to the jurisdiction of courts at Bengaluru."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, contact the Grievance Officer, Deccan Shield Insurance Limited at grievance@deccanshield-example.in or toll-free 1800-425-0187. If unresolved, the matter may be referred to the Insurance Ombudsman, Bengaluru, or registered on the Bima Bharosa portal."
+      }
+    ],
+    "signatory": "For Deccan Shield Insurance Limited, Authorised Signatory - Ramya Venkatesh Iyer, Chief Manager, Surety and Engineering Underwriting, Bengaluru Hub. Date of Issue: April 28, 2025. Place: Bengaluru."
+  }
+}

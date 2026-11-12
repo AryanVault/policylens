@@ -1,0 +1,14 @@
+{
+  "insured_name": "Sahyadri Infraroads Pvt. Ltd.",
+  "insurer_name": "Konkan Surety & General Insurance Ltd.",
+  "policy_or_bond_number": "KSG/FIR/2025/11/004718",
+  "document_type": "fire",
+  "sum_insured": 90000000.0,
+  "premium": 63000.0,
+  "gst_amount": 11340.0,
+  "period_start": "2025-06-15",
+  "period_end": "2026-06-14",
+  "beneficiary": null,
+  "doc_id": "doc_002",
+  "template": "two_column"
+}

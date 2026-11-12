@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_016",
+    "document_type": "liability",
+    "layout": "schedule_table",
+    "amount_style": "rupee_indian",
+    "date_style": "ordinal_long",
+    "insurer": "Konark General Insurance Company Ltd.",
+    "party_hint": "water-supply pipeline contractor in Bhubaneswar",
+    "omit": []
+  },
+  "request_id": "req_011CgyrM9W3rFXWjNvPTjdLU",
+  "generated": {
+    "truth": {
+      "insured_name": "Mahanadi Jalpath Infrastructure Pvt. Ltd.",
+      "insurer_name": "Konark General Insurance Company Ltd.",
+      "policy_or_bond_number": "KGI/BBS/CPL/2025/004718",
+      "document_type": "liability",
+      "sum_insured": 50000000.0,
+      "premium": 118750.0,
+      "gst_amount": 21375.0,
+      "period_start": "2025-05-01",
+      "period_end": "2026-04-30",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Mahanadi Jalpath Infrastructure Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Konark General Insurance Company Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "KGI/BBS/CPL/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Limit of Indemnity (Any One Accident and in the Aggregate)",
+        "text": "₹5,00,00,000.00"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "₹1,18,750.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "₹21,375.00"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "1st May 2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "30th April 2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Contractor's Public Liability Insurance Policy - Schedule",
+    "insurer_address": "Konark General Insurance Company Ltd., Divisional Office No. 3, Konark Towers, 4th Floor, Plot No. 22, Saheed Nagar, Bhubaneswar 751007, Odisha. CIN: U66010OR2009PLC011842",
+    "insured_address": "Plot No. 318/B, Chandrasekharpur Industrial Estate, Near Infocity Square, Bhubaneswar 751024, Khordha District, Odisha",
+    "extra_rows": [
+      {
+        "label": "UIN",
+        "value": "IRDAN171RP0034V01202425"
+      },
+      {
+        "label": "Insurer GSTIN",
+        "value": "21AABCK4821M1Z7"
+      },
+      {
+        "label": "Insured GSTIN",
+        "value": "21AAFCM7314Q1ZD"
+      },
+      {
+        "label": "Business Description / Location of Risk",
+        "value": "Laying, jointing and commissioning of DI/HDPE water-supply pipelines and allied civil works at project sites within Khordha and Cuttack Districts, Odisha"
+      },
+      {
+        "label": "Deductible (Third Party Property Damage)",
+        "value": "₹50,000.00 each and every claim"
+      },
+      {
+        "label": "CGST @ 9% / SGST @ 9%",
+        "value": "₹10,687.50 / ₹10,687.50"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "₹1,40,125.00"
+      },
+      {
+        "label": "Intermediary Name & Code",
+        "value": "Utkal Risk Advisors Insurance Brokers Pvt. Ltd. - BRK/ORS/02391"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Insuring Clause",
+        "body": "In consideration of the payment of premium and subject to the terms, conditions, exclusions and limits of this Policy, the Company will indemnify the Insured against legal liability to pay compensation, including claimant's costs and expenses, in respect of accidental bodily injury (fatal or otherwise) to any third party and accidental loss of or damage to third party property, arising out of the business operations described in the Schedule and occurring during the Period of Insurance."
+      },
+      {
+        "heading": "Special Conditions Applicable to Pipeline Works",
+        "body": "Cover extends to damage to existing underground cables, pipes and services, provided the Insured has obtained the location plans from the respective utility authorities prior to excavation and has taken all reasonable precautions. Liability arising out of vibration, removal or weakening of support is covered only where specifically endorsed. Trenches left open overnight must be barricaded, lit and provided with warning signage."
+      },
+      {
+        "heading": "Principal Exclusions",
+        "body": "The Company shall not be liable for: injury to employees of the Insured arising out of and in the course of employment (to be covered under a Workmen's Compensation policy); liability assumed under contract unless such liability would have attached in the absence of such contract; gradual pollution or contamination; property belonging to or in the care, custody or control of the Insured; fines, penalties and punitive or exemplary damages; and war, nuclear and terrorism perils."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "The Insured shall give written notice to the Company immediately upon the occurrence of any accident likely to give rise to a claim and shall forward every letter, claim, writ, summons or process upon receipt. No admission, offer, promise or payment shall be made without the written consent of the Company. Intimation may be made at the Divisional Office or through the toll-free helpline 1800-345-7710."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, the Insured may approach the Grievance Officer at the issuing office or write to grievance@konarkgic.example.in. If unresolved within 30 days, the Insured may approach the Insurance Ombudsman as per the Insurance Ombudsman Rules, 2017, or register a complaint on the Bima Bharosa portal of IRDAI. Stamp duty on this policy has been paid by consolidated payment vide order of the Inspector General of Registration, Odisha."
+      }
+    ],
+    "signatory": "For and on behalf of Konark General Insurance Company Ltd. - Authorised Signatory, Divisional Manager, Bhubaneswar Divisional Office No. 3"
+  }
+}

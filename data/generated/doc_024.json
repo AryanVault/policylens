@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_024",
+    "document_type": "liability",
+    "layout": "certificate",
+    "amount_style": "words_paren",
+    "date_style": "dmy_dot",
+    "insurer": "Narmada General Insurance Co. Ltd.",
+    "party_hint": "steel trader in Raipur",
+    "omit": []
+  },
+  "request_id": "req_011CgyrPS9xLYdnsUQQYVkpi",
+  "generated": {
+    "truth": {
+      "insured_name": "Shree Mahamaya Steel Traders Pvt. Ltd.",
+      "insurer_name": "Narmada General Insurance Co. Ltd.",
+      "policy_or_bond_number": "NGI/RPR/PLI/2025/0047318",
+      "document_type": "liability",
+      "sum_insured": 10000000.0,
+      "premium": 42500.0,
+      "gst_amount": 7650.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Shree Mahamaya Steel Traders Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Narmada General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "NGI/RPR/PLI/2025/0047318"
+      },
+      "sum_insured": {
+        "label": "Limit of Indemnity (Any One Accident and in the Aggregate)",
+        "text": "Rs. 1,00,00,000/- (Rupees One Crore Only)"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 42,500/- (Rupees Forty Two Thousand Five Hundred Only)"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 7,650/- (Rupees Seven Thousand Six Hundred Fifty Only)"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15.06.2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "14.06.2026"
+      },
+      "beneficiary": null
+    },
+    "title": "CERTIFICATE OF INSURANCE - PUBLIC LIABILITY (INDUSTRIAL RISKS) POLICY",
+    "insurer_address": "Narmada General Insurance Co. Ltd., Divisional Office No. 3, 2nd Floor, Shastri Chowk Commercial Complex, G.E. Road, Raipur, Chhattisgarh - 492001. Registered Office: Narmada Bhawan, 18 Napier Town, Jabalpur, Madhya Pradesh - 482001. CIN: U66010MP2009PLC071462",
+    "insured_address": "Plot No. 27-B, Sector C, Urla Industrial Area, Raipur, Chhattisgarh - 493221",
+    "extra_rows": [
+      {
+        "label": "Insured GSTIN",
+        "value": "22AAKCS4821M1Z5"
+      },
+      {
+        "label": "Insurer GSTIN",
+        "value": "22AABCN7314R1ZQ"
+      },
+      {
+        "label": "Product UIN",
+        "value": "NGIPLIP26013V012526"
+      },
+      {
+        "label": "Location of Risk",
+        "value": "Steel stockyard and warehouse, Plot No. 27-B, Sector C, Urla Industrial Area, Raipur - 493221"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 3,825/- (Rupees Three Thousand Eight Hundred Twenty Five Only)"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 3,825/- (Rupees Three Thousand Eight Hundred Twenty Five Only)"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 50,150/- (Rupees Fifty Thousand One Hundred Fifty Only)"
+      },
+      {
+        "label": "Intermediary Name & Code",
+        "value": "Chhattisgarh Risk Advisors Pvt. Ltd. (Direct Broker), Code BRK-0042719"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Business Description",
+        "body": "Wholesale trading, storage and handling of TMT bars, MS angles, channels, beams, HR/CR coils and sheets, including loading and unloading by overhead cranes and forklifts within the insured premises."
+      },
+      {
+        "heading": "Scope of Cover",
+        "body": "The Company will indemnify the Insured against legal liability to third parties for accidental death, bodily injury or disease and accidental loss of or damage to third party property arising out of the insured business at the location of risk during the period of insurance, together with defence costs incurred with the prior written consent of the Company, subject to the limit of indemnity stated in this certificate."
+      },
+      {
+        "heading": "Principal Exclusions",
+        "body": "Liability under any Workmen's Compensation or Employees' Compensation law; liability arising from use of motor vehicles on public roads; gradual pollution and contamination; products liability after goods have left the premises; contractual liability unless it would have attached in the absence of such contract; fines, penalties and punitive or exemplary damages; war, nuclear and terrorism perils."
+      },
+      {
+        "heading": "Excess",
+        "body": "Each and every claim for third party property damage is subject to an excess of Rs. 25,000/- (Rupees Twenty Five Thousand Only) to be borne by the Insured. No excess applies to bodily injury claims."
+      },
+      {
+        "heading": "Important Notice",
+        "body": "This certificate is issued for information only and is subject to the terms, conditions and exclusions of the Public Liability (Industrial Risks) Policy wording. In the event of any claim, written notice must be given to the issuing office immediately. Stamp duty has been paid by consolidated payment vide order of the Chhattisgarh Stamp Authority. For grievances, contact the Grievance Redressal Officer at the issuing office or the Insurance Ombudsman, Bhopal. Insurance is the subject matter of solicitation."
+      }
+    ],
+    "signatory": "For and on behalf of Narmada General Insurance Co. Ltd. - Authorised Signatory, Divisional Office No. 3, Raipur. Date of Issue: 13.06.2025"
+  }
+}

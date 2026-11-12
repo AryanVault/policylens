@@ -1,0 +1,14 @@
+{
+  "insured_name": "Sabarmati Medisupply Distributors Private Limited",
+  "insurer_name": "Deccan Shield Insurance Limited",
+  "policy_or_bond_number": "DSI/GHI/2025/24/0047318",
+  "document_type": "health",
+  "sum_insured": 15000000.0,
+  "premium": 386400.0,
+  "gst_amount": 69552.0,
+  "period_start": "2025-07-01",
+  "period_end": "2026-06-30",
+  "beneficiary": null,
+  "doc_id": "doc_014",
+  "template": "two_column"
+}

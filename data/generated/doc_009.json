@@ -1,0 +1,125 @@
+{
+  "plan": {
+    "doc_id": "doc_009",
+    "document_type": "surety_bond",
+    "layout": "certificate",
+    "amount_style": "words_paren",
+    "date_style": "month_first_long",
+    "insurer": "Ganga Valley General Insurance Co. Ltd.",
+    "party_hint": "steel trader in Raipur",
+    "omit": []
+  },
+  "request_id": "req_011CgyrHDcEy4P3c6xpipu5v",
+  "generated": {
+    "truth": {
+      "insured_name": "Mahanadi Ispat Traders Pvt. Ltd.",
+      "insurer_name": "Ganga Valley General Insurance Co. Ltd.",
+      "policy_or_bond_number": "GVG/SB/RPR/2025/004718",
+      "document_type": "surety_bond",
+      "sum_insured": 4850000.0,
+      "premium": 62400.0,
+      "gst_amount": 11232.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-12-14",
+      "beneficiary": "Shivnath Basin Water Works Authority"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Principal",
+        "text": "Mahanadi Ispat Traders Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Ganga Valley General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Bond Certificate No.",
+        "text": "GVG/SB/RPR/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Bond Amount (Maximum Liability of Surety)",
+        "text": "Rs. 48,50,000/- (Rupees Forty Eight Lakh Fifty Thousand Only)"
+      },
+      "premium": {
+        "label": "Net Premium (excluding GST)",
+        "text": "Rs. 62,400/- (Rupees Sixty Two Thousand Four Hundred Only)"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 11,232/- (Rupees Eleven Thousand Two Hundred Thirty Two Only)"
+      },
+      "period_start": {
+        "label": "Bond Effective From",
+        "text": "June 15, 2025"
+      },
+      "period_end": {
+        "label": "Bond Valid Up To",
+        "text": "December 14, 2026"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Shivnath Basin Water Works Authority"
+      }
+    },
+    "title": "SURETY BOND CERTIFICATE - CONTRACT PERFORMANCE BOND",
+    "insurer_address": "Regd. & Corporate Office: Ganga Valley Bhawan, 7th Floor, Plot No. 22, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh - 226010. Issuing Office: Surety Underwriting Hub, 3rd Floor, Shyam Plaza, Pandri Main Road, Raipur, Chhattisgarh - 492004. CIN: U66010UP2011PLC046329",
+    "insured_address": "Shop No. 14-16, Lohar Market, Station Road, Phaphadih, Raipur, Chhattisgarh - 492009",
+    "extra_rows": [
+      {
+        "label": "Product UIN",
+        "value": "IRDAN219CP0007V01202425"
+      },
+      {
+        "label": "GSTIN of Principal",
+        "value": "22AAMCM4821K1Z7"
+      },
+      {
+        "label": "GSTIN of Surety (Chhattisgarh)",
+        "value": "22AACCG7315P1ZQ"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 5,616/- (Rupees Five Thousand Six Hundred Sixteen Only)"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 5,616/- (Rupees Five Thousand Six Hundred Sixteen Only)"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 73,632/- (Rupees Seventy Three Thousand Six Hundred Thirty Two Only)"
+      },
+      {
+        "label": "Stamp Duty Paid (e-Stamp Ref. CG-RPR-25-0618842)",
+        "value": "Rs. 500/- (Rupees Five Hundred Only)"
+      },
+      {
+        "label": "Intermediary Code / Premium Receipt No.",
+        "value": "BRK-CG-00417 (Sarthi Risk Advisors Pvt. Ltd.) / GVG-RCPT-RPR-25-118604"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Underlying Contract and Nature of Obligation",
+        "body": "This Contract Performance Bond is issued at the request of the Principal in respect of Work Order No. SBWWA/STR/2025/112 dated May 28, 2025 for the supply of TMT reinforcement bars (Fe 500D) and structural steel sections for the raw water intake well and clear water reservoir works. The Surety guarantees the due performance by the Principal of its obligations under the said Work Order and undertakes to pay the Obligee, on first written demand, any amount up to the Bond Amount stated in the Schedule on account of default by the Principal."
+      },
+      {
+        "heading": "Conditions of the Bond",
+        "body": "1. The liability of the Surety shall not in any case exceed the Bond Amount stated in the Schedule. 2. The Bond shall not be discharged by any variation in the terms of the Work Order, extension of time or forbearance granted by the Obligee to the Principal. 3. This Bond is irrevocable during its validity and shall not be cancelled for non-payment of premium once issued. 4. The Bond is issued under the Surety Insurance Contracts guidelines of the IRDAI and is subject to the indemnity agreement executed by the Principal in favour of the Surety."
+      },
+      {
+        "heading": "Claim Lodgement Procedure",
+        "body": "Any demand under this Bond must be made in writing by the Obligee, signed by an officer not below the rank of Executive Engineer, and lodged at the issuing office of the Surety within the validity period or within a claim period of thirty days thereafter. The demand shall quote the Bond Certificate No. and be accompanied by a statement of the default. Payment shall be released within fifteen working days of receipt of a compliant demand, without reference to any dispute between the Principal and the Obligee."
+      },
+      {
+        "heading": "Verification and Grievance Redressal",
+        "body": "Authenticity of this certificate may be verified by sending an SMS with the certificate number to 56677 or at the verification portal of the Surety. For grievances, contact the Grievance Redressal Officer at grievance@gangavalleygi.example.in or toll free 1800-120-4471. If unresolved within 14 days, the matter may be escalated to the Bima Bharosa platform or the Insurance Ombudsman having jurisdiction."
+      },
+      {
+        "heading": "Jurisdiction",
+        "body": "This Bond shall be governed by the laws of India and the courts at Raipur, Chhattisgarh alone shall have jurisdiction in any matter arising hereunder. Stamp duty has been paid by way of e-stamp as per the Chhattisgarh Stamp Act."
+      }
+    ],
+    "signatory": "For and on behalf of the Surety - Authorised Signatory, Rajeev Shrivastava, Chief Manager (Surety Underwriting), Raipur Hub. Date of Issue: June 12, 2025. Place: Raipur."
+  }
+}

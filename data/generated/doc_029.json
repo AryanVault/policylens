@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_029",
+    "document_type": "marine",
+    "layout": "two_column",
+    "amount_style": "words_paren",
+    "date_style": "d_mon_y",
+    "insurer": "Narmada General Insurance Co. Ltd.",
+    "party_hint": "auto-components manufacturer in Chennai",
+    "omit": []
+  },
+  "request_id": "req_011CgyrRTztWhU49TzkNjPKj",
+  "generated": {
+    "truth": {
+      "insured_name": "Kaveri Precision Autoparts Pvt. Ltd.",
+      "insurer_name": "Narmada General Insurance Co. Ltd.",
+      "policy_or_bond_number": "NGI/MAR/OP/2025/0004571",
+      "document_type": "marine",
+      "sum_insured": 150000000.0,
+      "premium": 120000.0,
+      "gst_amount": 21600.0,
+      "period_start": "2025-07-01",
+      "period_end": "2026-06-30",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Kaveri Precision Autoparts Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Narmada General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Open Policy No.",
+        "text": "NGI/MAR/OP/2025/0004571"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured (Estimated Annual Turnover)",
+        "text": "Rs. 15,00,00,000/- (Rupees Fifteen Crore Only)"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 1,20,000/- (Rupees One Lakh Twenty Thousand Only)"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 21,600/- (Rupees Twenty One Thousand Six Hundred Only)"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "01-Jul-2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "30-Jun-2026"
+      },
+      "beneficiary": null
+    },
+    "title": "MARINE CARGO OPEN POLICY - POLICY SCHEDULE",
+    "insurer_address": "Narmada General Insurance Co. Ltd., Chennai Divisional Office, 4th Floor, Sundaram Towers, 118 Anna Salai, Teynampet, Chennai - 600018, Tamil Nadu. Regd. Office: Narmada Bhavan, 21 Ashram Road, Ahmedabad - 380009, Gujarat. CIN: U66010GJ2004PLC044817",
+    "insured_address": "Plot No. B-112, Third Main Road, Ambattur Industrial Estate, Chennai - 600058, Tamil Nadu",
+    "extra_rows": [
+      {
+        "label": "UIN",
+        "value": "IRDAN219CP0007V01202425"
+      },
+      {
+        "label": "GSTIN of Insured",
+        "value": "33AAKCK4821M1Z7"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Coromandel Risk Advisors Pvt. Ltd. / BRK-TN-00873"
+      },
+      {
+        "label": "Limit per Sending (Any One Conveyance)",
+        "value": "Rs. 50,00,000/- (Rupees Fifty Lakh Only)"
+      },
+      {
+        "label": "CGST @ 9% / SGST @ 9%",
+        "value": "Rs. 10,800/- (Rupees Ten Thousand Eight Hundred Only) each"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 1,41,600/- (Rupees One Lakh Forty One Thousand Six Hundred Only)"
+      },
+      {
+        "label": "Stamp Duty",
+        "value": "Rs. 1/- (Rupees One Only)"
+      },
+      {
+        "label": "Premium Receipt No. / Date",
+        "value": "NGI/CHN/RCPT/25/118934 dated 28-Jun-2025"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Subject-Matter Insured",
+        "body": "Raw materials, semi-finished and finished automobile components including castings, forgings, machined parts, brake assemblies and transmission sub-assemblies, packed in standard export / trade packing, belonging to the Insured or held in trust or on consignment, in the course of transit by road, rail, sea and air."
+      },
+      {
+        "heading": "Voyage / Transit",
+        "body": "Inland transits from suppliers' premises anywhere in India to the Insured's factory at Ambattur, Chennai and from the Insured's factory to customers' OEM plants and warehouses anywhere in India; imports from any port worldwide to any port in India and onward to the Insured's premises; exports from Chennai / Kamarajar Port to any port worldwide. Transit by registered carriers only."
+      },
+      {
+        "heading": "Conditions and Clauses",
+        "body": "Inland transit: Inland Transit Clause (A) - All Risks. Imports and exports: Institute Cargo Clauses (A) 1/1/09, Institute War Clauses (Cargo) 1/1/09 and Institute Strikes Clauses (Cargo) 1/1/09. Basis of valuation: CIF plus 10% for imports and exports; invoice value plus freight for inland transits. Excess: 0.5% of the sum insured per consignment, subject to a minimum as stated in the policy wording. Declarations of all despatches are to be submitted monthly by the 10th of the following month."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "In the event of loss or damage, notify the nearest office of the Insurer immediately and in no case later than 7 days of delivery, lodge a monetary claim with the carrier within the statutory period and obtain a survey report. Submit the claim form, original invoice, packing list, lorry receipt / bill of lading, carrier's acknowledgement of short or damaged delivery and survey report. Claims are payable in India in Indian Rupees."
+      },
+      {
+        "heading": "Important Notice",
+        "body": "This schedule is to be read together with the policy wording and endorsements attached, which form part of this contract. Please examine the schedule and inform the Insurer of any discrepancy within 15 days. For grievance redressal contact the Grievance Officer at the Chennai Divisional Office or approach the Insurance Ombudsman, Chennai. Insurance is the subject matter of solicitation. IRDAI Registration No. 187."
+      }
+    ],
+    "signatory": "For and on behalf of Narmada General Insurance Co. Ltd., Authorised Signatory, Chennai Divisional Office. Place: Chennai. Date of Issue: 28-Jun-2025"
+  }
+}

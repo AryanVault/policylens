@@ -1,0 +1,14 @@
+{
+  "insured_name": "Srinivas Reddy Kondapalli",
+  "insurer_name": "Deccan Shield Insurance Limited",
+  "policy_or_bond_number": "DSI/HLT/IND/2025/0471893",
+  "document_type": "health",
+  "sum_insured": 1000000.0,
+  "premium": 18450.0,
+  "gst_amount": 3321.0,
+  "period_start": "2025-06-15",
+  "period_end": "2026-06-14",
+  "beneficiary": null,
+  "doc_id": "doc_046",
+  "template": "schedule_table"
+}

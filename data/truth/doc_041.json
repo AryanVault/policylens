@@ -1,0 +1,14 @@
+{
+  "insured_name": "Sahyadri Infraroads Pvt. Ltd.",
+  "insurer_name": "Konkan Surety & General Insurance Ltd.",
+  "policy_or_bond_number": "KSG/SB/PN/2025/004718",
+  "document_type": "surety_bond",
+  "sum_insured": 24500000.0,
+  "premium": 367500.0,
+  "gst_amount": 66150.0,
+  "period_start": "2025-06-15",
+  "period_end": "2027-06-14",
+  "beneficiary": "Pune Urban Road Development Corporation Ltd.",
+  "doc_id": "doc_041",
+  "template": "schedule_table"
+}

@@ -1,0 +1,14 @@
+{
+  "insured_name": "Shree Mahamaya Steel Traders Private Limited",
+  "insurer_name": "Vindhya Assurance Company Limited",
+  "policy_or_bond_number": "VAC/PLI/2025/2104/00038712",
+  "document_type": "liability",
+  "sum_insured": 20000000.0,
+  "premium": 38500.0,
+  "gst_amount": 6930.0,
+  "period_start": "2025-06-15",
+  "period_end": "2026-06-14",
+  "beneficiary": null,
+  "doc_id": "doc_032",
+  "template": "two_column"
+}

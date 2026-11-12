@@ -1,0 +1,14 @@
+{
+  "insured_name": "Gomti Infracon Builders Pvt. Ltd.",
+  "insurer_name": "Narmada General Insurance Co. Ltd.",
+  "policy_or_bond_number": "NGI/LKO/1104/F/2025/004781",
+  "document_type": "fire",
+  "sum_insured": 45000000.0,
+  "premium": 38250.0,
+  "gst_amount": 6885.0,
+  "period_start": "2025-07-15",
+  "period_end": "2026-07-14",
+  "beneficiary": null,
+  "doc_id": "doc_010",
+  "template": "schedule_table"
+}

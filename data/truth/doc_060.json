@@ -1,0 +1,14 @@
+{
+  "insured_name": "Periyar Valley Charitable Hospital Trust",
+  "insurer_name": "Himgiri Insurance Company Limited",
+  "policy_or_bond_number": "HIC/SB/KOC/2025/004718",
+  "document_type": "surety_bond",
+  "sum_insured": 5000000.0,
+  "premium": 75000.0,
+  "gst_amount": 13500.0,
+  "period_start": "2025-07-15",
+  "period_end": "2027-01-14",
+  "beneficiary": "Kochi Metropolitan Health Infrastructure Authority",
+  "doc_id": "doc_060",
+  "template": "certificate"
+}

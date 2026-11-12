@@ -1,0 +1,14 @@
+{
+  "insured_name": "Hooghly Frostline Logistics Private Limited",
+  "insurer_name": "Vindhya Assurance Company Limited",
+  "policy_or_bond_number": "VAC/KOL/PLI/2025/0047813",
+  "document_type": "liability",
+  "sum_insured": 50000000.0,
+  "premium": 142500.0,
+  "gst_amount": 25650.0,
+  "period_start": "2025-07-15",
+  "period_end": "2026-07-14",
+  "beneficiary": null,
+  "doc_id": "doc_008",
+  "template": "two_column"
+}

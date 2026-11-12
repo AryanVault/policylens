@@ -1,0 +1,14 @@
+{
+  "insured_name": "Sahyadri Infra Roadways Private Limited",
+  "insurer_name": "Deccan Shield Insurance Limited",
+  "policy_or_bond_number": "DSIL/SB/PNQ/2025/004817",
+  "document_type": "surety_bond",
+  "sum_insured": 18750000.0,
+  "premium": null,
+  "gst_amount": null,
+  "period_start": "2025-07-15",
+  "period_end": "2027-01-14",
+  "beneficiary": "Pune Metropolitan Road Infrastructure Authority",
+  "doc_id": "doc_001",
+  "template": "prose_deed"
+}

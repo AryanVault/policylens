@@ -1,0 +1,125 @@
+{
+  "plan": {
+    "doc_id": "doc_041",
+    "document_type": "surety_bond",
+    "layout": "schedule_table",
+    "amount_style": "rupee_indian",
+    "date_style": "d_mon_y",
+    "insurer": "Konkan Surety & General Insurance Ltd.",
+    "party_hint": "road construction contractor in Pune",
+    "omit": []
+  },
+  "request_id": "req_011CgyrW1ExmvMcB8m8Suovz",
+  "generated": {
+    "truth": {
+      "insured_name": "Sahyadri Infraroads Pvt. Ltd.",
+      "insurer_name": "Konkan Surety & General Insurance Ltd.",
+      "policy_or_bond_number": "KSG/SB/PN/2025/004718",
+      "document_type": "surety_bond",
+      "sum_insured": 24500000.0,
+      "premium": 367500.0,
+      "gst_amount": 66150.0,
+      "period_start": "2025-06-15",
+      "period_end": "2027-06-14",
+      "beneficiary": "Pune Urban Road Development Corporation Ltd."
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal / Contractor",
+        "text": "Sahyadri Infraroads Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Konkan Surety & General Insurance Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "KSG/SB/PN/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "₹2,45,00,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (excluding GST)",
+        "text": "₹3,67,500.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "₹66,150.00"
+      },
+      "period_start": {
+        "label": "Bond Validity - From",
+        "text": "15-Jun-2025"
+      },
+      "period_end": {
+        "label": "Bond Validity - To",
+        "text": "14-Jun-2027"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Pune Urban Road Development Corporation Ltd."
+      }
+    },
+    "title": "SURETY BOND (CONTRACT PERFORMANCE) - SCHEDULE",
+    "insurer_address": "Konkan Surety & General Insurance Ltd., Regd. & Corporate Office: 7th Floor, Ratnadeep Towers, Plot No. 22, Sector 19D, Vashi, Navi Mumbai - 400703, Maharashtra. CIN: U66010MH2019PLC327814. IRDAI Reg. No. 187",
+    "insured_address": "Sahyadri Infraroads Pvt. Ltd., Office No. 304-306, Shivneri Business Park, Survey No. 41/2, Baner-Pashan Link Road, Baner, Pune - 411045, Maharashtra",
+    "extra_rows": [
+      {
+        "label": "UIN",
+        "value": "IRDAN187CP0004V01202324"
+      },
+      {
+        "label": "Principal GSTIN",
+        "value": "27AAKCS4821M1Z6"
+      },
+      {
+        "label": "Surety GSTIN",
+        "value": "27AACCK7392P1ZQ"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "₹33,075.00"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "₹33,075.00"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "₹4,33,650.00"
+      },
+      {
+        "label": "Stamp Duty Paid (Maharashtra)",
+        "value": "₹500.00"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-0418-PN / Deccan Risk Advisors Insurance Brokers Pvt. Ltd."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Underlying Contract",
+        "body": "This bond is issued in respect of Contract Agreement No. PURDC/RD/EPC/2025/112 for widening, strengthening and resurfacing of the Hadapsar-Kharadi bypass corridor (approx. 6.8 km) including storm water drains, footpaths and road furniture, awarded to the Principal by the Obligee vide Letter of Acceptance dated 28-May-2025."
+      },
+      {
+        "heading": "Surety Undertaking",
+        "body": "The Surety hereby irrevocably undertakes to pay the Obligee, on first written demand, any amount up to the Bond Amount stated in the Schedule, upon the Obligee certifying that the Principal has failed to perform its obligations under the Underlying Contract, without the Obligee being required to prove the default or to first proceed against the Principal. The Surety's aggregate liability shall not exceed the Bond Amount."
+      },
+      {
+        "heading": "Claim Period and Expiry",
+        "body": "Any claim under this bond must be lodged in writing at the Surety's Pune Branch, 2nd Floor, Kumar Capital, East Street, Camp, Pune - 411001, within the validity period stated in the Schedule or within a claim period of three months thereafter. Upon expiry of the claim period, the Surety shall stand discharged of all liability, whether or not the original bond is returned."
+      },
+      {
+        "heading": "Indemnity and Recourse",
+        "body": "The Principal and its directors have executed a Deed of Indemnity dated 10-Jun-2025 in favour of the Surety. The Surety retains full right of recourse against the Principal and indemnitors for any amount paid under this bond, together with costs and interest. This bond is issued in accordance with the IRDAI (Surety Insurance Contracts) Guidelines, 2022."
+      },
+      {
+        "heading": "Governing Law and Jurisdiction",
+        "body": "This bond shall be governed by the laws of India and subject to the exclusive jurisdiction of the courts at Pune. Grievances may be addressed to the Grievance Redressal Officer of the Surety or to the Insurance Ombudsman, Pune. The bond is non-transferable and may not be amended except by an endorsement issued by the Surety."
+      }
+    ],
+    "signatory": "For Konkan Surety & General Insurance Ltd. - Authorised Signatory, Anirudh V. Deshpande, Chief Manager - Surety Underwriting, Pune Branch"
+  }
+}

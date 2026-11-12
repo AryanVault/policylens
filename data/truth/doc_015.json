@@ -1,0 +1,14 @@
+{
+  "insured_name": "Nimbusqube Technologies Private Limited",
+  "insurer_name": "Deccan Shield Insurance Limited",
+  "policy_or_bond_number": "DSIL/SB/BLR/2025/004718",
+  "document_type": "surety_bond",
+  "sum_insured": 25000000.0,
+  "premium": 350000.0,
+  "gst_amount": 63000.0,
+  "period_start": "2025-05-01",
+  "period_end": "2027-04-30",
+  "beneficiary": "Karnataka Urban Data Systems Board",
+  "doc_id": "doc_015",
+  "template": "certificate"
+}

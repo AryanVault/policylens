@@ -1,0 +1,118 @@
+{
+  "plan": {
+    "doc_id": "doc_007",
+    "document_type": "surety_bond",
+    "layout": "prose_deed",
+    "amount_style": "rs_slash",
+    "date_style": "dmy_dash",
+    "insurer": "Himgiri Insurance Company Limited",
+    "party_hint": "individual salaried professional in Hyderabad",
+    "omit": [
+      "premium",
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrHCpN4bko9uJUej5iu",
+  "generated": {
+    "truth": {
+      "insured_name": "Dr. Sravani Reddy Kotha",
+      "insurer_name": "Himgiri Insurance Company Limited",
+      "policy_or_bond_number": "HICL/SB/HYD/2025/004817",
+      "document_type": "surety_bond",
+      "sum_insured": 1500000.0,
+      "premium": null,
+      "gst_amount": null,
+      "period_start": "2025-07-15",
+      "period_end": "2027-07-14",
+      "beneficiary": "Deccan Plateau Public Health Corporation Limited"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal",
+        "text": "Dr. Sravani Reddy Kotha"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Himgiri Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "HICL/SB/HYD/2025/004817"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "Rs. 15,00,000/-"
+      },
+      "premium": null,
+      "gst_amount": null,
+      "period_start": {
+        "label": "Bond Period - From",
+        "text": "15-07-2025"
+      },
+      "period_end": {
+        "label": "Bond Period - To",
+        "text": "14-07-2027"
+      },
+      "beneficiary": {
+        "label": "Obligee",
+        "text": "Deccan Plateau Public Health Corporation Limited"
+      }
+    },
+    "title": "SURETY BOND (SERVICE OBLIGATION AND REFUND GUARANTEE)",
+    "insurer_address": "Himgiri Insurance Company Limited, Hyderabad Branch Office, 3rd Floor, Kalyani Towers, Road No. 12, Banjara Hills, Hyderabad - 500034, Telangana. Registered Office: Himgiri House, 14 Mall Road Extension, Shimla - 171001, Himachal Pradesh. CIN: U66010HP2011PLC031874",
+    "insured_address": "Flat No. 402, Sai Vihar Residency, Road No. 7, Madhapur, Hyderabad - 500081, Telangana",
+    "extra_rows": [
+      {
+        "label": "Surety GSTIN",
+        "value": "36AAACH4821K1Z5"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN162RP0009V01202425"
+      },
+      {
+        "label": "Intermediary Code",
+        "value": "BRK-HYD-0073412"
+      },
+      {
+        "label": "Stamp Duty Paid (Telangana)",
+        "value": "Rs. 500/-"
+      },
+      {
+        "label": "Receipt No.",
+        "value": "RCPT/HYD/25/118906"
+      },
+      {
+        "label": "Claim Lodgement Period after Expiry",
+        "value": "90 days"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Preamble",
+        "body": "KNOW ALL MEN BY THESE PRESENTS that we, Dr. Sravani Reddy Kotha, Consultant Radiologist, presently employed on salaried terms and residing at Flat No. 402, Sai Vihar Residency, Road No. 7, Madhapur, Hyderabad - 500081, Telangana (hereinafter called the Principal, which expression shall unless repugnant to the context include her heirs, executors, administrators and legal representatives), and Himgiri Insurance Company Limited, a company registered under the Companies Act, 2013 and holding a certificate of registration from the Insurance Regulatory and Development Authority of India, acting through its Hyderabad Branch Office (hereinafter called the Surety, which expression shall include its successors and assigns), are held and firmly bound unto Deccan Plateau Public Health Corporation Limited, having its corporate office at Arogya Bhavan, Lakdikapul, Hyderabad - 500004 (hereinafter called the Obligee), under Bond No. HICL/SB/HYD/2025/004817."
+      },
+      {
+        "heading": "Bond Amount",
+        "body": "The Principal and the Surety are jointly and severally bound unto the Obligee in the sum of Rs. 15,00,000/- (Rupees Fifteen Lakh only), being the Bond Amount, for the payment of which sum well and truly to be made the Principal and the Surety bind themselves firmly by these presents. The aggregate liability of the Surety under this Bond shall in no event exceed the said Bond Amount."
+      },
+      {
+        "heading": "Recitals and Obligation",
+        "body": "WHEREAS the Obligee has sponsored the Principal for an advanced fellowship in interventional radiology and has borne the tuition and stipend expenses thereof, AND WHEREAS the Principal has undertaken to serve the Obligee continuously for the period stipulated in her letter of undertaking dated 02-07-2025, failing which she shall refund the expenses incurred by the Obligee, AND WHEREAS the Obligee has required the Principal to furnish a surety bond as security for the due performance of the said undertaking. NOW THE CONDITION of the above obligation is such that if the Principal duly renders the stipulated service or, upon default, refunds to the Obligee the amount demanded under the said undertaking, then this obligation shall be void; otherwise it shall remain in full force and effect."
+      },
+      {
+        "heading": "Period of Bond",
+        "body": "This Bond shall remain in force from 15-07-2025 (Bond Period - From) up to and including 14-07-2027 (Bond Period - To), both days inclusive. Any claim hereunder must be lodged in writing by the Obligee with the Surety at its Hyderabad Branch Office within ninety days after the expiry of the Bond Period, failing which the Surety shall stand discharged from all liability under this Bond."
+      },
+      {
+        "heading": "Conditions",
+        "body": "1. The Surety shall pay the amount demanded by the Obligee, not exceeding the Bond Amount, within thirty days of receipt of a written demand accompanied by a certificate of default of the Principal issued by an officer of the Obligee not below the rank of General Manager. 2. No variation in the terms of the undertaking shall be binding on the Surety without its prior written consent. 3. This Bond is subject to the laws of India and the courts at Hyderabad alone shall have jurisdiction. 4. This Bond has been executed on non-judicial stamp paper of appropriate value as prescribed under the Indian Stamp Act, 1899 as applicable in the State of Telangana."
+      },
+      {
+        "heading": "Execution",
+        "body": "IN WITNESS WHEREOF the Principal has set her hand and the Surety has caused this Bond to be executed by its duly authorised signatory at Hyderabad on this 14th day of July 2025. Signed by the Principal, Dr. Sravani Reddy Kotha, in the presence of witnesses. Signed for and on behalf of Himgiri Insurance Company Limited. Witness 1: K. Venkata Ramana, Kukatpally, Hyderabad. Witness 2: Ayesha Fathima, Tolichowki, Hyderabad."
+      }
+    ],
+    "signatory": "For Himgiri Insurance Company Limited - Authorised Signatory, Surety Underwriting Department, Hyderabad Branch Office"
+  }
+}

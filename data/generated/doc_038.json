@@ -1,0 +1,121 @@
+{
+  "plan": {
+    "doc_id": "doc_038",
+    "document_type": "health",
+    "layout": "two_column",
+    "amount_style": "inr_western",
+    "date_style": "dmy_slash",
+    "insurer": "Sahyadri General Insurance Company Limited",
+    "party_hint": "dredging and port services company in Visakhapatnam",
+    "omit": [
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrULw5fXDFgHtYEpnWo",
+  "generated": {
+    "truth": {
+      "insured_name": "Vizag Coastal Dredging and Port Services Private Limited",
+      "insurer_name": "Sahyadri General Insurance Company Limited",
+      "policy_or_bond_number": "SGI/GMC/0412/2025/0017382",
+      "document_type": "health",
+      "sum_insured": 60000000.0,
+      "premium": 1842500.0,
+      "gst_amount": null,
+      "period_start": "2025-07-01",
+      "period_end": "2026-06-30",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Policyholder",
+        "text": "Vizag Coastal Dredging and Port Services Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Sahyadri General Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Master Policy No.",
+        "text": "SGI/GMC/0412/2025/0017382"
+      },
+      "sum_insured": {
+        "label": "Aggregate Sum Insured (Group)",
+        "text": "INR 60,000,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (excl. taxes)",
+        "text": "INR 1,842,500.00"
+      },
+      "gst_amount": null,
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "01/07/2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (midnight)",
+        "text": "30/06/2026"
+      },
+      "beneficiary": null
+    },
+    "title": "GROUP MEDICLAIM INSURANCE POLICY - POLICY SCHEDULE",
+    "insurer_address": "Sahyadri General Insurance Company Limited, Regd. & Corporate Office: 7th Floor, Deccan Trade Tower, Senapati Bapat Road, Pune, Maharashtra 411016. Visakhapatnam Branch: 3rd Floor, Waltair Arcade, Dwaraka Nagar, Visakhapatnam 530016. CIN: U66010MH2011PLC298754. IRDAI Reg. No. 187",
+    "insured_address": "Plot No. 14, Fishing Harbour Road, Malkapuram, Port Area, Visakhapatnam, Andhra Pradesh 530011",
+    "extra_rows": [
+      {
+        "label": "Product UIN",
+        "value": "SAHHLGP26041V012526"
+      },
+      {
+        "label": "Policyholder GSTIN",
+        "value": "37AAHCV4719K1Z8"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Godavari Insurance Brokers Pvt. Ltd. / BRK-0098214"
+      },
+      {
+        "label": "Number of Lives Covered",
+        "value": "412 (Employees 148, Dependants 264)"
+      },
+      {
+        "label": "Sum Insured per Family (Floater)",
+        "value": "INR 400,000.00"
+      },
+      {
+        "label": "Corporate Buffer (included in aggregate)",
+        "value": "INR 800,000.00"
+      },
+      {
+        "label": "Third Party Administrator",
+        "value": "Coromandel Health TPA Services Pvt. Ltd. (TPA Code 041)"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "INR 100.00"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Scope of Cover",
+        "body": "The Insurer will indemnify the insured members for reasonable and customary expenses incurred on in-patient hospitalisation exceeding 24 hours, day care procedures, pre-hospitalisation expenses for 30 days and post-hospitalisation expenses for 60 days, ambulance charges and domiciliary treatment, subject to the terms, conditions and exclusions of the policy and the member-wise limits in the endorsed employee schedule. Pre-existing diseases, the 30-day initial waiting period and the first-year exclusions are waived for this group. Maternity cover is extended up to two deliveries with a nine-month waiting period waived. Room rent is capped at 1 percent of the family sum insured per day for normal rooms and 2 percent for ICU."
+      },
+      {
+        "heading": "Principal Exclusions",
+        "body": "Treatment arising from war, nuclear perils or intentional self-injury; cosmetic or aesthetic treatment; dental treatment unless requiring hospitalisation due to accident; obesity and weight-control programmes; experimental or unproven treatment; treatment for alcohol or substance abuse; and expenses for non-medical items as listed in Annexure I of the IRDAI Master Circular on Standardisation of Health Insurance Products."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "For cashless treatment at network hospitals, present the TPA health card and photo ID at the hospital insurance desk; the hospital will seek pre-authorisation from the TPA. In emergencies the TPA must be intimated within 24 hours of admission. For reimbursement claims, submit the claim form with original bills, discharge summary and investigation reports to the TPA within 30 days of discharge. TPA toll-free helpline: 1800-425-7719."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "Grievances may be addressed to the Grievance Officer, Sahyadri General Insurance Company Limited, at grievance@sahyadrigeneral.example.in or 1800-209-6644. If not resolved within 15 days, the policyholder may register a complaint on the Bima Bharosa portal of IRDAI or approach the Insurance Ombudsman, Hyderabad, having jurisdiction over Andhra Pradesh."
+      },
+      {
+        "heading": "Important Notes",
+        "body": "This schedule must be read with the policy wording and the list of insured members attached. Additions and deletions of employees during the policy period will be effected by endorsement on a pro-rata basis. Insurance is the subject matter of solicitation. Stamp duty has been paid by consolidated means vide order of the competent authority."
+      }
+    ],
+    "signatory": "For Sahyadri General Insurance Company Limited - Authorised Signatory, Visakhapatnam Branch (K. Srinivasa Rao, Branch Manager)"
+  }
+}

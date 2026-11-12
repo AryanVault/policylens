@@ -1,0 +1,14 @@
+{
+  "insured_name": "Vexora Cloudworks Private Limited",
+  "insurer_name": "Deccan Shield Insurance Limited",
+  "policy_or_bond_number": "DSI/GHI/2025/0041872",
+  "document_type": "health",
+  "sum_insured": 225000000.0,
+  "premium": 4263900.0,
+  "gst_amount": 767502.0,
+  "period_start": "2025-07-01",
+  "period_end": "2026-06-30",
+  "beneficiary": null,
+  "doc_id": "doc_022",
+  "template": "schedule_table"
+}

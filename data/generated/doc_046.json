@@ -1,0 +1,126 @@
+{
+  "plan": {
+    "doc_id": "doc_046",
+    "document_type": "health",
+    "layout": "schedule_table",
+    "amount_style": "rupee_indian",
+    "date_style": "ordinal_long",
+    "insurer": "Deccan Shield Insurance Limited",
+    "party_hint": "individual salaried professional in Hyderabad",
+    "omit": []
+  },
+  "request_id": "req_011CgyrYMatBwNY3XjGh1smG",
+  "generated": {
+    "truth": {
+      "insured_name": "Srinivas Reddy Kondapalli",
+      "insurer_name": "Deccan Shield Insurance Limited",
+      "policy_or_bond_number": "DSI/HLT/IND/2025/0471893",
+      "document_type": "health",
+      "sum_insured": 1000000.0,
+      "premium": 18450.0,
+      "gst_amount": 3321.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Proposer / Insured",
+        "text": "Srinivas Reddy Kondapalli"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Deccan Shield Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "DSI/HLT/IND/2025/0471893"
+      },
+      "sum_insured": {
+        "label": "Basic Sum Insured (per policy year)",
+        "text": "₹10,00,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (excluding GST)",
+        "text": "₹18,450.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "₹3,321.00"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15th June 2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (midnight)",
+        "text": "14th June 2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Deccan Shield Individual Health Guard Policy - Policy Schedule",
+    "insurer_address": "Deccan Shield Insurance Limited, Registered and Corporate Office: 7th Floor, Shield Towers, Plot No. 42, Raidurg Road, Gachibowli, Hyderabad, Telangana - 500032. CIN: U66010TG2011PLC074518. IRDAI Registration No. 187. Toll Free: 1800-419-6620",
+    "insured_address": "Flat No. 504, Block C, Lakeview Residency, Road No. 12, Kondapur, Serilingampally, Hyderabad, Telangana - 500084",
+    "extra_rows": [
+      {
+        "label": "Product UIN",
+        "value": "DSIHLIP25041V012425"
+      },
+      {
+        "label": "Insurer GSTIN",
+        "value": "36AACCD4718K1Z3"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Charminar Insurance Brokers Pvt. Ltd. / BRK-HYD-00316"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "₹1,660.50"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "₹1,660.50"
+      },
+      {
+        "label": "Total Premium Payable (including GST)",
+        "value": "₹21,771.00"
+      },
+      {
+        "label": "Room Rent Limit (per day)",
+        "value": "₹10,000.00"
+      },
+      {
+        "label": "Premium Receipt No. / Mode",
+        "value": "RCPT/HYD/25/1186402 / Net Banking"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Insured Person Details",
+        "body": "Insured Person 1: Self, Male, Date of Birth 22/03/1988, Occupation: Senior Software Engineer (Salaried), Employer: Orbitline Technologies Pvt. Ltd., HITEC City, Hyderabad. Pre-existing diseases declared: None. Nominee: Lakshmi Kondapalli (Spouse). Plan Type: Individual. Zone of Cover: Zone A."
+      },
+      {
+        "heading": "Coverage Summary",
+        "body": "In-patient hospitalisation expenses up to the Basic Sum Insured; pre-hospitalisation 60 days and post-hospitalisation 90 days; day care procedures as listed in Annexure II; road ambulance up to the limit stated in the policy wording; AYUSH treatment in recognised hospitals; organ donor expenses; annual preventive health check-up from the second policy year. Cumulative bonus of 10% of the Basic Sum Insured per claim-free year, subject to a maximum of 50%."
+      },
+      {
+        "heading": "Waiting Periods and Exclusions",
+        "body": "Initial waiting period of 30 days except for accidents. Specified diseases and procedures: 24 months. Pre-existing diseases: 36 months of continuous coverage. Standard exclusions as per IRDAI Master Circular on Standardisation of Exclusions in Health Insurance apply, including cosmetic surgery, self-inflicted injuries, and treatment outside India."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "Cashless facility is available at network hospitals through the in-house Health Claims Unit of the Company. Intimate planned hospitalisation at least 48 hours in advance and emergency hospitalisation within 24 hours of admission on the toll free number or at claims@deccanshield.example. Reimbursement claims must be submitted within 30 days of discharge along with original documents."
+      },
+      {
+        "heading": "Tax Benefit and Free Look",
+        "body": "Premium paid by modes other than cash may be eligible for deduction under Section 80D of the Income Tax Act, 1961, subject to applicable limits. The policyholder has a free look period of 30 days from receipt of the policy document to review the terms and conditions and return the policy if not acceptable."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, contact the Grievance Officer at grievance@deccanshield.example or write to the Corporate Office. If unresolved within 15 days, the policyholder may approach the IRDAI Bima Bharosa portal or the Insurance Ombudsman, Hyderabad, as per the Insurance Ombudsman Rules, 2017. Stamp duty paid by consolidated stamp duty challan as per Government of Telangana order."
+      }
+    ],
+    "signatory": "For and on behalf of Deccan Shield Insurance Limited - Authorised Signatory, Retail Health Underwriting, Hyderabad"
+  }
+}

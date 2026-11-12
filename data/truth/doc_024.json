@@ -1,0 +1,14 @@
+{
+  "insured_name": "Shree Mahamaya Steel Traders Pvt. Ltd.",
+  "insurer_name": "Narmada General Insurance Co. Ltd.",
+  "policy_or_bond_number": "NGI/RPR/PLI/2025/0047318",
+  "document_type": "liability",
+  "sum_insured": 10000000.0,
+  "premium": 42500.0,
+  "gst_amount": 7650.0,
+  "period_start": "2025-06-15",
+  "period_end": "2026-06-14",
+  "beneficiary": null,
+  "doc_id": "doc_024",
+  "template": "certificate"
+}

@@ -1,0 +1,125 @@
+{
+  "plan": {
+    "doc_id": "doc_060",
+    "document_type": "surety_bond",
+    "layout": "certificate",
+    "amount_style": "lakh_crore",
+    "date_style": "dmy_dot",
+    "insurer": "Himgiri Insurance Company Limited",
+    "party_hint": "hospital trust in Kochi",
+    "omit": []
+  },
+  "request_id": "req_011CgyrcwPynXAbC3wA2DoPT",
+  "generated": {
+    "truth": {
+      "insured_name": "Periyar Valley Charitable Hospital Trust",
+      "insurer_name": "Himgiri Insurance Company Limited",
+      "policy_or_bond_number": "HIC/SB/KOC/2025/004718",
+      "document_type": "surety_bond",
+      "sum_insured": 5000000.0,
+      "premium": 75000.0,
+      "gst_amount": 13500.0,
+      "period_start": "2025-07-15",
+      "period_end": "2027-01-14",
+      "beneficiary": "Kochi Metropolitan Health Infrastructure Authority"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal",
+        "text": "Periyar Valley Charitable Hospital Trust"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Himgiri Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "HIC/SB/KOC/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "₹ 50 Lakhs"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 75,000"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 13,500"
+      },
+      "period_start": {
+        "label": "Bond Validity - From",
+        "text": "15.07.2025"
+      },
+      "period_end": {
+        "label": "Bond Validity - To",
+        "text": "14.01.2027"
+      },
+      "beneficiary": {
+        "label": "Obligee",
+        "text": "Kochi Metropolitan Health Infrastructure Authority"
+      }
+    },
+    "title": "CERTIFICATE OF SURETY BOND - CONTRACT PERFORMANCE BOND",
+    "insurer_address": "Himgiri Insurance Company Limited, Kochi Regional Office, 4th Floor, Marine Crest Towers, Shanmugham Road, Ernakulam, Kochi - 682031, Kerala. CIN: U66010KL2019PLC058342",
+    "insured_address": "Periyar Valley Charitable Hospital Trust, Trust House, NH 66 Bypass Road, Edappally North, Kochi - 682024, Kerala",
+    "extra_rows": [
+      {
+        "label": "UIN",
+        "value": "IRDAN-HIC-SB-0021-V01-2425"
+      },
+      {
+        "label": "Surety GSTIN",
+        "value": "32AABCH4417M1Z9"
+      },
+      {
+        "label": "Principal GSTIN",
+        "value": "32AAATP6205K1ZQ"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 6,750"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 6,750"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 88,500"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 500"
+      },
+      {
+        "label": "Intermediary Code",
+        "value": "HIC-CB-KL-00937 (Malabar Risk Advisors Pvt. Ltd.)"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Nature of the Bond",
+        "body": "This certificate evidences a Contract Performance Bond issued by the Surety on behalf of the Principal in favour of the Obligee, securing the due performance of the Principal's obligations under the agreement for the design, supply, installation and commissioning of a 120-bed critical care block, including medical gas pipeline systems and modular operation theatres, as awarded under the Obligee's letter of acceptance and the contract documents referred to therein."
+      },
+      {
+        "heading": "Conditions of the Bond",
+        "body": "1. The liability of the Surety shall not exceed the Bond Amount stated in this certificate. 2. The Surety shall be discharged from all liability unless a written claim is lodged by the Obligee within the validity period of the bond or within the claim period of thirty days thereafter. 3. Any variation in the terms of the underlying contract made without the prior written consent of the Surety shall not enlarge the liability of the Surety. 4. This bond is non-transferable and is governed by the laws of India, with courts at Ernakulam having exclusive jurisdiction."
+      },
+      {
+        "heading": "Procedure for Invocation",
+        "body": "The Obligee may invoke this bond by a written demand addressed to the Kochi Regional Office of the Surety, signed by an officer duly authorised by the Obligee, stating the nature of default by the Principal and enclosing a copy of the notice of default served on the Principal. The Surety shall settle an admissible claim within thirty days of receipt of complete documents, in accordance with the IRDAI (Surety Insurance Contracts) Guidelines."
+      },
+      {
+        "heading": "Indemnity by Principal",
+        "body": "The Principal and its Trustees have executed a Deed of Indemnity and Counter-Guarantee in favour of the Surety, under which the Principal undertakes to reimburse the Surety for any amount paid under this bond together with costs and expenses incurred in connection therewith."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, the Principal or Obligee may contact the Grievance Officer at the Kochi Regional Office or write to care.kochi@himgiriinsurance.example. If unresolved within thirty days, the complainant may approach the Insurance Ombudsman having jurisdiction over Kerala or register a complaint on the Bima Bharosa portal of IRDAI."
+      }
+    ],
+    "signatory": "For and on behalf of Himgiri Insurance Company Limited - Authorised Signatory, Surety Underwriting, Kochi Regional Office"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_011",
+    "document_type": "motor",
+    "layout": "two_column",
+    "amount_style": "rupee_indian",
+    "date_style": "d_mon_y",
+    "insurer": "Sahyadri General Insurance Company Limited",
+    "party_hint": "chemical importer in Navi Mumbai",
+    "omit": []
+  },
+  "request_id": "req_011CgyrK98fedRDPX94c3uy2",
+  "generated": {
+    "truth": {
+      "insured_name": "Konkan Chemtrade Imports Private Limited",
+      "insurer_name": "Sahyadri General Insurance Company Limited",
+      "policy_or_bond_number": "SGI/MV/2501/04478213",
+      "document_type": "motor",
+      "sum_insured": 2850000.0,
+      "premium": 74316.0,
+      "gst_amount": 13376.88,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Insured",
+        "text": "Konkan Chemtrade Imports Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Sahyadri General Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "SGI/MV/2501/04478213"
+      },
+      "sum_insured": {
+        "label": "Total IDV (Sum Insured)",
+        "text": "₹28,50,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (A+B)",
+        "text": "₹74,316.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "₹13,376.88"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15-Jun-2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "14-Jun-2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Certificate of Insurance cum Policy Schedule - Goods Carrying Vehicle Package Policy (Public Carrier)",
+    "insurer_address": "Registered Office: Sahyadri House, 14 Senapati Bapat Road, Shivajinagar, Pune, Maharashtra 411016. CIN: U66030MH2009PLC193417. IRDAI Reg. No. 187. Issuing Office: Unit 602, Platinum Arcade, Sector 17, Vashi, Navi Mumbai 400703",
+    "insured_address": "Plot No. D-112, TTC Industrial Area, MIDC Mahape, Thane-Belapur Road, Navi Mumbai, Maharashtra 400710",
+    "extra_rows": [
+      {
+        "label": "Registration No. of Vehicle",
+        "value": "MH-43-BX-7184"
+      },
+      {
+        "label": "Insured GSTIN",
+        "value": "27AAKCK4821M1Z6"
+      },
+      {
+        "label": "UIN (Package Policy)",
+        "value": "IRDAN187RP0012V01202122"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-MUM-30562 / Vashi Risk Advisory Insurance Brokers Pvt. Ltd."
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "₹6,688.44"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "₹6,688.44"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "₹87,692.88"
+      },
+      {
+        "label": "Compulsory Deductible (Own Damage)",
+        "value": "₹1,500.00"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Vehicle Details",
+        "body": "Class: Medium Goods Vehicle, Public Carrier. Body Type: Closed container, 6-wheeler. Fuel: Diesel. Gross Vehicle Weight: 16,020 kg. Year of Manufacture: 2022. Engine No. KD4E220917635. Chassis No. MBX6W22CLN0458812. Seating Capacity: 3 including driver. Registering Authority: RTO Navi Mumbai (Vashi)."
+      },
+      {
+        "heading": "Premium Computation",
+        "body": "Section A - Own Damage: Basic OD premium on IDV, add-on for IMT 23 (lamps, tyres, tubes), less No Claim Bonus at 20%. Section B - Liability: Basic Third Party premium as notified by IRDAI, Legal Liability to paid driver and cleaner (IMT 39), Compulsory PA cover for Owner-Driver. Net premium and GST are shown in the schedule table above."
+      },
+      {
+        "heading": "Limitations as to Use",
+        "body": "The policy covers use only under a public carrier permit for the carriage of goods within the permitted area. The vehicle may carry chemicals classified as hazardous under the Central Motor Vehicles Rules, 1989 only where the driver holds a valid hazardous goods endorsement and the vehicle displays the prescribed Class labels and emergency information panel. The policy does not cover use for organised racing, pace making, reliability trials, or carriage of passengers for hire or reward."
+      },
+      {
+        "heading": "Driver Clause",
+        "body": "Any person driving the vehicle must hold an effective driving licence at the time of the accident, with the relevant transport endorsement, and must not be disqualified from holding or obtaining such a licence. Endorsements IMT 21, IMT 23 and IMT 39 are attached and form part of this policy."
+      },
+      {
+        "heading": "Important Notice and Grievance Redressal",
+        "body": "Stamp duty has been paid by consolidated method vide order of the Government of Maharashtra. In case of any grievance, contact the Grievance Officer, Sahyadri General Insurance Company Limited, at grievance@sahyadrigeneral.example.in or toll-free 1800-209-4417. If not resolved within 15 days, you may approach the Insurance Ombudsman, Mumbai, or the IRDAI Bima Bharosa portal. Please refer to the policy wording for full terms, conditions and exclusions."
+      }
+    ],
+    "signatory": "For and on behalf of Sahyadri General Insurance Company Limited - Authorised Signatory (Branch Manager, Vashi), Navi Mumbai"
+  }
+}

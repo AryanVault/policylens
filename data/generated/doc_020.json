@@ -1,0 +1,125 @@
+{
+  "plan": {
+    "doc_id": "doc_020",
+    "document_type": "surety_bond",
+    "layout": "schedule_table",
+    "amount_style": "lakh_crore",
+    "date_style": "dmy_slash",
+    "insurer": "Kaveri Assurance Co. Ltd.",
+    "party_hint": "road construction contractor in Pune",
+    "omit": []
+  },
+  "request_id": "req_011CgyrMyzaB5MyCppMStCfB",
+  "generated": {
+    "truth": {
+      "insured_name": "Sahyadri Infra Roadways Pvt. Ltd.",
+      "insurer_name": "Kaveri Assurance Co. Ltd.",
+      "policy_or_bond_number": "KAC/SB/PB/2025/004718",
+      "document_type": "surety_bond",
+      "sum_insured": 12500000.0,
+      "premium": 150000.0,
+      "gst_amount": 27000.0,
+      "period_start": "2025-07-15",
+      "period_end": "2027-01-14",
+      "beneficiary": "Deccan Regional Roads Authority, Pune Division"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal / Contractor",
+        "text": "Sahyadri Infra Roadways Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Kaveri Assurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Surety Bond No.",
+        "text": "KAC/SB/PB/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Bond Amount (Maximum Liability of Surety)",
+        "text": "₹ 1.25 Crore"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "₹ 1.5 Lakhs"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 27,000"
+      },
+      "period_start": {
+        "label": "Bond Period - From",
+        "text": "15/07/2025"
+      },
+      "period_end": {
+        "label": "Bond Period - To (Expiry Date)",
+        "text": "14/01/2027"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Deccan Regional Roads Authority, Pune Division"
+      }
+    },
+    "title": "SURETY BOND SCHEDULE - CONTRACT PERFORMANCE BOND",
+    "insurer_address": "Kaveri Assurance Co. Ltd., Regional Office: 4th Floor, Shivneri Business Centre, Plot No. 22, Senapati Bapat Road, Pune - 411016, Maharashtra. CIN: U66010KA2014PLC078342. IRDAI Registration No. 187",
+    "insured_address": "Sahyadri Infra Roadways Pvt. Ltd., Office No. 305, Mangalmurti Arcade, Pune-Satara Road, Bibwewadi, Pune - 411037, Maharashtra",
+    "extra_rows": [
+      {
+        "label": "Product UIN",
+        "value": "KAVSBLP25001V012425"
+      },
+      {
+        "label": "GSTIN of Surety",
+        "value": "27AAKCK4821M1Z6"
+      },
+      {
+        "label": "GSTIN of Principal",
+        "value": "27AAJCS7395Q1ZB"
+      },
+      {
+        "label": "Underlying Contract Reference",
+        "value": "DRRA/PUN/RD/EPC/2025-26/117 - Widening and strengthening of Hadapsar-Saswad link road (Km 0.000 to Km 14.600)"
+      },
+      {
+        "label": "CGST @ 9% / SGST @ 9%",
+        "value": "Rs. 13,500 / Rs. 13,500"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "₹ 1.77 Lakhs"
+      },
+      {
+        "label": "Stamp Duty Paid (Maharashtra)",
+        "value": "Rs. 500"
+      },
+      {
+        "label": "Intermediary Name & Code",
+        "value": "Ashtavinayak Insurance Brokers Pvt. Ltd. - BRK/DIR/0629"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Nature of Obligation",
+        "body": "This Contract Performance Bond is issued by the Surety at the request of the Principal in favour of the Obligee named in the Schedule, in respect of the due performance of the road works contract referred to above. The Surety undertakes to pay the Obligee, on receipt of a written demand stating that the Principal has failed to perform its obligations under the contract, any sum up to the maximum liability stated in the Schedule, without demur and notwithstanding any dispute raised by the Principal."
+      },
+      {
+        "heading": "Conditions of the Bond",
+        "body": "1. The liability of the Surety shall not exceed the Bond Amount stated in the Schedule in aggregate. 2. Any claim must be lodged in writing with the Surety at the issuing office on or before the expiry date stated in the Schedule; claims received thereafter shall stand extinguished. 3. Extension of the bond period or enhancement of the bond amount shall be valid only by endorsement issued by the Surety. 4. This bond is not transferable or assignable without prior written consent of the Surety. 5. The bond shall be governed by Indian law and subject to the jurisdiction of courts at Pune."
+      },
+      {
+        "heading": "Indemnity and Recovery",
+        "body": "The Principal and its directors have executed a Deed of Indemnity in favour of the Surety. Any amount paid by the Surety under this bond shall be recoverable from the Principal together with interest and costs, in accordance with the IRDAI (Surety Insurance Contracts) Guidelines and the terms of the said Deed of Indemnity."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "The Obligee shall submit the invocation letter on its official letterhead signed by an authorised officer, together with a copy of the contract, the notice of default served on the Principal and the original of this bond, to the Claims Department at the regional office address above or by email to suretyclaims@kaveriassurance.example.in. Settlement shall be made within 30 days of receipt of complete documents."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, contact the Grievance Redressal Officer, Kaveri Assurance Co. Ltd., at grievance@kaveriassurance.example.in or toll-free 1800-209-4417. If not resolved within 15 days, the complainant may approach the Bima Bharosa portal or the Insurance Ombudsman having jurisdiction. Insurance is the subject matter of solicitation."
+      }
+    ],
+    "signatory": "For and on behalf of Kaveri Assurance Co. Ltd. - Authorised Signatory, Surety Underwriting (Western Region), Pune. Date of issue: 14/07/2025"
+  }
+}

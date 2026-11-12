@@ -1,0 +1,118 @@
+{
+  "plan": {
+    "doc_id": "doc_049",
+    "document_type": "surety_bond",
+    "layout": "prose_deed",
+    "amount_style": "words_paren",
+    "date_style": "dmy_dash",
+    "insurer": "Ganga Valley General Insurance Co. Ltd.",
+    "party_hint": "pharmaceutical distributor in Ahmedabad",
+    "omit": [
+      "premium",
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrYkV2h7pKhGs48K2HF",
+  "generated": {
+    "truth": {
+      "insured_name": "Sabarmati Lifecare Distributors Pvt. Ltd.",
+      "insurer_name": "Ganga Valley General Insurance Co. Ltd.",
+      "policy_or_bond_number": "GVGI/SB/2026/004217",
+      "document_type": "surety_bond",
+      "sum_insured": 1850000.0,
+      "premium": null,
+      "gst_amount": null,
+      "period_start": "2026-05-15",
+      "period_end": "2027-11-14",
+      "beneficiary": "Gujarat State Drug Procurement Board"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal",
+        "text": "Sabarmati Lifecare Distributors Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Ganga Valley General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "GVGI/SB/2026/004217"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "Rs. 18,50,000/- (Rupees Eighteen Lakh Fifty Thousand Only)"
+      },
+      "premium": null,
+      "gst_amount": null,
+      "period_start": {
+        "label": "Bond Period - From",
+        "text": "15-05-2026"
+      },
+      "period_end": {
+        "label": "Bond Period - To",
+        "text": "14-11-2027"
+      },
+      "beneficiary": {
+        "label": "Obligee",
+        "text": "Gujarat State Drug Procurement Board"
+      }
+    },
+    "title": "SURETY BOND - PERFORMANCE SECURITY (DEED OF GUARANTEE)",
+    "insurer_address": "Ganga Valley General Insurance Co. Ltd., Surety Business Hub, 4th Floor, Vasant Kunj Commercial Tower, Ashram Road, Navrangpura, Ahmedabad - 380009, Gujarat. CIN: U66010GJ2014PLC081247",
+    "insured_address": "Sabarmati Lifecare Distributors Pvt. Ltd., Unit 12-14, Shreeji Pharma Estate, Near Odhav Ring Road Circle, Odhav, Ahmedabad - 382415, Gujarat",
+    "extra_rows": [
+      {
+        "label": "Stamp Duty Paid (e-Stamp)",
+        "value": "Rs. 500/- (Rupees Five Hundred Only)"
+      },
+      {
+        "label": "e-Stamp Certificate No.",
+        "value": "IN-GJ48217390561842X"
+      },
+      {
+        "label": "Principal GSTIN",
+        "value": "24AAJCS4821K1Z6"
+      },
+      {
+        "label": "Product UIN",
+        "value": "GVGIIGP26041V012526"
+      },
+      {
+        "label": "Intermediary Code",
+        "value": "BRK-0047812 (Tapi Risk Advisors Insurance Brokers Pvt. Ltd.)"
+      },
+      {
+        "label": "Tender / Rate Contract Ref.",
+        "value": "GSDPB/RC/2026/117 dated 28-04-2026"
+      },
+      {
+        "label": "Contract Value (for reference only)",
+        "value": "Rs. 1,85,00,000/- (Rupees One Crore Eighty Five Lakh Only)"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "1. Parties and Recitals",
+        "body": "THIS DEED OF SURETY is executed at Ahmedabad by Ganga Valley General Insurance Co. Ltd., a company registered under the Companies Act, 2013 and holding a certificate of registration from the Insurance Regulatory and Development Authority of India to transact general insurance business (hereinafter called the Surety), having its Surety Business Hub at Ashram Road, Navrangpura, Ahmedabad - 380009, in favour of Gujarat State Drug Procurement Board, Sector 10-A, Gandhinagar - 382010 (hereinafter called the Obligee). WHEREAS Sabarmati Lifecare Distributors Pvt. Ltd., a pharmaceutical distributor having its registered office at Odhav, Ahmedabad - 382415 (hereinafter called the Principal), has been awarded a rate contract for the supply and distribution of essential medicines and surgical consumables to district drug warehouses under Tender Reference GSDPB/RC/2026/117, AND WHEREAS the terms of the said contract require the Principal to furnish a performance security in the form of a Surety Bond issued by an insurer, the Surety has agreed to issue this Bond No. GVGI/SB/2026/004217."
+      },
+      {
+        "heading": "2. Obligation of the Surety",
+        "body": "NOW THEREFORE, in consideration of the Obligee having agreed to accept this Surety Bond as performance security, the Surety hereby irrevocably and unconditionally undertakes to pay to the Obligee, on first written demand and without demur, any sum or sums up to an aggregate amount not exceeding Rs. 18,50,000/- (Rupees Eighteen Lakh Fifty Thousand Only), being the Bond Amount, upon the Obligee stating in writing that the Principal has failed to perform or observe any of the terms and conditions of the said contract. The Surety shall not require the Obligee to prove or establish the default, and any such demand made by the Obligee shall be conclusive as regards the amount due and payable under this Bond, subject always to the Bond Amount stated herein."
+      },
+      {
+        "heading": "3. Period of the Bond",
+        "body": "This Surety Bond shall remain in full force and effect for the Bond Period commencing from 15-05-2026 and ending on 14-11-2027, both days inclusive. Unless a written demand or claim is lodged with the Surety at its office stated above within a claim period of three months from the end of the Bond Period, all rights of the Obligee under this Bond shall be forfeited and the Surety shall stand relieved and discharged of all liability hereunder, whether or not the original Bond is returned to the Surety."
+      },
+      {
+        "heading": "4. Conditions",
+        "body": "(a) The liability of the Surety under this Bond shall not be affected by any change in the constitution of the Principal or the Surety, or by any variation, extension of time or forbearance granted by the Obligee to the Principal. (b) This Bond is issued in accordance with the IRDAI (Surety Insurance Contracts) Guidelines and is subject to the laws of India; courts at Ahmedabad shall have exclusive jurisdiction. (c) This Bond is not transferable or assignable without the prior written consent of the Surety. (d) Verification of the genuineness of this Bond may be sought from the Surety by quoting Bond No. GVGI/SB/2026/004217."
+      },
+      {
+        "heading": "5. Execution",
+        "body": "IN WITNESS WHEREOF, Ganga Valley General Insurance Co. Ltd. has caused this Deed to be executed by its duly authorised officer at Ahmedabad on the date written below, at the request of and on behalf of Sabarmati Lifecare Distributors Pvt. Ltd., in favour of Gujarat State Drug Procurement Board. Witness 1: Hetal Parmar, Navrangpura, Ahmedabad. Witness 2: Kunal Desai, Paldi, Ahmedabad. Date of execution: 12-05-2026."
+      }
+    ],
+    "signatory": "For Ganga Valley General Insurance Co. Ltd., Authorised Signatory - Ritesh Nandwani, Chief Manager, Surety Underwriting"
+  }
+}

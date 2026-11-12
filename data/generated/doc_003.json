@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_003",
+    "document_type": "motor",
+    "layout": "certificate",
+    "amount_style": "inr_western",
+    "date_style": "month_first_long",
+    "insurer": "Ganga Valley General Insurance Co. Ltd.",
+    "party_hint": "textile exporter in Tiruppur",
+    "omit": []
+  },
+  "request_id": "req_011Cgyptvw9xt1sn8cLuwVn4",
+  "generated": {
+    "truth": {
+      "insured_name": "Noyyal Weave Exports Private Limited",
+      "insurer_name": "Ganga Valley General Insurance Co. Ltd.",
+      "policy_or_bond_number": "GVG/MOT/3301/2025/004718",
+      "document_type": "motor",
+      "sum_insured": 1845000.0,
+      "premium": 42386.0,
+      "gst_amount": 7629.48,
+      "period_start": "2025-06-14",
+      "period_end": "2026-06-13",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Insured",
+        "text": "Noyyal Weave Exports Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Ganga Valley General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Certificate cum Policy No.",
+        "text": "GVG/MOT/3301/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Total Insured's Declared Value (IDV)",
+        "text": "INR 1,845,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (excl. GST)",
+        "text": "INR 42,386.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "INR 7,629.48"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "June 14, 2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "June 13, 2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Certificate of Insurance cum Policy Schedule - Commercial Vehicle Package Policy (Goods Carrying Vehicle)",
+    "insurer_address": "Ganga Valley General Insurance Co. Ltd., Regd. Office: 7th Floor, Tridhara Towers, Plot 22, Sector 5, Vikas Marg, Haridwar, Uttarakhand 249403. Policy Servicing Office: 2nd Floor, Avinashi Road Business Centre, Coimbatore, Tamil Nadu 641018. IRDAI Reg. No. 187. CIN U66010UR2011PLC048213",
+    "insured_address": "SF No. 214/3, Kangeyam Road, Veerapandi Pirivu, Tiruppur, Tamil Nadu 641605",
+    "extra_rows": [
+      {
+        "label": "Vehicle Registration No.",
+        "value": "TN 39 CK 4521"
+      },
+      {
+        "label": "Vehicle Class / Body Type",
+        "value": "Light Goods Vehicle - Closed Body Container, Diesel, GVW 7,490 kg"
+      },
+      {
+        "label": "Insured GSTIN",
+        "value": "33AAJCN4821K1Z6"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "INR 3,814.74"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "INR 3,814.74"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "INR 50,015.48"
+      },
+      {
+        "label": "Compulsory Deductible (Own Damage)",
+        "value": "INR 1,000.00"
+      },
+      {
+        "label": "Intermediary Code / UIN",
+        "value": "BRK-TN-0058812 / IRDAN187RP0021V01201920"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Limitations as to Use",
+        "body": "The policy covers use only under a permit within the meaning of the Motor Vehicles Act, 1988 or such a carriage falling under Sub-Section 3 of Section 66 of the Motor Vehicles Act, 1988. The policy does not cover use for organised racing, pace making, reliability trial, speed testing or use whilst drawing a trailer except the towing of any one disabled mechanically propelled vehicle."
+      },
+      {
+        "heading": "Persons or Classes of Persons Entitled to Drive",
+        "body": "Any person including the insured, provided that the person driving holds an effective driving licence at the time of the accident and is not disqualified from holding or obtaining such a licence, and provided also that the person holding an effective learner's licence may also drive the vehicle when not used for transport of goods at the time of the accident and such person satisfies the requirements of Rule 3 of the Central Motor Vehicles Rules, 1989."
+      },
+      {
+        "heading": "Scope of Cover",
+        "body": "Section I: Own Damage to the insured vehicle, subject to the applicable depreciation schedule and deductible. Section II: Liability to Third Parties for death, bodily injury and property damage as per the Motor Vehicles Act, 1988. Compulsory Personal Accident cover for the owner-driver is included. Legal liability to one paid driver and one cleaner is included. No Claim Bonus of 25% has been applied to the Own Damage premium on the basis of the declaration furnished by the insured."
+      },
+      {
+        "heading": "Certificate",
+        "body": "I/We hereby certify that the policy to which this certificate relates as well as this certificate of insurance are issued in accordance with the provisions of Chapter X and Chapter XI of the Motor Vehicles Act, 1988. Stamp duty has been paid by consolidated method vide receipt no. CSD/CBE/2025/1187."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, contact the Grievance Cell at the Policy Servicing Office or write to care@gangavalleygi.example.in, Toll Free 1800 419 7730. If not resolved within 15 days, you may approach the Bima Bharosa portal or the Insurance Ombudsman, Chennai. Please quote the certificate number in all correspondence."
+      }
+    ],
+    "signatory": "For Ganga Valley General Insurance Co. Ltd. - R. Senthilnathan, Authorised Signatory, Coimbatore Policy Servicing Office"
+  }
+}

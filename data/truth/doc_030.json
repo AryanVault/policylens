@@ -1,0 +1,14 @@
+{
+  "insured_name": "Malwa Agro Foods Pvt. Ltd.",
+  "insurer_name": "Narmada General Insurance Co. Ltd.",
+  "policy_or_bond_number": "NGI/HL/GMC/2025/0047812",
+  "document_type": "health",
+  "sum_insured": 25000000.0,
+  "premium": 625000.0,
+  "gst_amount": null,
+  "period_start": "2025-07-01",
+  "period_end": "2026-06-30",
+  "beneficiary": null,
+  "doc_id": "doc_030",
+  "template": "certificate"
+}

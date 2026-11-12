@@ -1,0 +1,116 @@
+{
+  "plan": {
+    "doc_id": "doc_004",
+    "document_type": "surety_bond",
+    "layout": "prose_deed",
+    "amount_style": "words_paren",
+    "date_style": "ordinal_long",
+    "insurer": "Kaveri Assurance Co. Ltd.",
+    "party_hint": "family-run jewellery business in Surat",
+    "omit": [
+      "premium",
+      "gst_amount",
+      "policy_or_bond_number"
+    ]
+  },
+  "request_id": "req_011CgyrHCZz1StPCzHzEHaUy",
+  "generated": {
+    "truth": {
+      "insured_name": "Parekh Kanchan Jewellers",
+      "insurer_name": "Kaveri Assurance Co. Ltd.",
+      "policy_or_bond_number": null,
+      "document_type": "surety_bond",
+      "sum_insured": 5000000.0,
+      "premium": null,
+      "gst_amount": null,
+      "period_start": "2025-07-01",
+      "period_end": "2026-12-31",
+      "beneficiary": "Surat Diamond and Jewellery Park Development Authority"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal",
+        "text": "Parekh Kanchan Jewellers"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Kaveri Assurance Co. Ltd."
+      },
+      "policy_or_bond_number": null,
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "Rs. 50,00,000/- (Rupees Fifty Lakh Only)"
+      },
+      "premium": null,
+      "gst_amount": null,
+      "period_start": {
+        "label": "Period of Validity - Commencing From",
+        "text": "1st July 2025"
+      },
+      "period_end": {
+        "label": "Period of Validity - Ending On",
+        "text": "31st December 2026"
+      },
+      "beneficiary": {
+        "label": "Obligee",
+        "text": "Surat Diamond and Jewellery Park Development Authority"
+      }
+    },
+    "title": "PERFORMANCE SECURITY SURETY BOND (DEED OF GUARANTEE) IN FAVOUR OF SURAT DIAMOND AND JEWELLERY PARK DEVELOPMENT AUTHORITY",
+    "insurer_address": "Kaveri Assurance Co. Ltd., Regional Surety Office, 4th Floor, Tapi Arcade, Ring Road, Majura Gate, Surat - 395002, Gujarat. Registered Office: Kaveri Towers, 18 Cunningham Crescent, Bengaluru - 560052, Karnataka",
+    "insured_address": "Parekh Kanchan Jewellers, Shop No. 12-14, Ground Floor, Ratnadeep Complex, Mahidharpura Hira Bazar, Surat - 395003, Gujarat",
+    "extra_rows": [
+      {
+        "label": "Principal GSTIN",
+        "value": "24AAPFP7731K1Z5"
+      },
+      {
+        "label": "Surety CIN",
+        "value": "U66010KA2009PLC051287"
+      },
+      {
+        "label": "Product UIN (Surety Insurance Contract)",
+        "value": "KAVGLRP26011V012425"
+      },
+      {
+        "label": "Intermediary Code (Corporate Agent)",
+        "value": "KAC/CA/GJ/04471"
+      },
+      {
+        "label": "Stamp Duty Paid (Gujarat Stamp Act)",
+        "value": "Rs. 500/- (Rupees Five Hundred Only)"
+      },
+      {
+        "label": "Obligee Allotment Letter Reference",
+        "value": "SDJPDA/ALLOT/UNIT-B27/2025-26/118 dated 12th June 2025"
+      },
+      {
+        "label": "Annual Lease Rent of Allotted Unit (for reference only)",
+        "value": "Rs. 7,80,000/- (Rupees Seven Lakh Eighty Thousand Only)"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Preamble",
+        "body": "KNOW ALL MEN BY THESE PRESENTS that we, Parekh Kanchan Jewellers, a family-run partnership firm registered under the Indian Partnership Act, 1932, carrying on the business of manufacturing and retail of gold and diamond jewellery, having its principal place of business at Shop No. 12-14, Ground Floor, Ratnadeep Complex, Mahidharpura Hira Bazar, Surat - 395003, Gujarat, acting through its Managing Partner Shri Hasmukhbhai Natvarlal Parekh (hereinafter called the \"Principal\", which expression shall include its partners for the time being, their heirs, successors and permitted assigns), and Kaveri Assurance Co. Ltd., a general insurance company registered with the Insurance Regulatory and Development Authority of India, having its Regional Surety Office at 4th Floor, Tapi Arcade, Ring Road, Majura Gate, Surat - 395002 (hereinafter called the \"Surety\"), are held and firmly bound unto Surat Diamond and Jewellery Park Development Authority, having its office at Udyog Bhavan Annexe, Sachin GIDC Road, Surat - 394230 (hereinafter called the \"Obligee\"), in the sum of Rs. 50,00,000/- (Rupees Fifty Lakh Only) (hereinafter called the \"Bond Amount\"), for the payment of which sum, well and truly to be made, the Principal and the Surety bind themselves, their successors and assigns, jointly and severally, firmly by these presents."
+      },
+      {
+        "heading": "Recitals",
+        "body": "WHEREAS the Obligee has, by its Allotment Letter No. SDJPDA/ALLOT/UNIT-B27/2025-26/118 dated 12th June 2025, allotted to the Principal Industrial Gallery Unit B-27 in the Jewellery Manufacturing Zone of the Park on leasehold basis, subject to the Principal setting up and commissioning a jewellery manufacturing unit and fulfilling the employment, investment and compliance obligations stipulated therein; AND WHEREAS the terms of allotment require the Principal to furnish a performance security in the form of a Surety Bond issued by an insurer registered with IRDAI, in accordance with the Insurance Regulatory and Development Authority of India (Surety Insurance Contracts) Guidelines, in lieu of a bank guarantee; AND WHEREAS the Surety has, at the request of the Principal, agreed to execute this Bond in favour of the Obligee on the terms hereinafter appearing."
+      },
+      {
+        "heading": "Condition of the Obligation",
+        "body": "NOW THE CONDITION of the above-written obligation is such that if the Principal shall well and truly perform and observe all the terms, covenants and conditions of the said Allotment Letter and the Lease Deed to be executed thereunder, including commissioning of the manufacturing unit within the stipulated time, then this obligation shall be void and of no effect; otherwise it shall remain in full force and virtue. The Surety undertakes to pay to the Obligee, on receipt of a written demand stating that the Principal has committed a default, any sum or sums up to but not exceeding the Bond Amount of Rs. 50,00,000/- (Rupees Fifty Lakh Only), within thirty (30) days of such demand, without the Obligee being required to first proceed against the Principal. The liability of the Surety under this Bond shall in no event exceed the Bond Amount. No alteration in the terms of the allotment, extension of time or forbearance granted by the Obligee to the Principal shall discharge the Surety from its liability hereunder."
+      },
+      {
+        "heading": "Period of Validity and Claims",
+        "body": "This Bond shall remain valid and in force for the period commencing from 1st July 2025 and ending on 31st December 2026, both days inclusive. Any demand or claim under this Bond must be lodged in writing by the Obligee at the Regional Surety Office of the Surety at Surat on or before 31st December 2026, together with a claim period of three (3) months thereafter for documentation, failing which all rights of the Obligee under this Bond shall stand extinguished and the Surety shall be discharged from all liability hereunder. This Bond is irrevocable during its period of validity and shall be governed by the laws of India, with courts at Surat having exclusive jurisdiction."
+      },
+      {
+        "heading": "Execution",
+        "body": "IN WITNESS WHEREOF the Principal and the Surety have caused this Bond to be executed on non-judicial e-stamp paper of the value of Rs. 500/- (Rupees Five Hundred Only) at Surat on the 25th day of June 2025. Signed and delivered for and on behalf of the Principal, Parekh Kanchan Jewellers, by Shri Hasmukhbhai Natvarlal Parekh, Managing Partner. Signed and delivered for and on behalf of the Surety, Kaveri Assurance Co. Ltd., by its duly constituted Authorised Signatory. Witnesses: 1. Smt. Rupal Kirtikumar Desai, Athwalines, Surat. 2. Shri Jignesh Pravinchandra Vora, Adajan, Surat."
+      }
+    ],
+    "signatory": "For Kaveri Assurance Co. Ltd. - Authorised Signatory (Ms. Shalini Ranganath, Chief Manager - Surety Underwriting, Surat Regional Office)"
+  }
+}

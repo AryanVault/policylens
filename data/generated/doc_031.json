@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_031",
+    "document_type": "surety_bond",
+    "layout": "prose_deed",
+    "amount_style": "rupee_indian",
+    "date_style": "dmy_dash",
+    "insurer": "Ganga Valley General Insurance Co. Ltd.",
+    "party_hint": "IT services company in Bengaluru",
+    "omit": [
+      "premium",
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrS5d22y13aoqBQp1J8",
+  "generated": {
+    "truth": {
+      "insured_name": "Nimbusreach Technologies Private Limited",
+      "insurer_name": "Ganga Valley General Insurance Co. Ltd.",
+      "policy_or_bond_number": "GVG/SB/PB/2025/004718",
+      "document_type": "surety_bond",
+      "sum_insured": 4875000.0,
+      "premium": null,
+      "gst_amount": null,
+      "period_start": "2025-07-01",
+      "period_end": "2027-06-30",
+      "beneficiary": "Directorate of Civic Digital Services, Bengaluru Metropolitan Development Board"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal",
+        "text": "Nimbusreach Technologies Private Limited"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Ganga Valley General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "GVG/SB/PB/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "₹48,75,000.00"
+      },
+      "premium": null,
+      "gst_amount": null,
+      "period_start": {
+        "label": "Bond Period - From",
+        "text": "01-07-2025"
+      },
+      "period_end": {
+        "label": "Bond Period - To",
+        "text": "30-06-2027"
+      },
+      "beneficiary": {
+        "label": "Obligee",
+        "text": "Directorate of Civic Digital Services, Bengaluru Metropolitan Development Board"
+      }
+    },
+    "title": "SURETY BOND (CONTRACT PERFORMANCE) - DEED OF SURETYSHIP",
+    "insurer_address": "Ganga Valley House, 14 Riverside Commercial Estate, Sector 62, Noida, Uttar Pradesh 201309",
+    "insured_address": "4th Floor, Tower B, Halasuru Tech Park, 112 Old Airport Road, Bengaluru, Karnataka 560017",
+    "extra_rows": [
+      {
+        "label": "UIN",
+        "value": "IRDAN271CP0019V01202425"
+      },
+      {
+        "label": "GSTIN of Principal",
+        "value": "29AAHCN4821K1Z6"
+      },
+      {
+        "label": "GSTIN of Surety (Karnataka)",
+        "value": "29AABCG7352M1ZQ"
+      },
+      {
+        "label": "Intermediary Code",
+        "value": "GVG-BRK-KA-00863"
+      },
+      {
+        "label": "Contract Value (for reference only)",
+        "value": "₹4,87,50,000.00"
+      },
+      {
+        "label": "Stamp Duty Paid (Karnataka Stamp Act)",
+        "value": "₹500.00"
+      },
+      {
+        "label": "Contract Reference",
+        "value": "BMDB/CDS/IT-AMC/2025-26/117"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "KNOW ALL PERSONS BY THESE PRESENTS",
+        "body": "THIS SURETY BOND bearing Bond No. GVG/SB/PB/2025/004718 is executed at Bengaluru by Ganga Valley General Insurance Co. Ltd., a company registered under the Companies Act, 1956 and licensed by the Insurance Regulatory and Development Authority of India to transact general insurance business, having its registered office at Ganga Valley House, 14 Riverside Commercial Estate, Sector 62, Noida, Uttar Pradesh 201309 (hereinafter called the Surety, which expression shall include its successors and assigns), on behalf of Nimbusreach Technologies Private Limited, a company having its registered office at 4th Floor, Tower B, Halasuru Tech Park, 112 Old Airport Road, Bengaluru, Karnataka 560017 (hereinafter called the Principal), in favour of Directorate of Civic Digital Services, Bengaluru Metropolitan Development Board (hereinafter called the Obligee)."
+      },
+      {
+        "heading": "RECITALS",
+        "body": "WHEREAS the Obligee has awarded to the Principal the contract bearing reference BMDB/CDS/IT-AMC/2025-26/117 for the design, implementation, hosting and annual maintenance of the integrated citizen services portal and associated data centre services (hereinafter called the Contract); AND WHEREAS the terms of the Contract require the Principal to furnish a performance security in the form of a surety bond issued by an insurer registered with IRDAI in accordance with the IRDAI (Surety Insurance Contracts) Guidelines; AND WHEREAS the Surety has, at the request of the Principal, agreed to issue this Bond."
+      },
+      {
+        "heading": "OBLIGATION OF THE SURETY",
+        "body": "NOW THEREFORE the Surety hereby irrevocably and unconditionally undertakes to pay to the Obligee, on its first written demand and without demur, protest or reference to the Principal, any sum or sums up to a maximum aggregate Bond Amount of ₹48,75,000.00 (Rupees Forty-Eight Lakh Seventy-Five Thousand only), upon the Obligee stating in writing that the Principal has failed to perform its obligations under the Contract. The liability of the Surety under this Bond shall in no event exceed the said Bond Amount."
+      },
+      {
+        "heading": "PERIOD OF BOND",
+        "body": "This Bond shall remain in full force and effect for the Bond Period - From 01-07-2025 and the Bond Period - To 30-06-2027, both days inclusive. Any demand under this Bond must be received by the Surety at its Bengaluru Surety Hub, 3rd Floor, Cauvery Arcade, 27 Residency Road, Bengaluru 560025, on or before the expiry of the Bond Period or within the claim period of thirty days thereafter, failing which the Surety shall stand discharged of all liability."
+      },
+      {
+        "heading": "GENERAL CONDITIONS",
+        "body": "The obligations of the Surety shall not be affected by any variation in the terms of the Contract, extension of time or forbearance granted by the Obligee to the Principal. This Bond is non-transferable and shall be governed by the laws of India, subject to the exclusive jurisdiction of the courts at Bengaluru. The Principal shall indemnify the Surety against all sums paid under this Bond in terms of the counter-indemnity executed by the Principal. Stamp duty has been paid in accordance with the Karnataka Stamp Act, 1957."
+      },
+      {
+        "heading": "EXECUTION",
+        "body": "IN WITNESS WHEREOF this Bond has been signed and delivered on behalf of Ganga Valley General Insurance Co. Ltd. by its duly authorised signatory at Bengaluru on this 27th day of June 2025, in favour of Directorate of Civic Digital Services, Bengaluru Metropolitan Development Board, on behalf of Nimbusreach Technologies Private Limited. Witness 1: Prakash Doddamani, Bengaluru. Witness 2: Shalini Kuruvilla, Bengaluru."
+      }
+    ],
+    "signatory": "For Ganga Valley General Insurance Co. Ltd. - Authorised Signatory: Rhea Venkataraman, Chief Manager, Surety Underwriting, Bengaluru Surety Hub"
+  }
+}

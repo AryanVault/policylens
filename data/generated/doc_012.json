@@ -1,0 +1,120 @@
+{
+  "plan": {
+    "doc_id": "doc_012",
+    "document_type": "surety_bond",
+    "layout": "certificate",
+    "amount_style": "rs_slash",
+    "date_style": "dmy_dot",
+    "insurer": "Aravalli General Insurance Limited",
+    "party_hint": "chemical importer in Navi Mumbai",
+    "omit": [
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrKbCZm7vDBwyUsikSn",
+  "generated": {
+    "truth": {
+      "insured_name": "Kalwa Petrochem Imports Private Limited",
+      "insurer_name": "Aravalli General Insurance Limited",
+      "policy_or_bond_number": "AGI/SB/2025/004187",
+      "document_type": "surety_bond",
+      "sum_insured": 25000000.0,
+      "premium": 281250.0,
+      "gst_amount": null,
+      "period_start": "2025-06-15",
+      "period_end": "2026-12-14",
+      "beneficiary": "Office of the Principal Commissioner, Sahyadri Customs Commissionerate"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Principal",
+        "text": "Kalwa Petrochem Imports Private Limited"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Aravalli General Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Bond Certificate No.",
+        "text": "AGI/SB/2025/004187"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "Rs. 2,50,00,000/-"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 2,81,250/-"
+      },
+      "gst_amount": null,
+      "period_start": {
+        "label": "Bond Validity - From",
+        "text": "15.06.2025"
+      },
+      "period_end": {
+        "label": "Bond Validity - To",
+        "text": "14.12.2026"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Office of the Principal Commissioner, Sahyadri Customs Commissionerate"
+      }
+    },
+    "title": "CERTIFICATE OF SURETY BOND - CUSTOMS PERFORMANCE BOND",
+    "insurer_address": "Aravalli General Insurance Limited, Registered Office: 7th Floor, Meru Tower, Plot No. 22, Sector 16, Gurugram Road, Jaipur - 302017, Rajasthan. CIN: U66010RJ2019PLC064318. IRDAI Registration No. 187. Issuing Office: Unit 504, Kesar Business Park, Sector 30A, Vashi, Navi Mumbai - 400703",
+    "insured_address": "Plot No. D-114, TTC Industrial Area, MIDC Pawane, Thane-Belapur Road, Navi Mumbai - 400705, Maharashtra",
+    "extra_rows": [
+      {
+        "label": "Principal GSTIN",
+        "value": "27AAHCK4471M1Z8"
+      },
+      {
+        "label": "Importer Exporter Code (IEC)",
+        "value": "0318842765"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN187RP0004V01202425"
+      },
+      {
+        "label": "Intermediary Name & Code",
+        "value": "Sagarika Insurance Brokers Pvt. Ltd. / BRK-0042391"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 500/-"
+      },
+      {
+        "label": "Premium Receipt No.",
+        "value": "RCPT/VSH/25/118204"
+      },
+      {
+        "label": "Nature of Underlying Obligation",
+        "value": "Warehousing and duty-deferment of imported industrial solvents"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Operative Clause",
+        "body": "Know all men by these presents that the Principal named in the Schedule, as obligor, and Aravalli General Insurance Limited, as Surety, are held and firmly bound unto the Obligee named in the Schedule up to the Bond Amount stated therein, for the payment of which the Principal and the Surety bind themselves, their successors and assigns, jointly and severally, by these presents."
+      },
+      {
+        "heading": "Conditions of the Obligation",
+        "body": "The condition of this obligation is such that if the Principal duly observes all provisions of the Customs Act, 1962 and the rules and regulations framed thereunder in respect of the goods warehoused or cleared under deferred duty, pays all duties, interest and penalties lawfully demanded, and complies with all conditions of the licence granted by the Obligee, then this obligation shall be void; otherwise it shall remain in full force and effect."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "Any demand under this bond shall be made in writing by the Obligee to the issuing office of the Surety within the validity period stated in the Schedule, enclosing a copy of the adjudication order or demand notice and a statement of the amount due. The Surety shall settle admissible claims within 30 days of receipt of complete documents. The liability of the Surety shall in no event exceed the Bond Amount."
+      },
+      {
+        "heading": "Recourse and Indemnity",
+        "body": "This bond is issued on the strength of a Counter Indemnity executed by the Principal and its directors in favour of the Surety. Any amount paid by the Surety under this bond shall be recoverable from the Principal together with interest and costs, in accordance with the IRDAI (Surety Insurance Contracts) Guidelines, 2022."
+      },
+      {
+        "heading": "General Conditions",
+        "body": "This bond is non-transferable and cannot be cancelled by the Principal during its validity without the written consent of the Obligee. Any alteration in the terms of the underlying obligation shall be notified to the Surety. This certificate is subject to the jurisdiction of the courts at Mumbai. For grievances, contact the Grievance Redressal Officer of the Surety or the Insurance Ombudsman, Mumbai."
+      }
+    ],
+    "signatory": "For and on behalf of Aravalli General Insurance Limited - Authorised Signatory, Surety Underwriting Division, Vashi Branch (Rohit V. Deshmane)"
+  }
+}

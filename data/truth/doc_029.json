@@ -1,0 +1,14 @@
+{
+  "insured_name": "Kaveri Precision Autoparts Pvt. Ltd.",
+  "insurer_name": "Narmada General Insurance Co. Ltd.",
+  "policy_or_bond_number": "NGI/MAR/OP/2025/0004571",
+  "document_type": "marine",
+  "sum_insured": 150000000.0,
+  "premium": 120000.0,
+  "gst_amount": 21600.0,
+  "period_start": "2025-07-01",
+  "period_end": "2026-06-30",
+  "beneficiary": null,
+  "doc_id": "doc_029",
+  "template": "two_column"
+}

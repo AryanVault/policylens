@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_002",
+    "document_type": "fire",
+    "layout": "two_column",
+    "amount_style": "rs_slash",
+    "date_style": "dmy_slash",
+    "insurer": "Konkan Surety & General Insurance Ltd.",
+    "party_hint": "road construction contractor in Pune",
+    "omit": []
+  },
+  "request_id": "req_011CgyptwKxyYiTnDVJnAVMd",
+  "generated": {
+    "truth": {
+      "insured_name": "Sahyadri Infraroads Pvt. Ltd.",
+      "insurer_name": "Konkan Surety & General Insurance Ltd.",
+      "policy_or_bond_number": "KSG/FIR/2025/11/004718",
+      "document_type": "fire",
+      "sum_insured": 90000000.0,
+      "premium": 63000.0,
+      "gst_amount": 11340.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Sahyadri Infraroads Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Konkan Surety & General Insurance Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "KSG/FIR/2025/11/004718"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured",
+        "text": "Rs. 9,00,00,000/-"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 63,000/-"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 11,340/-"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15/06/2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "14/06/2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Standard Fire and Special Perils Policy - Policy Schedule",
+    "insurer_address": "Konkan Surety & General Insurance Ltd., Registered Office: Ratnadurg Towers, 9th Floor, 214 Free Press Marg, Nariman Point, Mumbai - 400021, Maharashtra. CIN: U66010MH2011PLC219847. IRDAI Reg. No. 187",
+    "insured_address": "Office No. 304, Kalyani Corporate Hub, Baner-Pashan Link Road, Baner, Pune - 411045, Maharashtra",
+    "extra_rows": [
+      {
+        "label": "Insured GSTIN",
+        "value": "27AAKCS4417M1Z6"
+      },
+      {
+        "label": "Insurer GSTIN",
+        "value": "27AACCK8826B1ZQ"
+      },
+      {
+        "label": "UIN",
+        "value": "IRDAN187RP0009V01202425"
+      },
+      {
+        "label": "Location of Risk",
+        "value": "Plant Yard & Site Stores, Gat No. 118/2, Chakan-Talegaon Road, Mahalunge, Tal. Khed, Pune - 410501"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 5,670/-"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 5,670/-"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 74,340/-"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-0412-PN / Deccan Risk Advisors Insurance Brokers Pvt. Ltd."
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Description of Property Insured",
+        "body": "Item 1: Building - site office, stores shed and workshop structure (RCC and pre-engineered steel). Item 2: Plant and Machinery - hot mix plant, wet mix macadam plant, crushers, generators and allied electricals kept at the location of risk. Item 3: Stocks - bitumen, emulsion, aggregates, diesel in approved storage and spares. Basis of valuation: Reinstatement Value for Building and Plant and Machinery; Market Value for Stocks. Occupancy: Storage yard and workshop of road construction contractor (Occupancy Code 1405)."
+      },
+      {
+        "heading": "Perils Covered",
+        "body": "Fire; Lightning; Explosion/Implosion; Aircraft Damage; Riot, Strike and Malicious Damage; Storm, Cyclone, Typhoon, Tempest, Hurricane, Tornado, Flood and Inundation (STFI); Impact Damage; Subsidence and Landslide including Rock Slide; Bursting and/or Overflowing of Water Tanks, Apparatus and Pipes; Missile Testing Operations; Leakage from Automatic Sprinkler Installations; Bush Fire. Earthquake (Fire and Shock) add-on opted, Zone III."
+      },
+      {
+        "heading": "Deductibles and Add-on Covers",
+        "body": "Excess: 5% of each and every claim subject to a minimum of Rs. 10,000/- for all perils other than Act of God perils. For Act of God perils (STFI and Earthquake): 5% of claim amount subject to a minimum of Rs. 25,000/-. Add-ons: Removal of Debris (in excess of 1% of claim amount), Architects, Surveyors and Consulting Engineers Fees (in excess of 3% of claim amount), Spontaneous Combustion for bitumen stocks."
+      },
+      {
+        "heading": "Important Conditions",
+        "body": "This policy is subject to the Standard Fire and Special Perils Policy wordings, clauses, warranties and endorsements attached hereto. Hazardous goods are to be stored as per PESO and local fire authority norms. The Insured shall maintain fire extinguishers and hydrant points in working order. Any claim must be intimated to the Company within 7 days of occurrence. Stamp duty of Rs. 1/- paid by consolidated stamp duty vide Govt. of Maharashtra order no. CSD/MUM/2025/1182."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, write to grievance@konkansgi.example.in or call toll free 1800-209-4471. If not resolved within 14 days, the Insured may approach the Insurance Ombudsman, Pune, or register a complaint on the Bima Bharosa portal of IRDAI. Please read the policy wordings carefully and inform the Company of any discrepancy within 15 days of receipt."
+      }
+    ],
+    "signatory": "For Konkan Surety & General Insurance Ltd. - Authorised Signatory, Pune Branch (Branch Code 1104), Shivajinagar, Pune. Date of Issue: 13/06/2025"
+  }
+}

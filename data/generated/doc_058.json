@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_058",
+    "document_type": "fire",
+    "layout": "schedule_table",
+    "amount_style": "inr_western",
+    "date_style": "ordinal_long",
+    "insurer": "Konkan Surety & General Insurance Ltd.",
+    "party_hint": "dredging and port services company in Visakhapatnam",
+    "omit": []
+  },
+  "request_id": "req_011CgyrcH7c2dr1FhhyZo2P2",
+  "generated": {
+    "truth": {
+      "insured_name": "Vizag Deepwater Dredging & Port Services Pvt. Ltd.",
+      "insurer_name": "Konkan Surety & General Insurance Ltd.",
+      "policy_or_bond_number": "KSG/FIR/VSK/2026/004817",
+      "document_type": "fire",
+      "sum_insured": 485000000.0,
+      "premium": 533500.0,
+      "gst_amount": 96030.0,
+      "period_start": "2026-04-01",
+      "period_end": "2027-03-31",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Vizag Deepwater Dredging & Port Services Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Konkan Surety & General Insurance Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy Number",
+        "text": "KSG/FIR/VSK/2026/004817"
+      },
+      "sum_insured": {
+        "label": "Total Sum Insured",
+        "text": "INR 485,000,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (excluding GST)",
+        "text": "INR 533,500.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "INR 96,030.00"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "1st April 2026"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (midnight)",
+        "text": "31st March 2027"
+      },
+      "beneficiary": null
+    },
+    "title": "Bharat Sookshma / Standard Fire and Special Perils Policy - Policy Schedule",
+    "insurer_address": "Konkan Surety & General Insurance Ltd., Regd. Office: Konkan Bhavan, 7th Floor, 14 Dr. Annie Besant Road, Worli, Mumbai 400018, Maharashtra. Policy Servicing Office: 3rd Floor, Sagar Plaza, Dwaraka Nagar, Visakhapatnam 530016, Andhra Pradesh. CIN: U66010MH2011PLC219874",
+    "insured_address": "Plot No. 22-B, Harbour Approach Road, Near Fishing Harbour Gate No. 2, Visakhapatnam 530001, Andhra Pradesh",
+    "extra_rows": [
+      {
+        "label": "Insured GSTIN",
+        "value": "37AAHCV4821K1Z6"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN947RP0012V01202526"
+      },
+      {
+        "label": "Location of Risk",
+        "value": "Dredger Maintenance Yard and Workshop, Survey No. 118/2, Mindi Industrial Area, Visakhapatnam 530012"
+      },
+      {
+        "label": "Intermediary Name & Code",
+        "value": "Coromandel Risk Advisors Pvt. Ltd. - Broker Code KSG/BRK/0419"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "INR 48,015.00"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "INR 48,015.00"
+      },
+      {
+        "label": "Total Premium Payable (including GST)",
+        "value": "INR 629,530.00"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "INR 1.00"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Description of Property Insured",
+        "body": "Building including plinth and foundation of the workshop and administrative block; plant and machinery including slipway winches, overhead cranes and dredge pump test rigs; stocks of spares, cutter heads, pipelines and consumables; furniture, fixtures and office equipment, all situated at the location of risk stated in this schedule. Floating craft and vessels afloat are excluded."
+      },
+      {
+        "heading": "Perils Covered",
+        "body": "Fire; lightning; explosion or implosion; aircraft damage; riot, strike and malicious damage; storm, cyclone, typhoon, tempest, hurricane, tornado, flood and inundation; impact damage; subsidence and landslide including rockslide; bursting or overflowing of water tanks, apparatus and pipes; missile testing operations; leakage from automatic sprinkler installations; bush fire. Earthquake (fire and shock) and terrorism are covered by add-on endorsements attached hereto."
+      },
+      {
+        "heading": "Excess and Special Conditions",
+        "body": "An excess of 5% of each and every claim subject to a minimum as per the policy wordings shall apply to all perils other than fire. Reinstatement value basis applies to buildings and plant and machinery. The insured shall maintain fire hydrant and portable extinguisher systems in working order and shall notify the insurer of any material alteration in occupancy or construction."
+      },
+      {
+        "heading": "Claims Intimation",
+        "body": "In the event of any loss, intimate the Visakhapatnam policy servicing office immediately and in any case within 7 days, quoting the policy number. Toll free claims helpline: 1800-209-5577 (fictional). Email: claims.vizag@konkansurety.example"
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, write to the Grievance Officer at the registered office or email care@konkansurety.example. If not resolved within 15 days, you may approach the Bima Bharosa portal of IRDAI or the Insurance Ombudsman having jurisdiction. This schedule is to be read with the policy wordings and endorsements, which form part of this contract."
+      }
+    ],
+    "signatory": "For and on behalf of Konkan Surety & General Insurance Ltd. - Authorised Signatory: R. Venkataraman, Branch Manager, Visakhapatnam. Place: Visakhapatnam"
+  }
+}

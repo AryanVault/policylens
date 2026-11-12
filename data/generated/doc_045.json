@@ -1,0 +1,121 @@
+{
+  "plan": {
+    "doc_id": "doc_045",
+    "document_type": "marine",
+    "layout": "certificate",
+    "amount_style": "lakh_crore",
+    "date_style": "month_first_long",
+    "insurer": "Vindhya Assurance Company Limited",
+    "party_hint": "dredging and port services company in Visakhapatnam",
+    "omit": [
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrWZxiHVfXJXWnP8Gvs",
+  "generated": {
+    "truth": {
+      "insured_name": "Rushikonda Dredging & Port Services Private Limited",
+      "insurer_name": "Vindhya Assurance Company Limited",
+      "policy_or_bond_number": "VAC/MHM/2026/0047192",
+      "document_type": "marine",
+      "sum_insured": 185000000.0,
+      "premium": 2220000.0,
+      "gst_amount": null,
+      "period_start": "2026-04-01",
+      "period_end": "2027-03-31",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of the Insured",
+        "text": "Rushikonda Dredging & Port Services Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Vindhya Assurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Certificate / Policy No.",
+        "text": "VAC/MHM/2026/0047192"
+      },
+      "sum_insured": {
+        "label": "Agreed Value / Sum Insured (Hull & Machinery)",
+        "text": "₹ 18.5 Crore"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "₹ 22.2 Lakhs"
+      },
+      "gst_amount": null,
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "April 1, 2026"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To",
+        "text": "March 31, 2027"
+      },
+      "beneficiary": null
+    },
+    "title": "CERTIFICATE OF MARINE INSURANCE - HULL AND MACHINERY (DREDGER)",
+    "insurer_address": "Vindhya Assurance Company Limited, Marine Underwriting Office, 4th Floor, Sagarmala Towers, Dwaraka Nagar Main Road, Visakhapatnam - 530016, Andhra Pradesh. CIN: U66030MP2009PLC071538. IRDAI Registration No. 187",
+    "insured_address": "Plot No. 23-B, Port Area Industrial Estate, Malkapuram, Visakhapatnam - 530011, Andhra Pradesh",
+    "extra_rows": [
+      {
+        "label": "Product UIN",
+        "value": "IRDAN187CP0012V01202425"
+      },
+      {
+        "label": "Insured GSTIN",
+        "value": "37AAKCR4817M1Z6"
+      },
+      {
+        "label": "Vessel Name / IMO No.",
+        "value": "TSHD Godavari Pearl / IMO 9876512"
+      },
+      {
+        "label": "Port of Registry",
+        "value": "Visakhapatnam"
+      },
+      {
+        "label": "Deductible (each accident or occurrence)",
+        "value": "₹ 5 Lakhs"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 500"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-0398215 / Coromandel Marine Insurance Brokers Pvt. Ltd."
+      },
+      {
+        "label": "Premium Receipt No.",
+        "value": "VAC-RCPT-2603-118874"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Particulars of the Vessel",
+        "body": "Trailing Suction Hopper Dredger, steel hull, built 2014, Gross Tonnage 4,860, hopper capacity 4,500 cubic metres, classed with an IACS member society, Indian flag. Main engines, dredge pumps, draghead, suction pipes and hopper doors are covered as part of hull and machinery."
+      },
+      {
+        "heading": "Conditions and Clauses",
+        "body": "Subject to Institute Time Clauses - Hulls (1/10/83) as adapted for Indian conditions, Institute Dredger Clauses, Institute War and Strikes Clauses - Hulls - Time, Collision Liability (three-fourths) Clause, Additional Perils (Inchmaree) Clause, Institute Radioactive Contamination Exclusion Clause, Cyber Attack Exclusion Clause and Sanction Limitation and Exclusion Clause. Warranted vessel maintains class throughout the period."
+      },
+      {
+        "heading": "Trading and Navigation Limits",
+        "body": "Warranted confined to dredging operations within Visakhapatnam Port, Gangavaram, Kakinada and Paradip port limits and their approach channels, including coastal transits between these ports in fair weather season only. Ocean towage outside these limits is held covered subject to prior notice and agreement of additional terms."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "In the event of any accident or damage, immediate notice must be given to the Marine Claims Department of the insurer at the office address stated above and a surveyor appointed before repairs commence. Original certificate, log book extracts, master's protest and class survey reports are to be submitted with the claim."
+      },
+      {
+        "heading": "Important Notice",
+        "body": "This certificate is issued under and is subject to the terms of the master policy held at the issuing office. Any misrepresentation or non-disclosure of material facts shall render the cover voidable. For grievances, contact the Grievance Redressal Officer of the insurer or approach the Insurance Ombudsman at Hyderabad."
+      }
+    ],
+    "signatory": "For Vindhya Assurance Company Limited, Authorised Signatory (Chief Manager - Marine Hull), Visakhapatnam"
+  }
+}

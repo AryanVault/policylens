@@ -1,0 +1,14 @@
+{
+  "insured_name": "Sahyadri Infraroads Private Limited",
+  "insurer_name": "Kaveri Assurance Co. Ltd.",
+  "policy_or_bond_number": "KAC/GHI/2025/PN/004817",
+  "document_type": "health",
+  "sum_insured": 18000000.0,
+  "premium": 742500.0,
+  "gst_amount": 133650.0,
+  "period_start": "2025-07-15",
+  "period_end": "2026-07-14",
+  "beneficiary": null,
+  "doc_id": "doc_054",
+  "template": "certificate"
+}

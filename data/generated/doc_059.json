@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_059",
+    "document_type": "motor",
+    "layout": "two_column",
+    "amount_style": "words_paren",
+    "date_style": "d_mon_y",
+    "insurer": "Konkan Surety & General Insurance Ltd.",
+    "party_hint": "road construction contractor in Pune",
+    "omit": []
+  },
+  "request_id": "req_011Cgyrcag3dFn4pbNrLmTT5",
+  "generated": {
+    "truth": {
+      "insured_name": "Sahyadri Infraroads Private Limited",
+      "insurer_name": "Konkan Surety & General Insurance Ltd.",
+      "policy_or_bond_number": "KSG/MTR/CVP/2025/0048817",
+      "document_type": "motor",
+      "sum_insured": 3250000.0,
+      "premium": 98650.0,
+      "gst_amount": 17757.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Insured",
+        "text": "Sahyadri Infraroads Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Konkan Surety & General Insurance Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Policy No.",
+        "text": "KSG/MTR/CVP/2025/0048817"
+      },
+      "sum_insured": {
+        "label": "Total Insured Declared Value (IDV)",
+        "text": "Rs. 32,50,000/- (Rupees Thirty Two Lakh Fifty Thousand Only)"
+      },
+      "premium": {
+        "label": "Net Premium (Own Damage + Liability)",
+        "text": "Rs. 98,650/- (Rupees Ninety Eight Thousand Six Hundred Fifty Only)"
+      },
+      "gst_amount": {
+        "label": "GST @ 18% (IGST)",
+        "text": "Rs. 17,757/- (Rupees Seventeen Thousand Seven Hundred Fifty Seven Only)"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15-Jun-2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "14-Jun-2026"
+      },
+      "beneficiary": null
+    },
+    "title": "Commercial Vehicle Package Policy - Goods Carrying Vehicle (Policy Schedule cum Certificate of Insurance)",
+    "insurer_address": "Konkan Surety & General Insurance Ltd., Registered Office: Konkan House, 5th Floor, 12 Ravindra Marg, Fort, Mumbai - 400001, Maharashtra. Pune Branch: 2nd Floor, Deccan Vista, Fergusson College Road, Shivajinagar, Pune - 411004. CIN: U66010MH2011PLC219874. IRDAI Reg. No. 187. Toll Free: 1800-209-4417",
+    "insured_address": "Office No. 304, Shivneri Arcade, Baner Road, Baner, Pune - 411045, Maharashtra",
+    "extra_rows": [
+      {
+        "label": "Vehicle Registration No.",
+        "value": "MH-12-RT-4471"
+      },
+      {
+        "label": "Vehicle Description",
+        "value": "Heavy Goods Vehicle - Tipper (10 Wheeler), GVW 28,000 kg, Diesel, Year of Manufacture 2023, Engine No. DH6T23K118742, Chassis No. MB1TPR10K3PC64519"
+      },
+      {
+        "label": "Insurer GSTIN",
+        "value": "27AACCK4821M1Z6"
+      },
+      {
+        "label": "Insured GSTIN",
+        "value": "27AAJCS7712P1Z3"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Mulshi Insurance Brokers Pvt. Ltd. / BRK-0027316"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN187RP0011V01202526"
+      },
+      {
+        "label": "Compulsory Deductible (Own Damage, per claim)",
+        "value": "Rs. 1,500/- (Rupees One Thousand Five Hundred Only)"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 1,16,407/- (Rupees One Lakh Sixteen Thousand Four Hundred Seven Only)"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Limitations as to Use",
+        "body": "The policy covers use of the vehicle only under a public or private carrier permit within the meaning of the Motor Vehicles Act, 1988, for the carriage of construction material, aggregates, murrum and earth in connection with the insured's road construction business. The policy does not cover use for organised racing, pace making, reliability trials, speed testing, or use for carriage of hazardous goods unless specifically endorsed."
+      },
+      {
+        "heading": "Driver Clause",
+        "body": "Any person including the insured, provided that the person driving holds an effective and valid driving licence authorising him to drive a transport vehicle of this class at the time of the accident and is not disqualified from holding or obtaining such a licence. Provided also that the person holding an effective learner's licence may also drive the vehicle when not used for transport of goods at the time of the accident, and such person satisfies the requirements of Rule 3 of the Central Motor Vehicles Rules, 1989."
+      },
+      {
+        "heading": "Cover Details and Add-ons",
+        "body": "Section I - Own Damage including fire, theft, riot, strike, malicious damage, flood, inundation and landslide. Section II - Liability to Third Parties for death, bodily injury and property damage as per the Motor Vehicles Act, 1988. Statutory legal liability to paid driver and cleaner (IMT 39) and Compulsory Personal Accident cover for Owner-Driver are included. Add-on: Nil Depreciation on rubber, plastic and fibre parts. Geographical area: India."
+      },
+      {
+        "heading": "Important Notice",
+        "body": "The insured is not indemnified if the vehicle is used or driven otherwise than in accordance with this schedule. Any payment made by the Company by reason of wider terms appearing in the certificate in order to comply with the Motor Vehicles Act, 1988 is recoverable from the insured. Stamp duty has been paid as per the Maharashtra Stamp Act through consolidated stamp duty vide order no. CSD/MUM/2025/1184. Claims intimation: claims.pune@konkansurety.example or Toll Free 1800-209-4417."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, please contact the Grievance Redressal Officer at the Registered Office or write to grievance@konkansurety.example. If not resolved within 15 days, you may approach the Bima Bharosa portal of IRDAI or the Insurance Ombudsman, Pune having jurisdiction over the place of residence of the insured. Insurance is the subject matter of solicitation."
+      }
+    ],
+    "signatory": "For and on behalf of Konkan Surety & General Insurance Ltd. - Authorised Signatory, Pune Branch (Digitally signed, Issued at Pune)"
+  }
+}

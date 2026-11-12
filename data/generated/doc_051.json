@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_051",
+    "document_type": "motor",
+    "layout": "certificate",
+    "amount_style": "rupee_indian",
+    "date_style": "month_first_long",
+    "insurer": "Konkan Surety & General Insurance Ltd.",
+    "party_hint": "IT services company in Bengaluru",
+    "omit": []
+  },
+  "request_id": "req_011CgyrYwq9oT3fsr7LvG32a",
+  "generated": {
+    "truth": {
+      "insured_name": "Vyomasetu Infotech Solutions Pvt. Ltd.",
+      "insurer_name": "Konkan Surety & General Insurance Ltd.",
+      "policy_or_bond_number": "KSG/MOT/2026/PC/0048213",
+      "document_type": "motor",
+      "sum_insured": 1850000.0,
+      "premium": 42380.0,
+      "gst_amount": 7628.4,
+      "period_start": "2026-04-15",
+      "period_end": "2027-04-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Insured",
+        "text": "Vyomasetu Infotech Solutions Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Issued by",
+        "text": "Konkan Surety & General Insurance Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Certificate cum Policy No.",
+        "text": "KSG/MOT/2026/PC/0048213"
+      },
+      "sum_insured": {
+        "label": "Total Insured's Declared Value (IDV)",
+        "text": "₹18,50,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (excl. GST)",
+        "text": "₹42,380.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "₹7,628.40"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "April 15, 2026"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (Midnight)",
+        "text": "April 14, 2027"
+      },
+      "beneficiary": null
+    },
+    "title": "CERTIFICATE OF INSURANCE CUM POLICY SCHEDULE - PRIVATE CAR PACKAGE POLICY",
+    "insurer_address": "Konkan Surety & General Insurance Ltd., Regd. & Corporate Office: 7th Floor, Sagarmala Towers, Plot No. 22, Sector 19D, Vashi, Navi Mumbai - 400703, Maharashtra. CIN: U66010MH2011PLC219874. IRDAI Reg. No. 187. Servicing Branch: 3rd Floor, Prestige Arcadia, 41 Residency Road, Bengaluru - 560025",
+    "insured_address": "Vyomasetu Infotech Solutions Pvt. Ltd., No. 118, 4th Cross, 5th Block, Koramangala Industrial Layout, Bengaluru - 560095, Karnataka",
+    "extra_rows": [
+      {
+        "label": "Vehicle Registration No.",
+        "value": "KA-03-MX-4821"
+      },
+      {
+        "label": "Insured GSTIN",
+        "value": "29AAHCV4821K1Z7"
+      },
+      {
+        "label": "Insurer GSTIN (Karnataka)",
+        "value": "29AAKCK7712M1ZP"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "₹3,814.20"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "₹3,814.20"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "₹50,008.40"
+      },
+      {
+        "label": "Compulsory Deductible",
+        "value": "₹1,000.00"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Nandi Hills Insurance Brokers Pvt. Ltd. / BRK-KA-004417"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Schedule of Vehicle",
+        "body": "Make / Model: Fictiva Motors Sereno 2.0 AT Diesel. Type of Body: Saloon. Year of Manufacture: 2024. Cubic Capacity: 1956 cc. Seating Capacity: 5 (including driver). Engine No.: FM20D7741926. Chassis No.: MA1FS2DK9R4A51208. Registration Authority: RTO Bengaluru (Central). Fuel Type: Diesel. Hypothecation: Nil."
+      },
+      {
+        "heading": "Limitations as to Use",
+        "body": "The policy covers use of the vehicle for any purpose other than hire or reward, carriage of goods (other than samples or personal luggage), organised racing, pace making, speed testing, reliability trials, or any purpose in connection with the motor trade. Use for official purposes of the insured company by its employees is covered."
+      },
+      {
+        "heading": "Persons or Classes of Persons Entitled to Drive",
+        "body": "Any person including the insured, provided that the person driving holds an effective driving licence at the time of the accident and is not disqualified from holding or obtaining such a licence. Provided also that the person holding an effective learner's licence may also drive the vehicle when not used for transport of passengers, and such person satisfies the requirements of Rule 3 of the Central Motor Vehicles Rules, 1989."
+      },
+      {
+        "heading": "Add-on Covers Opted",
+        "body": "Zero Depreciation (UIN: IRDAN187RP0021V01202526/A0011V01), Engine Protect (UIN: IRDAN187RP0021V01202526/A0014V01), Roadside Assistance, and Return to Invoice. Legal Liability to Paid Driver under IMT 28 and Personal Accident cover for Owner-Driver are not applicable as the registered owner is a company; PA cover for unnamed passengers under IMT 16 is included. Policy UIN: IRDAN187RP0021V01202526."
+      },
+      {
+        "heading": "Certification",
+        "body": "I/We hereby certify that the policy to which this certificate relates as well as this certificate of insurance are issued in accordance with the provisions of Chapter X and Chapter XI of the Motor Vehicles Act, 1988. Stamp duty paid by consolidated stamp duty challan as per Government of Maharashtra order. Receipt No. KSG/RCPT/BLR/2026/118734. In the event of any claim, please contact our toll-free number 1800-209-4471 or write to motorclaims@konkansurety-example.in. For grievances, contact the Grievance Redressal Officer at the Corporate Office or approach the Insurance Ombudsman, Bengaluru."
+      }
+    ],
+    "signatory": "For Konkan Surety & General Insurance Ltd. - Authorised Signatory (R. Manjunath Hegde, Branch Manager, Bengaluru)"
+  }
+}

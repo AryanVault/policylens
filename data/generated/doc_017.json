@@ -1,0 +1,125 @@
+{
+  "plan": {
+    "doc_id": "doc_017",
+    "document_type": "surety_bond",
+    "layout": "schedule_table",
+    "amount_style": "rs_slash",
+    "date_style": "d_mon_y",
+    "insurer": "Ganga Valley General Insurance Co. Ltd.",
+    "party_hint": "auto-components manufacturer in Chennai",
+    "omit": []
+  },
+  "request_id": "req_011CgyrMFu1h2T5gKCyWtYwC",
+  "generated": {
+    "truth": {
+      "insured_name": "Kaveri Precision Autoparts Pvt. Ltd.",
+      "insurer_name": "Ganga Valley General Insurance Co. Ltd.",
+      "policy_or_bond_number": "GVGI/SB/CHN/2025/004187",
+      "document_type": "surety_bond",
+      "sum_insured": 12500000.0,
+      "premium": 234400.0,
+      "gst_amount": 42192.0,
+      "period_start": "2025-07-15",
+      "period_end": "2027-01-14",
+      "beneficiary": "Chennai Metropolitan Bus Fleet Corporation Ltd."
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal / Contractor",
+        "text": "Kaveri Precision Autoparts Pvt. Ltd."
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Ganga Valley General Insurance Co. Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "GVGI/SB/CHN/2025/004187"
+      },
+      "sum_insured": {
+        "label": "Bond Amount (Guaranteed Sum)",
+        "text": "Rs. 1,25,00,000/-"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 2,34,400/-"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 42,192/-"
+      },
+      "period_start": {
+        "label": "Bond Validity - From",
+        "text": "15-Jul-2025"
+      },
+      "period_end": {
+        "label": "Bond Validity - To",
+        "text": "14-Jan-2027"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Chennai Metropolitan Bus Fleet Corporation Ltd."
+      }
+    },
+    "title": "SURETY INSURANCE CONTRACT - PERFORMANCE BOND SCHEDULE",
+    "insurer_address": "Ganga Valley General Insurance Co. Ltd., Regional Office: 4th Floor, Thirumalai Towers, 118 Anna Salai, Teynampet, Chennai - 600018, Tamil Nadu. Registered Office: 22 Riverside Business Park, Haridwar Road, Dehradun - 248001, Uttarakhand. CIN: U66010UK2011PLC041276. IRDAI Reg. No. 187",
+    "insured_address": "Plot No. B-47, SIPCOT Industrial Park, Irungattukottai, Sriperumbudur Taluk, Kancheepuram District, Chennai - 602117, Tamil Nadu",
+    "extra_rows": [
+      {
+        "label": "UIN",
+        "value": "IRDAN187RP0004V01202324"
+      },
+      {
+        "label": "Principal GSTIN",
+        "value": "33AAHCK4821M1Z7"
+      },
+      {
+        "label": "Intermediary Name & Code",
+        "value": "Coromandel Risk Advisors Pvt. Ltd. - BRK/CHN/00932"
+      },
+      {
+        "label": "Underlying Contract Ref.",
+        "value": "CMBFC/PROC/EV-SPARES/2025-26/117 dated 02-Jul-2025"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 21,096/-"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 21,096/-"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 2,76,592/-"
+      },
+      {
+        "label": "Stamp Duty Paid (e-Stamp No. IN-TN48213097561202W)",
+        "value": "Rs. 500/-"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Nature of Guarantee",
+        "body": "This Surety Insurance Contract is issued as a Contract Performance Bond in accordance with the IRDAI (Surety Insurance Contracts) Guidelines. The Surety undertakes to pay the Obligee, on receipt of a valid written demand, any amount up to the guaranteed sum stated in the Schedule, in the event the Principal fails to perform its obligations under the underlying supply contract for drivetrain components and brake assemblies."
+      },
+      {
+        "heading": "Claim Procedure",
+        "body": "Any claim under this bond must be lodged in writing by an authorised officer of the Obligee at the Regional Office of the Surety within the validity period or within the claim period of twelve months thereafter, accompanied by a copy of the notice of default served on the Principal. The Surety shall settle admissible claims within 30 days of receipt of complete documents."
+      },
+      {
+        "heading": "Conditions",
+        "body": "1. The liability of the Surety shall not exceed the guaranteed sum under any circumstances. 2. This bond is irrevocable and shall not be cancelled during its validity without the written consent of the Obligee. 3. Any variation in the terms of the underlying contract shall not discharge the Surety, provided the guaranteed sum is not increased. 4. The Principal shall indemnify the Surety for all amounts paid under this bond as per the Deed of Indemnity executed on even date."
+      },
+      {
+        "heading": "Jurisdiction",
+        "body": "This contract shall be governed by the laws of India and all disputes arising hereunder shall be subject to the exclusive jurisdiction of the courts at Chennai."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, contact the Grievance Officer at grievance.chennai@gangavalleygi.example or call toll-free 1800-419-7781. If unresolved within 30 days, you may approach the Insurance Ombudsman, Chennai, or register on the Bima Bharosa portal of IRDAI."
+      }
+    ],
+    "signatory": "For Ganga Valley General Insurance Co. Ltd. - Authorised Signatory, R. Venkatasubramanian, Chief Manager - Surety Underwriting, Chennai Regional Office"
+  }
+}

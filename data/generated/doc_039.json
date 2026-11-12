@@ -1,0 +1,124 @@
+{
+  "plan": {
+    "doc_id": "doc_039",
+    "document_type": "surety_bond",
+    "layout": "certificate",
+    "amount_style": "words_paren",
+    "date_style": "month_first_long",
+    "insurer": "Deccan Shield Insurance Limited",
+    "party_hint": "civil works contractor in Lucknow",
+    "omit": [
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrUMMcjrGLW8eWtfJw2",
+  "generated": {
+    "truth": {
+      "insured_name": "Awadh Infracon Builders Private Limited",
+      "insurer_name": "Deccan Shield Insurance Limited",
+      "policy_or_bond_number": "DSIL/SB/LKO/2025/004718",
+      "document_type": "surety_bond",
+      "sum_insured": 12500000.0,
+      "premium": 225000.0,
+      "gst_amount": null,
+      "period_start": "2025-06-15",
+      "period_end": "2027-06-14",
+      "beneficiary": "Uttar Pradesh State Civic Works Corporation Limited"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal (Contractor)",
+        "text": "Awadh Infracon Builders Private Limited"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Deccan Shield Insurance Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Surety Bond No.",
+        "text": "DSIL/SB/LKO/2025/004718"
+      },
+      "sum_insured": {
+        "label": "Bond Amount (Guaranteed Sum)",
+        "text": "Rs. 1,25,00,000/- (Rupees One Crore Twenty Five Lakh Only)"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 2,25,000/- (Rupees Two Lakh Twenty Five Thousand Only)"
+      },
+      "gst_amount": null,
+      "period_start": {
+        "label": "Bond Validity - From",
+        "text": "June 15, 2025"
+      },
+      "period_end": {
+        "label": "Bond Validity - To",
+        "text": "June 14, 2027"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Uttar Pradesh State Civic Works Corporation Limited"
+      }
+    },
+    "title": "CERTIFICATE OF SURETY - CONTRACT PERFORMANCE BOND",
+    "insurer_address": "Deccan Shield Insurance Limited, Surety Business Unit, 4th Floor, Halwasiya Trade Tower, 11 Ashok Marg, Hazratganj, Lucknow, Uttar Pradesh - 226001. Registered Office: Plot 27, Banjara Hills Road No. 3, Hyderabad, Telangana - 500034. CIN: U66010TG2016PLC109842",
+    "insured_address": "Awadh Infracon Builders Private Limited, 2nd Floor, Shubham Complex, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh - 226010",
+    "extra_rows": [
+      {
+        "label": "Product UIN",
+        "value": "IRDAN179CP0004V01202324"
+      },
+      {
+        "label": "Contract Reference",
+        "value": "UPSCWCL/LKO/CIV/2025-26/117 dated May 28, 2025"
+      },
+      {
+        "label": "Contract Value (for reference only, not the bond amount)",
+        "value": "Rs. 12,50,00,000/- (Rupees Twelve Crore Fifty Lakh Only)"
+      },
+      {
+        "label": "Stamp Duty Paid",
+        "value": "Rs. 500/- (Rupees Five Hundred Only)"
+      },
+      {
+        "label": "Principal GSTIN",
+        "value": "09AAKCA4417M1Z6"
+      },
+      {
+        "label": "Intermediary Name / Code",
+        "value": "Gomti Risk Advisors Pvt. Ltd. (Direct Broker) / BRK-0093317"
+      },
+      {
+        "label": "Premium Receipt No.",
+        "value": "DSIL/LKO/RCPT/25/0061284 dated June 12, 2025"
+      },
+      {
+        "label": "Claim Lodgement Period",
+        "value": "Three months after expiry of bond validity"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Certificate of Surety",
+        "body": "This is to certify that Deccan Shield Insurance Limited, the Surety named in the Schedule above, has issued this Contract Performance Bond on behalf of the Principal in favour of the Obligee in respect of the contract for construction of stormwater drains, road resurfacing and allied civil works in Zone IV, Lucknow, as referenced in the Schedule. The Surety undertakes to pay the Obligee, on first written demand, any sum or sums not exceeding the Bond Amount stated in the Schedule, upon the Obligee certifying that the Principal has failed to perform its obligations under the said contract."
+      },
+      {
+        "heading": "Conditions of the Bond",
+        "body": "1. The liability of the Surety shall not exceed the Bond Amount stated in the Schedule under any circumstances. 2. Any demand under this bond must be made in writing on the Obligee's letterhead, signed by an authorised officer, and received at the Surety's issuing office within the validity period or the claim lodgement period stated herein. 3. This bond shall not be affected by any change in the constitution of the Principal, the Surety or the Obligee. 4. No extension of time or variation in contract terms granted by the Obligee shall discharge the Surety, provided the Surety is intimated in writing. 5. This bond is governed by the laws of India and subject to the exclusive jurisdiction of courts at Lucknow."
+      },
+      {
+        "heading": "Indemnity and Recourse",
+        "body": "The Principal has executed a Deed of Indemnity in favour of the Surety and agrees to reimburse the Surety for any amount paid under this bond together with costs and expenses incurred. The Surety reserves its right of recourse against the Principal and its promoter-guarantors in terms of the said Deed of Indemnity."
+      },
+      {
+        "heading": "Verification",
+        "body": "The authenticity of this certificate may be verified by writing to suretyverify@deccanshield.example.in or by calling the Surety Desk on 0522-4093 7710, quoting the Surety Bond Number. Insurance is the subject matter of solicitation. This product is filed with IRDAI under the UIN shown above."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, the Principal or Obligee may contact the Grievance Officer, Deccan Shield Insurance Limited, at grievance@deccanshield.example.in. If unresolved within 15 days, the matter may be escalated through the Bima Bharosa portal or to the Insurance Ombudsman having jurisdiction over Lucknow."
+      }
+    ],
+    "signatory": "For and on behalf of Deccan Shield Insurance Limited - Authorised Signatory, Ramesh Chandra Tiwari, Head - Surety Underwriting (North Zone), Lucknow, issued on June 13, 2025"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "plan": {
+    "doc_id": "doc_057",
+    "document_type": "surety_bond",
+    "layout": "certificate",
+    "amount_style": "rs_slash",
+    "date_style": "month_first_long",
+    "insurer": "Kaveri Assurance Co. Ltd.",
+    "party_hint": "solar EPC contractor in Jaipur",
+    "omit": [
+      "policy_or_bond_number"
+    ]
+  },
+  "request_id": "req_011Cgyrb9onTDZv6McJijt2L",
+  "generated": {
+    "truth": {
+      "insured_name": "Marudhara Solarworks Private Limited",
+      "insurer_name": "Kaveri Assurance Co. Ltd.",
+      "policy_or_bond_number": null,
+      "document_type": "surety_bond",
+      "sum_insured": 18500000.0,
+      "premium": 222000.0,
+      "gst_amount": 39960.0,
+      "period_start": "2026-04-15",
+      "period_end": "2027-10-14",
+      "beneficiary": "Rajasthan State Rooftop Solar Mission Directorate"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal / Contractor",
+        "text": "Marudhara Solarworks Private Limited"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Kaveri Assurance Co. Ltd."
+      },
+      "policy_or_bond_number": null,
+      "sum_insured": {
+        "label": "Bond Amount (Sum Assured)",
+        "text": "Rs. 1,85,00,000/-"
+      },
+      "premium": {
+        "label": "Net Premium",
+        "text": "Rs. 2,22,000/-"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "Rs. 39,960/-"
+      },
+      "period_start": {
+        "label": "Bond Period - From",
+        "text": "April 15, 2026"
+      },
+      "period_end": {
+        "label": "Bond Period - To",
+        "text": "October 14, 2027"
+      },
+      "beneficiary": {
+        "label": "Obligee / Beneficiary",
+        "text": "Rajasthan State Rooftop Solar Mission Directorate"
+      }
+    },
+    "title": "CERTIFICATE OF SURETY - CONTRACT PERFORMANCE BOND",
+    "insurer_address": "Kaveri Assurance Co. Ltd., Surety and Credit Division, 7th Floor, Vasudha Towers, Plot No. 41, Bandra-Kurla Link Road, Kalina, Mumbai - 400098, Maharashtra. CIN: U66010MH2014PLC258731. IRDAI Registration No. 187",
+    "insured_address": "Marudhara Solarworks Private Limited, B-214, Shri Gopal Business Park, Lal Kothi Scheme, Tonk Road, Jaipur - 302015, Rajasthan",
+    "extra_rows": [
+      {
+        "label": "Principal GSTIN",
+        "value": "08AAKCM4821R1Z6"
+      },
+      {
+        "label": "Surety GSTIN (Rajasthan)",
+        "value": "08AACCK7735H1ZQ"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN187CP0003V01202425"
+      },
+      {
+        "label": "Intermediary Code / Name",
+        "value": "BRK-RJ-04417 / Aravali Insurance Brokers Pvt. Ltd."
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "Rs. 19,980/-"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "Rs. 19,980/-"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "Rs. 2,61,960/-"
+      },
+      {
+        "label": "Stamp Duty Paid (Rajasthan)",
+        "value": "Rs. 500/-"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Nature of Obligation",
+        "body": "This certificate evidences a Contract Performance Bond issued by the Surety on behalf of the Principal in favour of the Obligee, securing the due performance of the design, supply, installation, testing and commissioning of grid-connected rooftop solar photovoltaic systems on government buildings, together with comprehensive operation and maintenance obligations, as per the Letter of Award and the executed contract agreement between the Principal and the Obligee."
+      },
+      {
+        "heading": "Undertaking of the Surety",
+        "body": "The Surety irrevocably undertakes to pay to the Obligee, upon receipt of a written demand stating that the Principal has failed to perform its obligations under the contract, any sum or sums up to the Bond Amount stated in this certificate, without demur and without reference to the Principal. Claims must be lodged with the Surety at its address stated herein on or before the expiry of the Bond Period, failing which the liability of the Surety shall stand discharged."
+      },
+      {
+        "heading": "Conditions",
+        "body": "1. The liability of the Surety shall not exceed the Bond Amount in aggregate. 2. Any amendment to the underlying contract that increases the scope or value of works shall require prior written consent of the Surety. 3. The Principal shall indemnify the Surety against all claims paid under this bond in terms of the Deed of Indemnity executed separately. 4. This bond is governed by the laws of India and subject to the exclusive jurisdiction of the courts at Jaipur."
+      },
+      {
+        "heading": "Regulatory Information",
+        "body": "Issued under the IRDAI (Surety Insurance Contracts) Guidelines. The bond is non-transferable and non-assignable. Premium has been received in full prior to issuance in accordance with Section 64VB of the Insurance Act, 1938. Insurance is the subject matter of solicitation. For grievances, write to the Grievance Redressal Officer of the Surety or approach the Insurance Ombudsman, Jaipur."
+      }
+    ],
+    "signatory": "For and on behalf of Kaveri Assurance Co. Ltd. - Authorised Signatory: Ritika Shekhawat, Chief Manager - Surety Underwriting, Jaipur Regional Office"
+  }
+}

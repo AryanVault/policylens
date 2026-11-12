@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_028",
+    "document_type": "surety_bond",
+    "layout": "prose_deed",
+    "amount_style": "inr_western",
+    "date_style": "ordinal_long",
+    "insurer": "Konark General Insurance Company Ltd.",
+    "party_hint": "cold-chain logistics firm in Kolkata",
+    "omit": [
+      "premium",
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrRUQx93o4uaza6M5Bu",
+  "generated": {
+    "truth": {
+      "insured_name": "Hooghly Frostline Logistics Private Limited",
+      "insurer_name": "Konark General Insurance Company Ltd.",
+      "policy_or_bond_number": "KGI/SB/PB/2025/0047821",
+      "document_type": "surety_bond",
+      "sum_insured": 4850000.0,
+      "premium": null,
+      "gst_amount": null,
+      "period_start": "2025-07-15",
+      "period_end": "2027-01-14",
+      "beneficiary": "Eastern Region Food Storage Corporation Limited"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal",
+        "text": "Hooghly Frostline Logistics Private Limited"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Konark General Insurance Company Ltd."
+      },
+      "policy_or_bond_number": {
+        "label": "Surety Bond No.",
+        "text": "KGI/SB/PB/2025/0047821"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "INR 4,850,000.00"
+      },
+      "premium": null,
+      "gst_amount": null,
+      "period_start": {
+        "label": "Effective From",
+        "text": "15th July 2025"
+      },
+      "period_end": {
+        "label": "Valid Until",
+        "text": "14th January 2027"
+      },
+      "beneficiary": {
+        "label": "Obligee",
+        "text": "Eastern Region Food Storage Corporation Limited"
+      }
+    },
+    "title": "CONTRACT PERFORMANCE SURETY BOND",
+    "insurer_address": "Konark House, Plot No. 14, Janpath, Saheed Nagar, Bhubaneswar 751007, Odisha",
+    "insured_address": "Unit 7B, Sector V Logistics Park, Salt Lake, Kolkata 700091, West Bengal",
+    "extra_rows": [
+      {
+        "label": "GSTIN of Principal",
+        "value": "19AADCH4721K1Z6"
+      },
+      {
+        "label": "UIN",
+        "value": "IRDAN173CP0019V01202324"
+      },
+      {
+        "label": "Stamp Duty Paid (West Bengal e-Stamp)",
+        "value": "INR 500.00"
+      },
+      {
+        "label": "Contract Reference",
+        "value": "ERFSC/CC/TND/2025-26/118 dated 2nd July 2025"
+      },
+      {
+        "label": "Intermediary Code",
+        "value": "BRK-KOL-004417"
+      },
+      {
+        "label": "Claim Lodgement Period Ends",
+        "value": "14th April 2027"
+      },
+      {
+        "label": "Surety CIN",
+        "value": "U66010OR2018PLC029461"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Know All Men By These Presents",
+        "body": "THIS SURETY BOND, bearing Surety Bond No. KGI/SB/PB/2025/0047821, is executed at Kolkata by Konark General Insurance Company Ltd., a company incorporated under the Companies Act, 2013 and registered with the Insurance Regulatory and Development Authority of India, having its registered office at Konark House, Plot No. 14, Janpath, Saheed Nagar, Bhubaneswar 751007, Odisha (hereinafter called the Surety, which expression shall include its successors and permitted assigns), on behalf of Hooghly Frostline Logistics Private Limited, having its principal place of business at Unit 7B, Sector V Logistics Park, Salt Lake, Kolkata 700091, West Bengal (hereinafter called the Principal), in favour of Eastern Region Food Storage Corporation Limited (hereinafter called the Obligee)."
+      },
+      {
+        "heading": "Recitals",
+        "body": "WHEREAS the Principal has been awarded a contract by the Obligee under Contract Reference ERFSC/CC/TND/2025-26/118 dated 2nd July 2025 for the operation, maintenance and temperature-controlled transportation of perishable food grains, dairy and horticulture produce through multi-chamber cold storage facilities and reefer vehicles in the districts of North 24 Parganas, Howrah and Hooghly; AND WHEREAS the terms of the said contract require the Principal to furnish a performance security in the form of a surety bond issued by an insurer registered with IRDAI, in accordance with the IRDAI (Surety Insurance Contracts) Guidelines; NOW THEREFORE the Surety agrees to issue this bond on the terms set out below."
+      },
+      {
+        "heading": "Obligation of the Surety",
+        "body": "The Surety hereby irrevocably and unconditionally undertakes to pay to the Obligee, on its first written demand and without demur, protest or reference to the Principal, any sum or sums up to and not exceeding the Bond Amount of INR 4,850,000.00 (Rupees Forty-Eight Lakh Fifty Thousand only), upon the Obligee stating in such demand that the Principal has failed to perform its obligations under the said contract. The Obligee shall not be required to prove or establish the default, and the decision of the Obligee as to the amount due shall be final and binding upon the Surety, provided that the aggregate liability of the Surety under this bond shall in no event exceed the Bond Amount."
+      },
+      {
+        "heading": "Validity and Claim Period",
+        "body": "This bond shall be Effective From 15th July 2025 and shall remain in full force and Valid Until 14th January 2027. Any demand under this bond must be lodged in writing with the Surety at its Kolkata Surety Underwriting Cell, 3rd Floor, Camac Square, 24 Camac Street, Kolkata 700016, on or before 14th April 2027, after which the Surety shall stand discharged from all liability hereunder, whether or not this original instrument is returned. The validity may be extended only by a written endorsement issued by the Surety at the request of the Principal."
+      },
+      {
+        "heading": "General Conditions",
+        "body": "The obligations of the Surety shall not be impaired or discharged by any variation in the terms of the contract, extension of time, forbearance or indulgence granted by the Obligee to the Principal, or by any change in the constitution of the Principal, the Surety or the Obligee. This bond is non-transferable and shall be governed by the laws of India, with courts at Kolkata having exclusive jurisdiction. The stamp duty applicable under the Indian Stamp Act, 1899 as applicable to West Bengal has been duly paid by e-stamp. Insurance is the subject matter of solicitation. Grievances, if any, may be addressed to the Grievance Redressal Officer of the Surety or to the Insurance Ombudsman, Kolkata."
+      },
+      {
+        "heading": "Execution",
+        "body": "IN WITNESS WHEREOF the Surety has caused this bond to be signed and sealed by its duly authorised officer at Kolkata on this 15th day of July 2025. Signed for and on behalf of Konark General Insurance Company Ltd. In the presence of witnesses: 1. Subhankar Dasgupta, Salt Lake, Kolkata; 2. Ritika Mohanty, Bhubaneswar."
+      }
+    ],
+    "signatory": "Arindam Sen Mallick, Authorised Signatory and Head - Surety Underwriting, Eastern Zone, Konark General Insurance Company Ltd."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "doc_id": "doc_006",
+    "document_type": "health",
+    "layout": "certificate",
+    "amount_style": "rupee_indian",
+    "date_style": "dmy_dot",
+    "insurer": "Vindhya Assurance Company Limited",
+    "party_hint": "water-supply pipeline contractor in Bhubaneswar",
+    "omit": []
+  },
+  "request_id": "req_011CgyrHDMMMUerFbKphTPAy",
+  "generated": {
+    "truth": {
+      "insured_name": "Kalinga Jalpath Infrastructure Private Limited",
+      "insurer_name": "Vindhya Assurance Company Limited",
+      "policy_or_bond_number": "VAC/HL/GMC/2025/004817",
+      "document_type": "health",
+      "sum_insured": 36000000.0,
+      "premium": 684500.0,
+      "gst_amount": 123210.0,
+      "period_start": "2025-06-15",
+      "period_end": "2026-06-14",
+      "beneficiary": null
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Name of Policyholder",
+        "text": "Kalinga Jalpath Infrastructure Private Limited"
+      },
+      "insurer_name": {
+        "label": "Insurer",
+        "text": "Vindhya Assurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Master Policy No.",
+        "text": "VAC/HL/GMC/2025/004817"
+      },
+      "sum_insured": {
+        "label": "Aggregate Sum Insured",
+        "text": "₹3,60,00,000.00"
+      },
+      "premium": {
+        "label": "Net Premium (excl. GST)",
+        "text": "₹6,84,500.00"
+      },
+      "gst_amount": {
+        "label": "GST @ 18%",
+        "text": "₹1,23,210.00"
+      },
+      "period_start": {
+        "label": "Period of Insurance - From",
+        "text": "15.06.2025"
+      },
+      "period_end": {
+        "label": "Period of Insurance - To (midnight)",
+        "text": "14.06.2026"
+      },
+      "beneficiary": null
+    },
+    "title": "CERTIFICATE OF INSURANCE - GROUP MEDICLAIM (EMPLOYER-EMPLOYEE) POLICY",
+    "insurer_address": "Vindhya Assurance Company Limited, Regional Office: 4th Floor, Utkal Trade Centre, Plot No. 112, Janpath, Kharavela Nagar, Bhubaneswar - 751001, Odisha. CIN: U66010MH2008PLC184562. IRDAI Reg. No. 187",
+    "insured_address": "Kalinga Jalpath Infrastructure Private Limited, Plot No. 27/B, Mancheswar Industrial Estate, Rasulgarh, Bhubaneswar - 751010, Odisha",
+    "extra_rows": [
+      {
+        "label": "Product UIN",
+        "value": "VINHLGP25012V012425"
+      },
+      {
+        "label": "Insurer GSTIN",
+        "value": "21AABCV4821K1Z7"
+      },
+      {
+        "label": "Policyholder GSTIN",
+        "value": "21AAGCK7359M1ZQ"
+      },
+      {
+        "label": "Number of Insured Lives (Employees and Dependants)",
+        "value": "312"
+      },
+      {
+        "label": "CGST @ 9%",
+        "value": "₹61,605.00"
+      },
+      {
+        "label": "SGST @ 9%",
+        "value": "₹61,605.00"
+      },
+      {
+        "label": "Total Premium Payable (incl. GST)",
+        "value": "₹8,07,710.00"
+      },
+      {
+        "label": "Broker Code / Receipt No.",
+        "value": "BRK-OD-00463 / RCPT/BBS/25/118204"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Scope of Cover",
+        "body": "This certificate evidences that the Group Mediclaim Policy has been issued to the Policyholder named in the Schedule for the benefit of its permanent employees engaged in water-supply pipeline laying, pumping station and maintenance works, together with their declared spouses, up to two dependent children and dependent parents, as per the member data furnished at inception. Cover is on an individual sum insured basis per family as stated in the enrolment list, the aggregate of which appears in the Schedule."
+      },
+      {
+        "heading": "Key Benefits",
+        "body": "In-patient hospitalisation for a minimum of 24 hours; 182 listed day-care procedures; pre-hospitalisation expenses for 30 days and post-hospitalisation expenses for 60 days; road ambulance charges up to Rs. 2,000 per hospitalisation; maternity benefit for the first two live births with 9-month waiting period waived; pre-existing diseases covered from day one; room rent limited to 1% of family sum insured per day for normal rooms and 2% for ICU. AYUSH treatment covered in Government-recognised hospitals."
+      },
+      {
+        "heading": "Claims Procedure",
+        "body": "Cashless facility is available at network hospitals through the in-house Health Administration Team of the Insurer. Members must present the e-card and photo identity at the hospital desk. For planned admissions, intimation must be given at least 48 hours in advance; for emergencies, within 24 hours of admission on toll-free number 1800-419-7726. Reimbursement claims must be submitted with original documents within 30 days of discharge."
+      },
+      {
+        "heading": "Additions and Deletions",
+        "body": "New joiners and newly-wed spouses may be added mid-term on pro-rata premium within 30 days of joining or marriage. Deletions of employees leaving service will be effected with pro-rata refund provided no claim has been reported for that member. Endorsements are to be requested through the appointed insurance broker."
+      },
+      {
+        "heading": "Grievance Redressal",
+        "body": "For any grievance, contact the Grievance Officer, Vindhya Assurance Company Limited, Bhubaneswar Regional Office, at grievance.bbs@vindhyaassurance.example. If unresolved within 15 days, the policyholder may approach the Insurance Ombudsman, Bhubaneswar, or register on the Bima Bharosa portal of IRDAI. This certificate is subject to the terms, conditions and exclusions of the Master Policy, which shall prevail in case of any conflict. Stamp duty of Rs. 0.50 paid by consolidated stamp duty order under Indian Stamp Act, 1899."
+      }
+    ],
+    "signatory": "For and on behalf of Vindhya Assurance Company Limited - Authorised Signatory, Health Underwriting, Bhubaneswar Regional Office"
+  }
+}

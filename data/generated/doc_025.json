@@ -1,0 +1,118 @@
+{
+  "plan": {
+    "doc_id": "doc_025",
+    "document_type": "surety_bond",
+    "layout": "prose_deed",
+    "amount_style": "lakh_crore",
+    "date_style": "dmy_dash",
+    "insurer": "Sahyadri General Insurance Company Limited",
+    "party_hint": "family-run jewellery business in Surat",
+    "omit": [
+      "premium",
+      "gst_amount"
+    ]
+  },
+  "request_id": "req_011CgyrPvRpUkXCxpnBbA5ez",
+  "generated": {
+    "truth": {
+      "insured_name": "Kantilal Popatlal Zaveri & Sons",
+      "insurer_name": "Sahyadri General Insurance Company Limited",
+      "policy_or_bond_number": "SGI/SB/2025/0047812",
+      "document_type": "surety_bond",
+      "sum_insured": 5000000.0,
+      "premium": null,
+      "gst_amount": null,
+      "period_start": "2025-07-15",
+      "period_end": "2026-07-14",
+      "beneficiary": "Gujarat Bullion and Hallmarking Development Corporation Limited"
+    },
+    "displayed": {
+      "insured_name": {
+        "label": "Principal",
+        "text": "Kantilal Popatlal Zaveri & Sons"
+      },
+      "insurer_name": {
+        "label": "Surety",
+        "text": "Sahyadri General Insurance Company Limited"
+      },
+      "policy_or_bond_number": {
+        "label": "Bond No.",
+        "text": "SGI/SB/2025/0047812"
+      },
+      "sum_insured": {
+        "label": "Bond Amount",
+        "text": "₹ 50 Lakhs"
+      },
+      "premium": null,
+      "gst_amount": null,
+      "period_start": {
+        "label": "Bond Period - From",
+        "text": "15-07-2025"
+      },
+      "period_end": {
+        "label": "Bond Period - To",
+        "text": "14-07-2026"
+      },
+      "beneficiary": {
+        "label": "Obligee",
+        "text": "Gujarat Bullion and Hallmarking Development Corporation Limited"
+      }
+    },
+    "title": "CONTRACT PERFORMANCE SURETY BOND (Issued under the IRDAI (Surety Insurance Contracts) Guidelines)",
+    "insurer_address": "Sahyadri House, 14 Senapati Bapat Marg, Shivajinagar, Pune, Maharashtra 411016",
+    "insured_address": "G-12, Shreeji Arcade, Mahidharpura Hira Bazar, Surat, Gujarat 395003",
+    "extra_rows": [
+      {
+        "label": "GSTIN of Principal",
+        "value": "24AAKFK4471M1Z8"
+      },
+      {
+        "label": "GSTIN of Surety (Gujarat)",
+        "value": "24AAJCS9082Q1ZD"
+      },
+      {
+        "label": "Product UIN",
+        "value": "IRDAN167CP0019V01202425"
+      },
+      {
+        "label": "Intermediary Code",
+        "value": "BRK-GJ-004517 (Navkar Insurance Brokers Pvt. Ltd.)"
+      },
+      {
+        "label": "Underlying Contract Value",
+        "value": "Rs. 2.5 Crore"
+      },
+      {
+        "label": "Stamp Duty Paid (Gujarat)",
+        "value": "Rs. 500"
+      },
+      {
+        "label": "Tender / Work Order Ref.",
+        "value": "GBHDC/HM/WO/2025-26/118 dated 02-07-2025"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Preamble",
+        "body": "KNOW ALL PERSONS BY THESE PRESENTS that we, Kantilal Popatlal Zaveri & Sons, a family-owned partnership firm engaged in the manufacture and trade of gold and diamond jewellery, having its principal place of business at G-12, Shreeji Arcade, Mahidharpura Hira Bazar, Surat, Gujarat 395003 (hereinafter called the Principal), and Sahyadri General Insurance Company Limited, a company incorporated under the Companies Act, 2013 and registered with the Insurance Regulatory and Development Authority of India, having its registered office at Sahyadri House, 14 Senapati Bapat Marg, Shivajinagar, Pune 411016 (hereinafter called the Surety), are held and firmly bound unto Gujarat Bullion and Hallmarking Development Corporation Limited, Udhna Darwaja, Ring Road, Surat 395002 (hereinafter called the Obligee), in the sum of ₹ 50 Lakhs (Rupees Fifty Lakhs only), for the payment of which sum well and truly to be made, the Principal and the Surety bind themselves, their successors and assigns, jointly and severally, firmly by these presents. This instrument is registered as Bond No. SGI/SB/2025/0047812."
+      },
+      {
+        "heading": "Recitals",
+        "body": "WHEREAS the Obligee, by Work Order No. GBHDC/HM/WO/2025-26/118 dated 02-07-2025, has awarded to the Principal a contract for the supply, assaying support and hallmark-ready finishing of gold jewellery articles for the Obligee's retail outlets, of an aggregate contract value of Rs. 2.5 Crore; AND WHEREAS a condition of the said Work Order requires the Principal to furnish a performance security in favour of the Obligee in the form of a surety bond issued by an insurer registered with IRDAI; AND WHEREAS the Surety has, at the request of the Principal and upon the Principal executing a counter-indemnity in favour of the Surety, agreed to issue this bond."
+      },
+      {
+        "heading": "Condition of the Obligation",
+        "body": "NOW THE CONDITION of the above obligation is such that if the Principal shall well and truly perform and fulfil all the undertakings, covenants, terms and conditions of the said Work Order during the original term thereof and any extensions granted by the Obligee with notice to the Surety, then this obligation shall be null and void; otherwise it shall remain in full force and effect. The liability of the Surety under this bond shall not exceed ₹ 50 Lakhs in the aggregate. This bond shall be effective from 15-07-2025 and shall remain in force up to and including 14-07-2026, and any claim hereunder must be lodged in writing by the Obligee with the Surety within one month after 14-07-2026, failing which all rights of the Obligee under this bond shall be forfeited."
+      },
+      {
+        "heading": "Invocation and Payment",
+        "body": "Upon receipt of a written demand from the Obligee stating that the Principal has committed a default under the Work Order, accompanied by a copy of the notice of default served on the Principal, the Surety shall, within thirty days, pay to the Obligee the amount demanded, not exceeding the Bond Amount, without reference to any dispute that may be pending between the Principal and the Obligee. Payment by the Surety shall be made to the account of Gujarat Bullion and Hallmarking Development Corporation Limited by electronic transfer only. This bond is governed by the laws of India and the courts at Surat shall have exclusive jurisdiction. Stamp duty of Rs. 500 has been paid under the Gujarat Stamp Act, 1958."
+      },
+      {
+        "heading": "Execution",
+        "body": "IN WITNESS WHEREOF the Principal and the Surety have caused this bond to be executed at Surat on 15-07-2025. Signed for and on behalf of Kantilal Popatlal Zaveri & Sons by its Managing Partner, Shri Hemant Kantilal Zaveri. Signed for and on behalf of Sahyadri General Insurance Company Limited, Surat Branch Office, 3rd Floor, Unique Trade Centre, Majura Gate, Surat 395001, by its Authorised Signatory. Intermediary: Navkar Insurance Brokers Pvt. Ltd., Code BRK-GJ-004517. Product UIN IRDAN167CP0019V01202425."
+      }
+    ],
+    "signatory": "Rashmi V. Deshpande, Chief Manager - Surety Underwriting, for Sahyadri General Insurance Company Limited"
+  }
+}
