@@ -110,14 +110,44 @@ class DocScore:
         return next(r for r in self.fields if r.field == field)
 
 
-def score_field(field: str, truth_value: object, predicted_value: object) -> FieldResult:
-    """Score one field. Truth must normalize cleanly; prediction failures are misses."""
+def _drop_trailing_segment(value: object) -> object:
+    """"Board, Lucknow" -> "Board". Used only by lenient scoring."""
+    return value.rsplit(",", 1)[0] if isinstance(value, str) and "," in value else value
+
+
+def _lenient_name_match(truth_value: object, predicted_value: object) -> bool:
+    """Names also match when one side only adds a trailing ", <place or qualifier>"."""
+    truth_norm = normalize_name(truth_value)
+    return normalize_name(_drop_trailing_segment(predicted_value)) == truth_norm or (
+        normalize_name(_drop_trailing_segment(truth_value)) == normalize_name(predicted_value)
+    )
+
+
+def score_field(field: str, truth_value: object, predicted_value: object, lenient: bool = False) -> FieldResult:
+    """Score one field. Truth must normalize cleanly; prediction failures are misses.
+
+    ``lenient`` (reported separately, never the headline) also accepts a name that differs only by
+    a trailing comma segment, e.g. an obligee printed with its city.
+    """
     truth_norm = normalize_field(field, truth_value)
     try:
         pred_norm = normalize_field(field, predicted_value)
     except ValueError as exc:
         return FieldResult(field, truth_norm, predicted_value, False, error=str(exc))
-    return FieldResult(field, truth_norm, pred_norm, truth_norm == pred_norm)
+    correct = truth_norm == pred_norm
+    if not correct and lenient and field in NAME_FIELDS and truth_norm and pred_norm:
+        correct = _lenient_name_match(truth_value, predicted_value)
+    return FieldResult(field, truth_norm, pred_norm, correct)
+
+
+def wilson_interval(successes: int, n: int, z: float = 1.96) -> tuple[float, float]:
+    """95% Wilson score interval for a proportion - sane at 0/n and n/n, unlike the normal one."""
+    if n == 0:
+        return (0.0, 1.0)
+    p = successes / n
+    centre = (p + z * z / (2 * n)) / (1 + z * z / n)
+    half = z * ((p * (1 - p) / n + z * z / (4 * n * n)) ** 0.5) / (1 + z * z / n)
+    return (max(0.0, centre - half), min(1.0, centre + half))
 
 
 def score_document(
@@ -125,6 +155,7 @@ def score_document(
     truth: Mapping[str, Any],
     predicted: Mapping[str, Any] | None,
     fields: Iterable[str] = FIELD_NAMES,
+    lenient: bool = False,
 ) -> DocScore:
     """Score a whole extraction. ``predicted=None`` means the extraction call failed."""
     field_list = tuple(fields)
@@ -134,7 +165,7 @@ def score_document(
             for f in field_list
         )
         return DocScore(doc_id, results, extraction_failed=True)
-    results = tuple(score_field(f, truth.get(f), predicted.get(f)) for f in field_list)
+    results = tuple(score_field(f, truth.get(f), predicted.get(f), lenient) for f in field_list)
     return DocScore(doc_id, results)
 
 

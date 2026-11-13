@@ -24,7 +24,7 @@ MAX_TOKENS = 16000
 EFFORTS = ("low", "medium", "high", "xhigh", "max")
 # Server-side refusal fallback exists for these; Haiku 5.5 has none. The served model is
 # recorded on every result so a fallback can never silently contaminate a model's score.
-FALLBACK_MODELS = frozenset({"claude-opus-5-5", "claude-sonnet-5-5"})
+FALLBACK_MODELS = frozenset({"claude-fable-5-2", "claude-opus-5-5", "claude-sonnet-5-5"})
 
 SYSTEM_PROMPT = """\
 You extract structured fields from Indian insurance policy documents and surety bonds.

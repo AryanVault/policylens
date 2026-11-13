@@ -1,0 +1,4 @@
+# Only for scripts/make_scanned_set.py (the scanned-style hard set). Note: PyMuPDF is AGPL-licensed.
+-r requirements.txt
+pymupdf==2.1
+pillow==13.0.0

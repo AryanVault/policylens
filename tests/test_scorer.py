@@ -171,3 +171,28 @@ def test_aggregate():
 def test_aggregate_empty():
     summary = aggregate([])
     assert summary.n_docs == 0 and summary.overall_accuracy == 0.0
+
+
+# --------------------------------------------------------------------------- lenient + intervals
+from policylens.scorer import wilson_interval  # noqa: E402
+
+
+def test_lenient_accepts_trailing_city_only_when_asked():
+    truth, pred = "Avadh Civic Works Board", "Avadh Civic Works Board, Lucknow"
+    assert not score_field("beneficiary", truth, pred).correct
+    assert score_field("beneficiary", truth, pred, lenient=True).correct
+    assert score_field("beneficiary", pred, truth, lenient=True).correct
+
+
+def test_lenient_does_not_forgive_a_different_name_or_other_fields():
+    assert not score_field("beneficiary", "Avadh Civic Works Board", "Kashi Civic Works Board, Lucknow",
+                           lenient=True).correct
+    assert not score_field("beneficiary", "Avadh Civic Works Board", None, lenient=True).correct
+    assert not score_field("policy_or_bond_number", "AB/1", "AB/1, X", lenient=True).correct
+
+
+def test_wilson_interval():
+    low, high = wilson_interval(58, 60)
+    assert 0.88 < low < 0.89 and 0.99 < high < 0.995
+    assert wilson_interval(60, 60)[1] == pytest.approx(1.0) and wilson_interval(60, 60)[0] > 0.93
+    assert wilson_interval(0, 0) == (0.0, 1.0)
