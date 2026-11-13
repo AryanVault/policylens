@@ -1,7 +1,8 @@
 """Render a GeneratedDocument to PDF with one of four reportlab layouts.
 
-Fonts are Windows TrueType fonts (embedded in the PDF) because reportlab's built-in
-Helvetica has no rupee sign.
+Fonts are TrueType fonts embedded in the PDF, because reportlab's built-in Helvetica has no
+rupee sign. The dataset was rendered with Windows fonts; elsewhere (e.g. Linux CI) the
+renderer falls back to DejaVu, which also has the rupee sign.
 """
 
 from __future__ import annotations
@@ -29,6 +30,13 @@ FONT_FILES: dict[str, tuple[str, str]] = {
     "Georgia": ("georgia.ttf", "georgiab.ttf"),
     "Verdana": ("verdana.ttf", "verdanab.ttf"),
 }
+FALLBACK_DIRS = (Path("/usr/share/fonts/truetype/dejavu"), Path("/usr/share/fonts/dejavu"))
+FALLBACK_FILES: dict[str, tuple[str, str]] = {
+    "Arial": ("DejaVuSans.ttf", "DejaVuSans-Bold.ttf"),
+    "Verdana": ("DejaVuSans.ttf", "DejaVuSans-Bold.ttf"),
+    "Times": ("DejaVuSerif.ttf", "DejaVuSerif-Bold.ttf"),
+    "Georgia": ("DejaVuSerif.ttf", "DejaVuSerif-Bold.ttf"),
+}
 MARGIN = 18 * mm
 
 
@@ -51,11 +59,23 @@ _registered: set[str] = set()
 def _register(family: str) -> tuple[str, str]:
     regular, bold = f"{family}-Regular", f"{family}-Bold"
     if family not in _registered:
-        reg_file, bold_file = FONT_FILES[family]
-        pdfmetrics.registerFont(TTFont(regular, str(FONT_DIR / reg_file)))
-        pdfmetrics.registerFont(TTFont(bold, str(FONT_DIR / bold_file)))
+        reg_path, bold_path = _font_paths(family)
+        pdfmetrics.registerFont(TTFont(regular, str(reg_path)))
+        pdfmetrics.registerFont(TTFont(bold, str(bold_path)))
         _registered.add(family)
     return regular, bold
+
+
+def _font_paths(family: str) -> tuple[Path, Path]:
+    """The family's Windows font files, else a DejaVu stand-in."""
+    candidates = [(FONT_DIR, FONT_FILES[family])] + [(d, FALLBACK_FILES[family]) for d in FALLBACK_DIRS]
+    for directory, (reg_file, bold_file) in candidates:
+        if (directory / reg_file).is_file() and (directory / bold_file).is_file():
+            return directory / reg_file, directory / bold_file
+    raise FileNotFoundError(
+        f"No TrueType font for {family!r}: looked in {FONT_DIR} and {', '.join(map(str, FALLBACK_DIRS))}. "
+        "Install DejaVu fonts (e.g. apt install fonts-dejavu-core)."
+    )
 
 
 def _styles(look: Look) -> dict[str, ParagraphStyle]:
