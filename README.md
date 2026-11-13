@@ -1,5 +1,7 @@
 # PolicyLens
 
+[![tests](https://github.com/AryanVault/policylens/actions/workflows/tests.yml/badge.svg)](https://github.com/AryanVault/policylens/actions/workflows/tests.yml)
+
 Structured extraction from Indian insurance policy and surety bond PDFs, with an eval harness that
 measures field-level accuracy, cost and latency across Claude models, a non-LLM baseline, and a
 review step that catches the errors model confidence misses.
