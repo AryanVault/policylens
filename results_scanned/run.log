@@ -1,0 +1,222 @@
+﻿Running 110 extraction(s) with 8 workers
+  [1/110] claude-haiku-5-5:low doc_007 10/10 $0.0007 5.9s
+  [2/110] claude-haiku-5-5:low doc_011 9/10 $0.0007 5.8s
+  [3/110] claude-haiku-5-5:low doc_012 10/10 $0.0007 5.7s
+  [4/110] claude-haiku-5-5:low doc_009 10/10 $0.0007 5.9s
+  [5/110] claude-haiku-5-5:low doc_010 10/10 $0.0008 5.8s
+  [6/110] claude-haiku-5-5:low doc_008 10/10 $0.0008 5.9s
+  [7/110] claude-haiku-5-5:low doc_006 10/10 $0.0008 6.0s
+  [8/110] claude-haiku-5-5:low doc_013 10/10 $0.0009 6.5s
+  [9/110] claude-haiku-5-5:low doc_018 10/10 $0.0007 1.9s
+  [10/110] claude-haiku-5-5:low doc_017 10/10 $0.0007 2.2s
+  [11/110] claude-haiku-5-5:low doc_016 9/10 $0.0007 2.7s
+  [12/110] claude-haiku-5-5:low doc_015 10/10 $0.0008 3.3s
+  [13/110] claude-haiku-5-5:low doc_020 9/10 $0.0009 3.6s
+  [14/110] claude-haiku-5-5:low doc_019 10/10 $0.0008 3.8s
+  [15/110] claude-haiku-5-5:low doc_021 10/10 $0.0008 3.3s
+  [16/110] claude-haiku-5-5:low doc_023 10/10 $0.0007 1.8s
+  [17/110] claude-haiku-5-5:low doc_022 10/10 $0.0007 2.5s
+  [18/110] claude-haiku-5-5:low doc_014 10/10 $0.0009 4.7s
+  [19/110] claude-haiku-5-5:low doc_024 10/10 $0.0007 2.4s
+  [20/110] claude-haiku-5-5:low doc_025 10/10 $0.0007 2.0s
+  [21/110] claude-haiku-5-5:low doc_026 10/10 $0.0007 2.0s
+  [22/110] claude-haiku-5-5:low doc_031 10/10 $0.0007 1.9s
+  [23/110] claude-haiku-5-5:low doc_028 9/10 $0.0007 2.6s
+  [24/110] claude-haiku-5-5:low doc_032 10/10 $0.0007 2.2s
+  [25/110] claude-haiku-5-5:low doc_033 10/10 $0.0007 2.3s
+  [26/110] claude-haiku-5-5:low doc_027 10/10 $0.0008 3.7s
+  [27/110] claude-haiku-5-5:low doc_030 10/10 $0.0009 3.4s
+  [28/110] claude-haiku-5-5:low doc_029 10/10 $0.0009 4.2s
+  [29/110] claude-haiku-5-5:low doc_035 10/10 $0.0008 3.2s
+  [30/110] claude-haiku-5-5:low doc_039 10/10 $0.0007 2.1s
+  [31/110] claude-haiku-5-5:low doc_038 10/10 $0.0008 3.1s
+  [32/110] claude-haiku-5-5:low doc_034 9/10 $0.0009 4.9s
+  [33/110] claude-haiku-5-5:low doc_041 10/10 $0.0007 2.6s
+  [34/110] claude-haiku-5-5:low doc_040 10/10 $0.0008 3.2s
+  [35/110] claude-haiku-5-5:low doc_037 9/10 $0.0009 3.8s
+  [36/110] claude-haiku-5-5:low doc_043 9/10 $0.0007 2.0s
+  [37/110] claude-haiku-5-5:low doc_042 10/10 $0.0008 2.9s
+  [38/110] claude-haiku-5-5:low doc_045 9/10 $0.0005 1.9s
+  [39/110] claude-haiku-5-5:low doc_044 10/10 $0.0007 2.1s
+  [40/110] claude-haiku-5-5:low doc_047 10/10 $0.0007 2.2s
+  [41/110] claude-haiku-5-5:low doc_036 10/10 $0.0007 7.0s
+  [42/110] claude-haiku-5-5:low doc_046 10/10 $0.0008 3.2s
+  [43/110] claude-haiku-5-5:low doc_049 10/10 $0.0007 3.2s
+  [44/110] claude-haiku-5-5:low doc_051 10/10 $0.0007 2.5s
+  [45/110] claude-haiku-5-5:low doc_048 10/10 $0.0008 4.7s
+  [46/110] claude-haiku-5-5:low doc_053 10/10 $0.0007 3.0s
+  [47/110] claude-haiku-5-5:low doc_050 10/10 $0.0008 4.1s
+  [48/110] claude-haiku-5-5:low doc_052 9/10 $0.0009 4.0s
+  [49/110] claude-haiku-5-5:low doc_055 10/10 $0.0005 2.4s
+  [50/110] claude-haiku-5-5:low doc_054 10/10 $0.0008 4.7s
+  [51/110] claude-haiku-5-5:low doc_057 10/10 $0.0007 4.8s
+  [52/110] claude-haiku-5-5:low doc_059 10/10 $0.0007 3.7s
+  [53/110] claude-opus-5-5:low doc_006 10/10 $0.0268 3.8s
+  [54/110] claude-haiku-5-5:low doc_056 9/10 $0.0007 6.5s
+  [55/110] claude-haiku-5-5:low doc_060 10/10 $0.0009 4.9s
+  [56/110] claude-haiku-5-5:low doc_058 10/10 $0.0007 5.7s
+  [57/110] claude-opus-5-5:low doc_009 10/10 $0.0273 3.9s
+  [58/110] claude-opus-5-5:low doc_007 10/10 $0.0271 7.4s
+  [59/110] claude-opus-5-5:low doc_010 10/10 $0.0269 5.0s
+  [60/110] claude-opus-5-5:low doc_011 10/10 $0.0268 4.3s
+  [61/110] claude-opus-5-5:low doc_008 10/10 $0.0268 6.9s
+  [62/110] claude-opus-5-5:low doc_014 10/10 $0.0268 3.7s
+  [63/110] claude-opus-5-5:low doc_012 10/10 $0.0273 4.6s
+  [64/110] claude-opus-5-5:low doc_013 10/10 $0.0291 5.2s
+  [65/110] claude-opus-5-5:low doc_015 10/10 $0.0271 4.0s
+  [66/110] claude-opus-5-5:low doc_016 10/10 $0.0270 3.8s
+  [67/110] claude-opus-5-5:low doc_017 10/10 $0.0276 3.4s
+  [68/110] claude-opus-5-5:low doc_018 10/10 $0.0269 3.4s
+  [69/110] claude-opus-5-5:low doc_019 10/10 $0.0270 3.4s
+  [70/110] claude-opus-5-5:low doc_020 10/10 $0.0273 3.1s
+  [71/110] claude-opus-5-5:low doc_021 10/10 $0.0268 3.3s
+  [72/110] claude-opus-5-5:low doc_022 10/10 $0.0267 3.2s
+  [73/110] claude-opus-5-5:low doc_023 10/10 $0.0273 2.9s
+  [74/110] claude-opus-5-5:low doc_027 10/10 $0.0269 3.2s
+  [75/110] claude-opus-5-5:low doc_024 10/10 $0.0270 3.9s
+  [76/110] claude-opus-5-5:low doc_025 10/10 $0.0273 3.9s
+  [77/110] claude-opus-5-5:low doc_028 9/10 $0.0272 3.5s
+  [78/110] claude-opus-5-5:low doc_030 10/10 $0.0269 3.4s
+  [79/110] claude-opus-5-5:low doc_026 10/10 $0.0268 4.9s
+  [80/110] claude-opus-5-5:low doc_029 10/10 $0.0270 4.0s
+  [81/110] claude-opus-5-5:low doc_031 10/10 $0.0274 3.2s
+  [82/110] claude-opus-5-5:low doc_032 10/10 $0.0268 4.4s
+  [83/110] claude-opus-5-5:low doc_034 10/10 $0.0268 3.9s
+  [84/110] claude-opus-5-5:low doc_036 10/10 $0.0273 3.7s
+  [85/110] claude-opus-5-5:low doc_037 10/10 $0.0268 3.8s
+  [86/110] claude-opus-5-5:low doc_033 10/10 $0.0272 5.1s
+  [87/110] claude-opus-5-5:low doc_035 10/10 $0.0268 4.3s
+  [88/110] claude-opus-5-5:low doc_038 10/10 $0.0269 3.9s
+  [89/110] claude-opus-5-5:low doc_039 10/10 $0.0272 3.8s
+  [90/110] claude-opus-5-5:low doc_043 10/10 $0.0269 2.9s
+  [91/110] claude-opus-5-5:low doc_041 10/10 $0.0273 3.6s
+  [92/110] claude-opus-5-5:low doc_042 10/10 $0.0268 3.3s
+  [93/110] claude-opus-5-5:low doc_040 10/10 $0.0271 4.3s
+  [94/110] claude-opus-5-5:low doc_044 10/10 $0.0273 3.3s
+  [95/110] claude-opus-5-5:low doc_047 10/10 $0.0272 3.1s
+  [96/110] claude-opus-5-5:low doc_045 10/10 $0.0205 3.6s
+  [97/110] claude-opus-5-5:low doc_046 10/10 $0.0267 3.5s
+  [98/110] claude-opus-5-5:low doc_048 10/10 $0.0265 3.3s
+  [99/110] claude-opus-5-5:low doc_050 10/10 $0.0269 3.2s
+  [100/110] claude-opus-5-5:low doc_049 10/10 $0.0273 3.5s
+  [101/110] claude-opus-5-5:low doc_051 10/10 $0.0271 3.6s
+  [102/110] claude-opus-5-5:low doc_053 10/10 $0.0270 3.4s
+  [103/110] claude-opus-5-5:low doc_054 10/10 $0.0268 3.2s
+  [104/110] claude-opus-5-5:low doc_052 9/10 $0.0275 3.8s
+  [105/110] claude-opus-5-5:low doc_055 10/10 $0.0209 3.6s
+  [106/110] claude-opus-5-5:low doc_056 10/10 $0.0267 3.0s
+  [107/110] claude-opus-5-5:low doc_057 10/10 $0.0207 3.0s
+  [108/110] claude-opus-5-5:low doc_058 10/10 $0.0271 3.7s
+  [109/110] claude-opus-5-5:low doc_060 10/10 $0.0272 3.9s
+  [110/110] claude-opus-5-5:low doc_059 10/10 $0.0269 4.7s
+
+# PolicyLens extraction eval
+
+Exact match per field after normalization (amounts to paise, dates to ISO, names case/punctuation/suffix-insensitive). Null vs null counts as correct. Rows with fewer than 60 docs were stopped by a deadline and cover the first docs only.
+
+| Config | Docs | Overall field accuracy | All-fields-correct docs | 95% CI (all-correct) | Failures | Cost/doc | Mean latency | p95 latency | Projected cost (60 docs) |
+|---|---|---|---|---|---|---|---|---|---|
+| claude-haiku-5-5:low | 60 | 98.3% | 83.3% | 72%-91% | 0 | $0.0007 | 3.9s | 6.5s | $0.04 |
+| claude-opus-5-5:low | 60 | 99.7% | 96.7% | 89%-99% | 0 | $0.0267 | 4.0s | 6.7s | $1.60 |
+
+**Projected cost of all configs on 60 docs: $1.65** (actually spent in this results folder, including retries: $1.65)
+
+Per-field accuracy:
+
+| Field | claude-haiku-5-5:low | claude-opus-5-5:low |
+|---|---|---|
+| insured_name | 97% | 100% |
+| insurer_name | 100% | 100% |
+| policy_or_bond_number | 95% | 98% |
+| document_type | 100% | 100% |
+| sum_insured | 93% | 100% |
+| premium | 100% | 100% |
+| gst_amount | 100% | 100% |
+| period_start | 100% | 100% |
+| period_end | 100% | 100% |
+| beneficiary | 98% | 98% |
+
+The 95% interval is a Wilson score interval on all-fields-correct documents. Overlapping intervals mean the data cannot separate those configs.
+
+## Excluding the 3 smoke-test documents
+
+The extraction prompt was corrected after a smoke test on doc_001, doc_002, doc_003, so those documents influenced the prompt they are scored with. Scores on the remaining documents:
+
+| Config | Docs | Field accuracy | All-fields-correct docs | 95% CI |
+|---|---|---|---|---|
+| claude-haiku-5-5:low | 57 | 98.2% | 82.5% | 71%-90% |
+| claude-opus-5-5:low | 57 | 99.6% | 96.5% | 88%-99% |
+
+## Strict vs lenient scoring
+
+Strict is the headline. Lenient additionally accepts a name that differs only by a trailing comma segment (e.g. an obligee printed with its city). It changes nothing else.
+
+| Config | Strict field acc. | Lenient field acc. | Strict all-correct | Lenient all-correct |
+|---|---|---|---|---|
+| claude-haiku-5-5:low | 98.3% | 98.3% | 83.3% | 83.3% |
+| claude-opus-5-5:low | 99.7% | 99.7% | 96.7% | 96.7% |
+
+Misses that lenient scoring forgives: none.
+
+## Human-review flag
+
+A document is routed to a person if any field's confidence is below 0.80, GST is not 18% of the premium (±₹1) or is present without a premium, the end date is not after the start date, or extraction failed. The flag sees only the model's output, never the truth. Catches are counted per document: a flagged document gets every field checked by a person.
+
+| Config | Docs | Flagged | Docs with errors | Errored docs caught | Field errors caught | False alarms (flagged, no error) |
+|---|---|---|---|---|---|---|
+| claude-haiku-5-5:low | 60 | 6 (10%) | 10 | 3/10 | 3/10 | 3 |
+| claude-opus-5-5:low | 60 | 3 (5%) | 2 | 1/2 | 1/2 | 2 |
+| **all configs** | 120 | 9 (8%) | 12 | 4/12 | 4/12 | 5 |
+
+### With the amount-grounding rule
+
+Same flag plus one rule added after the first eval (`policylens/grounding.py`): every extracted amount must be printed somewhere in the PDF's text layer, as figures or in words. It reads the document, never the answer key, and has no threshold to tune.
+
+| Config | Docs | Flagged | Docs with errors | Errored docs caught | Field errors caught | False alarms (flagged, no error) |
+|---|---|---|---|---|---|---|
+| claude-haiku-5-5:low | 60 | 6 (10%) | 10 | 3/10 | 3/10 | 3 |
+| claude-opus-5-5:low | 60 | 3 (5%) | 2 | 1/2 | 1/2 | 2 |
+| **all configs** | 120 | 9 (8%) | 12 | 4/12 | 4/12 | 5 |
+
+Confidence-threshold sweep (all configs pooled; 0.80 is the default, fixed before looking at results):
+
+| Threshold | Flagged docs | Errored docs caught | Field errors caught | False alarms |
+|---|---|---|---|---|
+| 0.50 | 0/120 | 0/12 | 0/12 | 0 |
+| 0.70 | 6/120 | 2/12 | 2/12 | 4 |
+| 0.80 | 9/120 | 4/12 | 4/12 | 5 |
+| 0.90 | 62/120 | 11/12 | 11/12 | 51 |
+| 0.95 | 107/120 | 12/12 | 12/12 | 95 |
+| 0.99 | 120/120 | 12/12 | 12/12 | 108 |
+
+Rules that fired at 0.80 (documents, all configs pooled): low_confidence: 9.
+
+### Stress test: does the grounding rule generalize beyond the two errors it was built after?
+
+Every true amount in the 60 documents was corrupted in each way below and passed to the rule. A miss means the corrupted number happens to be printed elsewhere in the same document (e.g. a sub-limit).
+
+| Corruption | Cases | Caught | Rate |
+|---|---|---|---|
+| x10 (extra zero) | 152 | 0 | 0.0% |
+| /10 (dropped zero) | 152 | 0 | 0.0% |
+| x100 (lakh read as crore-scale) | 152 | 0 | 0.0% |
+| /100 | 152 | 0 | 0.0% |
+| two adjacent digits swapped | 152 | 0 | 0.0% |
+| off by one rupee | 152 | 0 | 0.0% |
+
+## Every miss
+
+| Config | Doc | Field | Truth | Predicted | Confidence | Flagged at 0.80 (with grounding)? |
+|---|---|---|---|---|---|---|
+| claude-haiku-5-5:low | doc_011 | insured_name | Konkan Chemtrade Imports Private Limited | Konkan Chamitrade Imports Private Limited | 0.90 | no |
+| claude-haiku-5-5:low | doc_016 | sum_insured | 50000000.0 | 500000000.0 | 0.93 | no |
+| claude-haiku-5-5:low | doc_020 | policy_or_bond_number | KAC/SB/PB/2025/004718 | KAC/SB/PR/2025/004718 | 0.80 | no |
+| claude-haiku-5-5:low | doc_028 | policy_or_bond_number | KGI/SB/PB/2025/0047821 | KGI/SB/P3/2025/0047821 | 0.70 | low_confidence:policy_or_bond_number |
+| claude-haiku-5-5:low | doc_034 | policy_or_bond_number | AGI/32/FIR/BLUS/2025/004817 | ASI/32/FIR/BLUS/2025/004817 | 0.60 | low_confidence:policy_or_bond_number |
+| claude-haiku-5-5:low | doc_037 | sum_insured | 200000000.0 | 2000000000.0 | 0.70 | low_confidence:sum_insured |
+| claude-haiku-5-5:low | doc_043 | insured_name | Shivranjani Food Processors Pvt. Ltd. | Shivanjani Food Processors Pvt. Ltd. | 0.80 | no |
+| claude-haiku-5-5:low | doc_045 | sum_insured | 185000000.0 | 18500000.0 | 0.90 | no |
+| claude-haiku-5-5:low | doc_052 | beneficiary | Avadh Metropolitan Drainage & Civic Works Board | Awadh Metropolitan Drainage & Civic Works Board, Lucknow | 0.80 | no |
+| claude-haiku-5-5:low | doc_056 | sum_insured | 50000000.0 | 500000000.0 | 0.90 | no |
+| claude-opus-5-5:low | doc_028 | policy_or_bond_number | KGI/SB/PB/2025/0047821 | KGI/SB/KB/2025/0047821 | 0.60 | low_confidence:policy_or_bond_number |
+| claude-opus-5-5:low | doc_052 | beneficiary | Avadh Metropolitan Drainage & Civic Works Board | Awadh Metropolitan Drainage & Civic Works Board, Lucknow | 0.85 | no |

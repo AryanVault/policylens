@@ -17,8 +17,13 @@ review step that catches the errors model confidence misses.
   12 errors. The most dangerous one, a sum insured read 10x too high, came with confidence 0.97.
 - **A deterministic check catches what confidence misses.** Requiring every extracted amount to be
   printed in the document caught both 10x errors and added zero false alarms across 420 extractions, and
-  97-100% of deliberately corrupted amounts in a stress test. It needs a text layer, so scanned
-  documents are the open problem: a scanned-style test set is built, and evaluating it is next.
+  97-100% of deliberately corrupted amounts in a stress test. It needs a text layer.
+- **On scans, the cheap model stops being enough.** On image-only copies of the same 60 documents
+  (skewed, stamped, blurred, JPEG-compressed), Opus barely moved (98.3% to 96.7% of documents fully
+  correct) but Haiku fell from 96.7% to 83.3%, and four of its ten misses were the sum insured read
+  10x off, three of them at confidence 0.90 or higher. With no text layer the grounding check is
+  blind. Flagging documents where Haiku and Opus disagree caught 9 of Haiku's 10 errors with no
+  false alarms.
 
 ```
 python -m policylens                 # demo mode: saved results, no API key needed
@@ -70,9 +75,37 @@ points. The best and worst model rows are two errors apart and every model inter
 numbers say "all of these models extract clean digital documents very well", not "model X beats
 model Y". What differs is *which* errors each model made (below) and cost, which spans 70x.
 
-**What I would ship from this evidence:** Haiku 5.5 at low effort ($0.05 per 60 documents) with the
-amount-grounding check routing any unprinted amount to a person. Neither medium effort nor Fable
-5.2 bought anything on this task. Before trusting it on real intake, run the scanned set (below).
+**On scanned-style documents** (`scripts/make_scanned_set.py`: the same 60 documents rasterized at
+150 DPI with no text layer, skewed up to 2.5 degrees, stamped, blurred, noised and JPEG-compressed;
+same answer keys). Full report: [`results_scanned/summary.md`](results_scanned/summary.md).
+
+| Extractor | Field accuracy | All 10 fields correct | 95% CI | vs clean PDFs | Cost / doc | Mean latency |
+|---|---|---|---|---|---|---|
+| claude-haiku-5-5, low effort | 98.3% | 83.3% | 72-91% | 96.7% | $0.0007 | 3.9s |
+| claude-opus-5-5, low effort | 99.7% | 96.7% | 89-99% | 98.3% | $0.0267 | 4.0s |
+
+Haiku's ten misses on scans were all new except doc_052 (point 4 below). Four were the sum insured
+off by 10x: "₹5,00,00,000.00" read as ₹50 crore (twice), "Rs. 20,00,00,000/-" as ₹200 crore, and
+"₹ 18.5 Crore" as ₹1.85 crore. The rest were OCR-style letter swaps in names and bond numbers
+("Chemtrade" as "Chamitrade", "PB" as "PR"/"P3", "AGI" as "ASI"). Opus read 8 of those 10 fields
+correctly from the same images, so the damage was mostly readable. Its one new error was on the
+same field Haiku also missed, doc_028's bond number, read differently ("PB" as "KB", at confidence
+0.60). Scans were cheaper per document than the clean PDFs (about
+5,300 vs 6,860 input tokens) because there is no text layer to send.
+
+Without a text layer the grounding check has nothing to compare against, and confidence caught
+only 3 of Haiku's 10 errors (1 of the 4 amount errors). A cross-model check does better: flagging
+any document where Haiku and Opus disagree on a field sent 9 of 60 documents to review, caught 9 of
+Haiku's 10 errors, and flagged no document Haiku got fully right. The tenth is doc_052, where both
+models agree with each other and not with the answer key. This was measured on saved results after
+the run, not designed in advance.
+
+**What I would ship from this evidence:** for born-digital PDFs, Haiku 5.5 at low effort ($0.05 per
+60 documents) with the amount-grounding check routing any unprinted amount to a person. For scans,
+Opus 5.5 at low effort ($0.027 per document), with OCR text added so the grounding check works
+again. A Haiku second opinion costs $0.0007 per document; here it flagged Opus's only scan-induced
+error (doc_028), though one error is too few to measure how well it works in that direction. Neither
+medium effort nor Fable 5.2 bought anything on this task.
 
 ### What demo mode shows
 
@@ -151,7 +184,8 @@ python scripts/run_eval.py --summary-only --out results --n 60 --configs \
     claude-opus-5-5:low claude-opus-5-5:medium claude-fable-5-2:low     # rebuild summary.md, no key
 ```
 
-**Live mode** calls the API and runs only when `ANTHROPIC_API_KEY` is set:
+**Live mode** calls the API and runs only when `ANTHROPIC_API_KEY` (or, if that is unset,
+`ANTHROPIC_API_KEY_PAYG`) is set:
 
 ```bash
 python -m policylens --live --doc doc_034 --model claude-haiku-5-5 --effort low
@@ -164,7 +198,7 @@ Smoke-test with a few documents first: both scripts print cost per document and 
 cost for 60. `run_eval.py` is resumable (saved documents are skipped) and accepts
 `--deadline HH:MM` to stop starting new requests.
 
-**The scanned-style hard set** (built, not yet evaluated; about $2-3 for Haiku and Opus):
+**The scanned-style hard set** ($1.65 for Haiku and Opus on all 60):
 
 ```bash
 pip install -r requirements-scans.txt
@@ -241,9 +275,10 @@ Haiku 98.3% of documents fully correct; both are in `results/summary.md`.
 
 **5. The test set is easier than real documents.** These are clean, one- to two-page PDFs with a
 text layer, rendered from fonts. Real documents arrive scanned, stamped, signed over, rotated,
-multi-page with schedules split across pages, or as photographs. The scanned-style set
-(`scripts/make_scanned_set.py`) is the first step towards measuring that; it has not been run yet,
-and the grounding check does nothing on it until OCR text is added.
+multi-page with schedules split across pages, or as photographs. The scanned-style set is a first
+step and it already separated the models (Haiku 83% vs Opus 97% of documents fully correct), but
+its damage is synthetic and uniform: no handwriting, signatures over text, folds, photographs or
+multi-page schedules. The grounding check does nothing on it until OCR text is added.
 
 **6. Same-family bias.** Claude Opus 5.5 wrote every document and Claude models extracted them.
 Phrasing and layout choices a Claude model finds natural may also be easy for Claude models to
@@ -269,7 +304,8 @@ spend the extra budget; the effort comparison would need harder documents to be 
 | Smoke tests (2 rounds of 3 docs x 4 configs; the prompt fix happened between them) | 24 | $0.51 |
 | Eval runs (5 configs + 2 Haiku repeats, 60 docs each) | 420 | $9.02 |
 | Baseline, grounding check, stress test, scanned-set generation | 0 | $0 |
-| **Total** | **504** | **$13.76** |
+| Scanned-set eval (Haiku and Opus, low effort, 60 docs each) | 120 | $1.65 |
+| **Total** | **624** | **$15.41** |
 
 Prices are Anthropic first-party list prices as of November 2026 (Opus 5.5 $4/$20, Sonnet 5.5
 $2/$10, Haiku 5.5 $0.10/$0.50, Fable 5.2 $8/$40 per million input/output tokens). Each document
@@ -301,6 +337,7 @@ scripts/
   make_scanned_set.py   build the scanned-style hard set (data/docs_scanned, not committed)
 data/      docs/*.pdf, truth/*.json, generated/*.json (full generator output per document)
 results/   <model>__<effort>[__run].jsonl, rule-baseline__none.jsonl, summary.md, run logs, smoke/
+results_scanned/  the same for the scanned-style set (Haiku and Opus)
 tests/     185 tests; none call the API
 ```
 
