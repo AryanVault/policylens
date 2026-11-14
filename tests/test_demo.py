@@ -6,6 +6,7 @@ from policylens import demo, llm
 @pytest.fixture(autouse=True)
 def no_api_key(monkeypatch):
     monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    monkeypatch.delenv("ANTHROPIC_API_KEY_PAYG", raising=False)
 
 
 def test_demo_is_default_and_needs_no_key(capsys):
@@ -42,5 +43,5 @@ def test_pdf_without_live_is_rejected():
 
 
 def test_make_client_refuses_without_key():
-    with pytest.raises(SystemExit, match="ANTHROPIC_API_KEY is not set"):
+    with pytest.raises(SystemExit, match=r"ANTHROPIC_API_KEY \(or ANTHROPIC_API_KEY_PAYG\) is not set"):
         llm.make_client()

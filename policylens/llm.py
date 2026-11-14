@@ -15,6 +15,9 @@ import os
 import anthropic
 
 KEY_ENV_VAR = "ANTHROPIC_API_KEY"
+# Used only when ANTHROPIC_API_KEY is unset - lets a machine keep a pay-as-you-go key under its own
+# name without exporting ANTHROPIC_API_KEY (which other tools, e.g. Claude Code, also read).
+FALLBACK_KEY_ENV_VAR = "ANTHROPIC_API_KEY_PAYG"
 REQUEST_TIMEOUT_S = 600.0
 MAX_RETRIES = 3
 
@@ -23,8 +26,8 @@ FALLBACK_BETA = "server-side-fallback-2026-07-01"
 
 
 def make_client() -> anthropic.Anthropic:
-    key = os.environ.get(KEY_ENV_VAR)
+    key = os.environ.get(KEY_ENV_VAR) or os.environ.get(FALLBACK_KEY_ENV_VAR)
     if not key:
-        raise SystemExit(f"{KEY_ENV_VAR} is not set. Live API calls need it; "
+        raise SystemExit(f"{KEY_ENV_VAR} (or {FALLBACK_KEY_ENV_VAR}) is not set. Live API calls need it; "
                          "to browse saved results without a key run: python -m policylens")
     return anthropic.Anthropic(api_key=key, timeout=REQUEST_TIMEOUT_S, max_retries=MAX_RETRIES)
